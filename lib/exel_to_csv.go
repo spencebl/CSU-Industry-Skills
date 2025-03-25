@@ -12,7 +12,10 @@ import (
 func main() {
 	codes := make(map[string][]string)
 	columnIndex := 1
-	f, err := excelize.OpenFile("../csu-codes/all-csu-codes.xlsx")
+
+	f, err := excelize.OpenFile("../industry-codes/all-industry-codes.xlsx")
+	// f, err := excelize.OpenFile("../csu-codes/all-csu-codes.xlsx")
+
 	if err != nil {
 		log.Fatalf("Error opening file: %v", err)
 	}
@@ -33,25 +36,28 @@ func main() {
 			}
 		}
 	}
-	delete(codes, "Spencer Baloga Loufek")
-	delete(codes, "03-24-25")
-	delete(codes, "Masters Project")
-	delete(codes, "CS152 - Modules.")
+	// delete(codes, "Spencer Baloga Loufek")
+	// delete(codes, "03-24-25")
+	// delete(codes, "Masters Project")
+	// delete(codes, "CS152 - Modules.")
 
 	// for key, value := range codes {
 	// 	fmt.Printf("%s: %d\n", key, len(value))
 	// }
-	file, err := os.Create("../csu-codes/all-csu-codes.csv")
+	file, err := os.Create("../industry-codes/all-industry-codes.csv")
+	// file, err := os.Create("../csu-codes/all-csu-codes.csv")
 	if err != nil {
 		log.Fatalf("Error creating file: %v", err)
 	}
 	defer file.Close()
 
 	writer := csv.NewWriter(file)
+	writer.Comma = '|'
 	defer writer.Flush()
 
 	for key, values := range codes {
-		row := append([]string{key}, values...)
+		row := []string{key, ""}
+		row = append(row, values...)
 		if err := writer.Write(row); err != nil {
 			log.Fatalf("Error writing row to CSV: %v", err)
 		}
