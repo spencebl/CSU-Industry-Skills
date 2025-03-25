@@ -54,14 +54,27 @@ func main() {
 	writer := csv.NewWriter(file)
 	writer.Comma = '|'
 	defer writer.Flush()
-
 	for key, values := range codes {
-		row := []string{key, ""}
-		row = append(row, values...)
-		if err := writer.Write(row); err != nil {
+		line := fmt.Sprintf("%s||[%s]", key, joinArray(values))
+		if _, err := file.WriteString(line + "\n"); err != nil {
 			log.Fatalf("Error writing row to CSV: %v", err)
 		}
 	}
 
 	fmt.Println("CSV file 'output.csv' has been created successfully!")
+}
+func joinArray(arr []string) string {
+	return fmt.Sprintf("%s", formatArray(arr))
+}
+
+// Format array values into a comma-separated string
+func formatArray(arr []string) string {
+	result := ""
+	for i, v := range arr {
+		if i > 0 {
+			result += ","
+		}
+		result += v
+	}
+	return result
 }
