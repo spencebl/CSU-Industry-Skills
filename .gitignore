@@ -1,11 +1,48 @@
-# Ignore .DS_Store files
 .DS_Store
-
-# Ignore WANDB API key file
 dpr-model/WANDB_API_KEY.txt
-
-# Ignore wand folder and its contents
 dpr-model/wand/
-
-# Ignore .ipynb_checkpoints folder and its contents
 dpr-model/data/.ipynb_checkpoints/
+dpr-model/.ipynb_checkpoints/WANDB_API_KEY-checkpoint.txt
+dpr-model/wandb/run-20250324_194742-yg2it336/run-yg2it336.wandb
+dpr-model/wandb/run-20250324_194742-yg2it336/files/output.log
+dpr-model/wandb/run-20250324_194742-yg2it336/logs/debug-internal.log
+dpr-model/wandb/run-20250324_194742-yg2it336/logs/debug.log
+dpr-model/wandb/run-20250324_195231-k3q78nm4/run-k3q78nm4.wandb
+dpr-model/wandb/run-20250324_195231-k3q78nm4/files/output.log
+dpr-model/wandb/run-20250324_195231-k3q78nm4/logs/debug-internal.log
+dpr-model/wandb/run-20250324_195231-k3q78nm4/logs/debug.log
+dpr-model/wandb/run-20250324_195349-g4uhmcx4/run-g4uhmcx4.wandb
+dpr-model/wandb/run-20250324_195349-g4uhmcx4/files/output.log
+dpr-model/wandb/run-20250324_195349-g4uhmcx4/logs/debug-internal.log
+dpr-model/wandb/run-20250324_195349-g4uhmcx4/logs/debug.log
+dpr-model/wandb/run-20250324_195730-4i9752v9/run-4i9752v9.wandb
+dpr-model/wandb/run-20250324_195730-4i9752v9/files/output.log
+dpr-model/wandb/run-20250324_195730-4i9752v9/logs/debug-internal.log
+dpr-model/wandb/run-20250324_195730-4i9752v9/logs/debug.log
+dpr-model/wandb/run-20250324_200042-ej9erttf/run-ej9erttf.wandb
+dpr-model/wandb/run-20250324_200042-ej9erttf/files/output.log
+dpr-model/wandb/run-20250324_200042-ej9erttf/files/requirements.txt
+dpr-model/wandb/run-20250324_200042-ej9erttf/files/wandb-metadata.json
+dpr-model/wandb/run-20250324_200042-ej9erttf/logs/debug-internal.log
+dpr-model/wandb/run-20250324_200042-ej9erttf/logs/debug.log
+dpr-model/wandb/run-20250324_200201-0ib3u925/run-0ib3u925.wandb
+dpr-model/wandb/run-20250324_200201-0ib3u925/files/output.log
+dpr-model/wandb/run-20250324_200201-0ib3u925/files/requirements.txt
+dpr-model/wandb/run-20250324_200201-0ib3u925/files/wandb-metadata.json
+dpr-model/wandb/run-20250324_200201-0ib3u925/logs/debug-internal.log
+dpr-model/wandb/run-20250324_200201-0ib3u925/logs/debug.log
+dpr-model/wandb/run-20250324_203726-5jteqwl2/run-5jteqwl2.wandb
+dpr-model/wandb/run-20250324_203726-5jteqwl2/files/output.log
+dpr-model/wandb/run-20250324_203726-5jteqwl2/files/requirements.txt
+dpr-model/wandb/run-20250324_203726-5jteqwl2/files/wandb-metadata.json
+dpr-model/wandb/run-20250324_203726-5jteqwl2/logs/debug-internal.log
+dpr-model/wandb/run-20250324_203726-5jteqwl2/logs/debug.log
+dpr-model/wandb/run-20250324_203813-klyi8b4w/logs/debug.log
+dpr-model/wandb/run-20250324_204104-sow059vp/logs/debug.log
+dpr-model/wandb/run-20250324_204705-8r80soz8/logs/debug.log
+dpr-model/wandb/run-20250324_204957-d0dmkxyd/logs/debug.log
+dpr-model/wandb/run-20250324_205347-lph0fiia/logs/debug.log
+dpr-model/wandb/run-20250324_210232-8g314xuk/logs/debug.log
+dpr-model/wandb/run-20250324_210333-qq25o9pg/logs/debug.log
+dpr-model/wandb/run-20250324_210408-vfanccr3/logs/debug.log
+dpr-model/.ipynb_checkpoints/DRP_for_gaps-checkpoint.ipynb
