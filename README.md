@@ -10,7 +10,11 @@ NOTE: ONLY DATA PREPROCESSING IS FUNCTIONAL. DPR TRAINING IS STILL BEING CODED.
 
 - It is recommended to create a conda environment for the notebook.
 
-- Install necessary packages: `pip install torch, transformers, wandb, pandas`
+### Package Installations
+
+- Install necessary packages: `pip install transformers, wandb, pandas, datasets`
+
+- install Pytorch versioning that matches your device via conda 
 
 - The notebook was executed using Python v3.13.2 within the conda environemnt.
 
