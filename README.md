@@ -8,14 +8,23 @@ DPR_for_gaps.ipynb can be opened using VS Code or Jupyter Notebook software.
 
 NOTE: ONLY DATA PREPROCESSING IS FUNCTIONAL. DPR TRAINING IS STILL BEING CODED.
 
-- It is recommended to create a conda environment for the notebook.
+It is recommended to create a conda environment for the notebook, using Python 3.11.
 
-### Package Installations
+Be sure to have `descriptions.txt` and `all-csu-codes.csv` within the folder `dpr-model/data/` when executing a fresh training session
 
-- Install necessary packages: `pip install transformers, wandb, pandas, datasets`
+### Package Installationspip install pandas
 
-- install Pytorch versioning that matches your device via conda 
+Install necessary packages: 
 
-- The notebook was executed using Python v3.13.2 within the conda environemnt.
+- `pip`: 
+    - `transformers`
+    - `wandb`
+    - `pandas`
+    - `datasets`
 
-- Be sure to have `descriptions.txt` and `all-csu-codes.csv` within the folder `dpr-model/data/` when executing a fresh training session
+- `conda`
+    - `scikit-learn`
+    - Install Pytorch versioning that matches your device
+
+
+
