@@ -4,10 +4,4 @@ dpr-model/WANDB_API_KEY.txt
 dpr-model/wand/*
 dpr-model/data/.ipynb_checkpoints/*
 dpr-model/.ipynb_checkpoints/WANDB_API_KEY-checkpoint.txt
-dpr-model/wandb/run-20250330_183517-r6k0va5y/run-r6k0va5y.wandb
-dpr-model/wandb/run-20250330_183517-r6k0va5y/logs/debug-internal.log
-dpr-model/wandb/run-20250330_183517-r6k0va5y/logs/debug.log
-dpr-model/wandb/run-20250330_183653-238kfy31/logs/debug.log
-dpr-model/wandb/run-20250331_042734-ragdr8a2/logs/debug.log
-dpr-model/wandb/run-20250331_133616-w1crnau9/logs/debug.log
-dpr-model/wandb/run-20250331_172205-401z351l/logs/debug.log
+
