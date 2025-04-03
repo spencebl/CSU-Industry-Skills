@@ -2,28 +2,30 @@
 
 Research Project for Comparing CSU and Industry Skills
 
-## Running DPR notebook
-DPR_for_gaps.ipynb can be opened using VS Code or Jupyter Notebook software.
+## Running BERT Model
 
-NOTE: ONLY DATA PREPROCESSING IS FUNCTIONAL. DPR TRAINING IS STILL BEING CODED.
+gaps_bert.ipynb can be opened using VS Code or Jupyter Notebook software.
 
-It is recommended to create a conda environment for the notebook, using Python 3.11.
+It is recommended to create a conda environment for the notebook, using Python 3.11
 
-Be sure to have `descriptions.txt` and `all-csu-codes.csv` within the folder `dpr-model/data/` when executing a fresh training session
+Be sure to have `descriptions.txt` and `all-csu-codes.csv` within the folder `bert-model/data/` when executing a fresh training session
 
 ### Package Installationspip install pandas
 
 Install necessary packages: 
 
-- `pip`: 
-    - `transformers`
-    - `wandb`
-    - `pandas`
-    - `datasets`
+`pip`: 
 
-- `conda`
-    - `scikit-learn`
-    - Install Pytorch versioning that matches your device
+- `transformers`
+- `wandb`
+- `pandas`
+- `datasets`
+- 'sentence-transformers`
+
+`conda`:
+
+- `scikit-learn`
+- Install Pytorch versioning that matches your device
 
 ### Weights and Biases Set-up
 
