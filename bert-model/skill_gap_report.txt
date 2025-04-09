@@ -1,0 +1,50 @@
+SKILL GAP ANALYSIS FOR Adobe_AI_ML_Engineer
+==================================================
+Course CS462 covers 3% of required skills
+Course CS314 covers 26% of required skills
+Course CS165 covers 6% of required skills
+Course CS201 covers 0% of required skills
+Course CS370 covers 0% of required skills
+Course CS150 covers 6% of required skills
+Course CS110 covers 0% of required skills
+Course CS455 covers 3% of required skills
+Course CS470 - Modules covers 0% of required skills
+Course CS453 covers 0% of required skills
+Course CS425 covers 0% of required skills
+Course CS435 covers 0% of required skills
+Course CS162 covers 0% of required skills
+Course CS270 covers 0% of required skills
+Course CS345 covers 3% of required skills
+Course CS250 covers 3% of required skills
+Course CS320 covers 3% of required skills
+Course CS464 covers 0% of required skills
+Course CS440 covers 0% of required skills
+Course CS458 covers 3% of required skills
+Course CS456 covers 3% of required skills
+Course CS414 covers 10% of required skills
+Course CS457 covers 0% of required skills
+Course CS415 covers 3% of required skills
+Course CS475 covers 0% of required skills
+Course CS110 - Modules covers 0% of required skills
+Course CS164 covers 16% of required skills
+Course CS152 covers 3% of required skills
+Course CS220 covers 3% of required skills
+Course CS430 covers 3% of required skills
+Course CS214 covers 23% of required skills
+Course CS312 covers 6% of required skills
+Course CS445 covers 3% of required skills
+Course CS356 covers 0% of required skills
+Course CS470 covers 0% of required skills
+
+COMBINED CURRICULUM covers 65% of skills
+Missing: Strong communication skills, Programming, Ruby, Bug fixing, Customer needs, Vue, Analytical skills, Reliability, Angular, Knowledge sharing, Feedback
+
+Schedule: CS314, CS165, CS201, CS370, CS150, CS162, CS270, CS250, CS320, CS464, CS458, CS415, CS475, CS164, CS152, CS220, CS214, CS470 covers 55%
+
+Schedule: CS314, CS165, CS201, CS370, CS150, CS470 - Modules, CS453, CS162, CS270, CS250, CS320, CS456, CS457, CS110 - Modules, CS164, CS152, CS220, CS214 covers 52%
+
+Schedule: CS462, CS314, CS165, CS201, CS370, CS150, CS162, CS270, CS250, CS320, CS457, CS475, CS164, CS152, CS220, CS214, CS445, CS470 covers 52%
+
+Schedule: CS314, CS165, CS201, CS370, CS150, CS110, CS470 - Modules, CS453, CS162, CS270, CS250, CS320, CS464, CS458, CS164, CS152, CS220, CS214 covers 55%
+
+Schedule: CS314, CS165, CS201, CS370, CS150, CS470 - Modules, CS162, CS270, CS250, CS320, CS440, CS457, CS475, CS164, CS152, CS220, CS214, CS470 covers 52%
