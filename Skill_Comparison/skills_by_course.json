@@ -1,0 +1,5443 @@
+{
+    "Adobe_AI_ML_Engineer": {
+        "missing_skills": [
+            "Code/API documentation",
+            "Code Review",
+            "React.js",
+            "JavaScript",
+            "Bug fixing",
+            "DevOps",
+            "Collaboration",
+            "Planning",
+            "Problem Solving Skills",
+            "High performance",
+            "Ruby",
+            "Front-end frameworks",
+            "Customer needs",
+            "Strong communication skills",
+            "Maintaining software applications",
+            "Reliability",
+            "Programming",
+            "Vue",
+            "Analytical skills",
+            "Knowledge sharing",
+            "Design",
+            "Angular",
+            "Feedback",
+            "Development",
+            "Efficiency"
+        ],
+        "Code/API documentation": [],
+        "Code Review": [],
+        "React.js": [],
+        "JavaScript": [],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Bug fixing": [],
+        "Collaboration": [],
+        "DevOps": [],
+        "Planning": [],
+        "Problem Solving Skills": [],
+        "High performance": [],
+        "Ruby": [],
+        "Front-end frameworks": [],
+        "Customer needs": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Testing": [
+            "CS164"
+        ],
+        "Strong communication skills": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Maintaining software applications": [],
+        "Reliability": [],
+        "Debugging": [
+            "CS164",
+            "CS214"
+        ],
+        "Programming": [],
+        "Vue": [],
+        "Analytical skills": [],
+        "Knowledge sharing": [],
+        "Design": [],
+        "Angular": [],
+        "Feedback": [],
+        "Development": [],
+        "Efficiency": []
+    },
+    "Adobe_Junior_SDE": {
+        "missing_skills": [
+            "Monitoring",
+            "Cloud computing",
+            "Agile development",
+            "Decision making",
+            "DevOps",
+            "CI systems",
+            "CI/CD methodologies",
+            "Cloud Technology",
+            "Terraform",
+            "Adobe Commerce",
+            "Magento",
+            "Performance",
+            "Infrastructure Development",
+            "Architecture Design",
+            "Automated tests",
+            "Innovation",
+            "Clusters",
+            "Improvement",
+            "SQL",
+            "Metrics",
+            "SaaS Design Principles",
+            "Quality Insights",
+            "Product development",
+            "Programming",
+            "Software Development",
+            "Quality control",
+            "Designing Features",
+            "PHP",
+            "Knowledge sharing",
+            "Observability",
+            "Compliance",
+            "Development",
+            "Lean-Agile environment",
+            "Distributed systems",
+            "Shift Quality",
+            "Spring Boot",
+            "Efficiency",
+            "Containerization",
+            "Scalability"
+        ],
+        "Monitoring": [],
+        "Cloud computing": [],
+        "Agile development": [],
+        "Decision making": [],
+        "DevOps": [],
+        "CI systems": [],
+        "CI/CD methodologies": [],
+        "Cloud Technology": [],
+        "Terraform": [],
+        "Adobe Commerce": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Magento": [],
+        "Performance": [],
+        "Infrastructure Development": [],
+        "Architecture Design": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Automated tests": [],
+        "Clusters": [],
+        "Improvement": [],
+        "SQL": [],
+        "Metrics": [],
+        "SaaS Design Principles": [],
+        "Quality Insights": [],
+        "Product development": [],
+        "Programming": [],
+        "Software Development": [],
+        "Quality control": [],
+        "Designing Features": [],
+        "PHP": [],
+        "Knowledge sharing": [],
+        "Observability": [],
+        "Compliance": [],
+        "Development": [],
+        "Security": [
+            "CS150",
+            "CS110"
+        ],
+        "Lean-Agile environment": [],
+        "Distributed systems": [],
+        "Shift Quality": [],
+        "Spring Boot": [],
+        "Efficiency": [],
+        "Containerization": [],
+        "Scalability": []
+    },
+    "Adobe_Software_Engineering_Intern": {
+        "missing_skills": [
+            "Design",
+            "Data structures",
+            "Cloud Engineering",
+            "OOP/Func Paradigms",
+            "Interpersonal Skills",
+            "JavaScript",
+            "Programming",
+            "Machine learning",
+            "Adobe Experience Manager",
+            "Artificial Intelligence (AI)",
+            "Cloud Technology",
+            "Node.js",
+            "Backend development",
+            "Analytical skills"
+        ],
+        "Cloud Engineering": [],
+        "JavaScript": [],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Machine learning": [],
+        "Cloud Technology": [],
+        "Node.js": [],
+        "Backend development": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Algorithms": [
+            "CS165",
+            "CS164",
+            "CS152"
+        ],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Adobe Experience Manager": [],
+        "Communication": [
+            "CS314"
+        ],
+        "OOP/Func Paradigms": [],
+        "Programming": [],
+        "Artificial Intelligence (AI)": [],
+        "Analytical skills": [],
+        "Design": [],
+        "Data structures": [],
+        "Interpersonal Skills": [],
+        "Networking": [
+            "CS314"
+        ]
+    },
+    "Adobe_Software_Quality_Engineer": {
+        "missing_skills": [
+            "TypeScript",
+            "Time management",
+            "React.js",
+            "Analytical skills",
+            "Open source tools",
+            "Deployment",
+            "HTML",
+            "Testing Workflows",
+            "JavaScript",
+            "Testing Methodologies",
+            "Programming",
+            "Collaboration",
+            "Problem Solving Skills",
+            "Implementation",
+            "High performance",
+            "Scripting",
+            "Web Debugging Tools"
+        ],
+        "TypeScript": [],
+        "Time management": [],
+        "React.js": [],
+        "HTML": [],
+        "Testing Workflows": [],
+        "JavaScript": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "High performance": [],
+        "Deployment": [],
+        "Testing": [
+            "CS164"
+        ],
+        "Communication": [
+            "CS314"
+        ],
+        "Testing Methodologies": [],
+        "Programming": [],
+        "Web Debugging Tools": [],
+        "Analytical skills": [],
+        "Scripting": [],
+        "Implementation": [],
+        "Open source tools": []
+    },
+    "Adobe_Software_Solutions_Architect": {
+        "missing_skills": [
+            "Automation",
+            "HTML",
+            "Team collaboration",
+            "JavaScript",
+            "Product adoption",
+            "Data Mining",
+            "Adobe Marketo",
+            "Collaboration",
+            "Adobe Cloud Solutions",
+            "Problem Solving Skills",
+            "Solution architecture",
+            "Recommendation Systems",
+            "Architecture Solutions",
+            "Data Retention",
+            "Data Management Platforms (DMPs)",
+            "Progress Management",
+            "Product Advancements",
+            "Email systems",
+            "Data management",
+            "Performance",
+            "Strategic planning",
+            "Customer needs",
+            "Product Management",
+            "Web development",
+            "Architecture Design",
+            "Customer engagement",
+            "Innovation",
+            "Data storage",
+            "Mobile technologies",
+            "Continuous improvement (CI)",
+            "Actionable Insights",
+            "Enterprise Architecture",
+            "Implementation",
+            "Demand-side Platforms (DSPs)",
+            "Creative Solutions",
+            "REST APIs",
+            "Technical leadership",
+            "Product development",
+            "Programming",
+            "Cross-Device Tracking platforms",
+            "CRM systems",
+            "Analytical skills",
+            "Tooling",
+            "Interpersonal Skills",
+            "Feedback",
+            "Resolution Drive",
+            "Leadership",
+            "Effective Communication"
+        ],
+        "Automation": [],
+        "Optimization": [
+            "CS314"
+        ],
+        "HTML": [],
+        "Team collaboration": [],
+        "JavaScript": [],
+        "Product adoption": [],
+        "Data Mining": [],
+        "Adobe Marketo": [],
+        "Collaboration": [],
+        "Adobe Cloud Solutions": [],
+        "Problem Solving Skills": [],
+        "Solution architecture": [],
+        "Architecture Solutions": [],
+        "Data Management Platforms (DMPs)": [],
+        "Progress Management": [],
+        "Data Retention": [],
+        "Recommendation Systems": [],
+        "Product Advancements": [],
+        "Email systems": [],
+        "Data management": [],
+        "Performance": [],
+        "Strategic planning": [],
+        "Customer needs": [],
+        "Product Management": [],
+        "Web development": [],
+        "Architecture Design": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Customer engagement": [],
+        "Innovation": [],
+        "Data storage": [],
+        "Effective Communication": [],
+        "Mobile technologies": [],
+        "Continuous improvement (CI)": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Actionable Insights": [],
+        "Enterprise Architecture": [],
+        "Demand-side Platforms (DSPs)": [],
+        "Creative Solutions": [],
+        "REST APIs": [],
+        "Technical leadership": [],
+        "Product development": [],
+        "Programming": [],
+        "Cross-Device Tracking platforms": [],
+        "CRM systems": [],
+        "Analytical skills": [],
+        "Research": [
+            "CS150",
+            "CS110"
+        ],
+        "Tooling": [],
+        "Interpersonal Skills": [],
+        "Feedback": [],
+        "Resolution Drive": [],
+        "Leadership": [],
+        "Security": [
+            "CS150",
+            "CS110"
+        ],
+        "Implementation": []
+    },
+    "Amazon_Cloud_Support_Engineer_ETL": {
+        "missing_skills": [
+            "Automation",
+            "Cloud computing",
+            "Load (ETL)",
+            "Collaboration",
+            "Apache Spark",
+            "HBASE",
+            "Problem Solving Skills",
+            "Extract",
+            "Customer needs",
+            "Customer engagement",
+            "Innovation",
+            "Mentorship",
+            "Apache Hive",
+            "Pig",
+            "Continuous improvement (CI)",
+            "Troubleshooting",
+            "SQL",
+            "Hadoop ecosystems",
+            "Data lake architecture",
+            "Data analysis",
+            "Technical leadership",
+            "Scala",
+            "Programming",
+            "Software Development",
+            "Operational efficiency",
+            "Knowledge sharing",
+            "Advanced Troubleshooting Techniques",
+            "HDFS",
+            "Transform",
+            "Efficiency",
+            "NoSQL",
+            "Shell",
+            "Big data"
+        ],
+        "Automation": [],
+        "Cloud computing": [],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Load (ETL)": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "Apache Spark": [],
+        "Problem Solving Skills": [],
+        "HBASE": [],
+        "Extract": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Operating Systems": [
+            "CS370"
+        ],
+        "Customer needs": [],
+        "Customer engagement": [],
+        "Innovation": [],
+        "Mentorship": [],
+        "Apache Hive": [],
+        "Pig": [],
+        "Continuous improvement (CI)": [],
+        "Troubleshooting": [],
+        "SQL": [],
+        "Hadoop ecosystems": [],
+        "Data lake architecture": [],
+        "Data analysis": [],
+        "Technical leadership": [],
+        "Scala": [],
+        "Programming": [],
+        "Software Development": [],
+        "Operational efficiency": [],
+        "Knowledge sharing": [],
+        "Advanced Troubleshooting Techniques": [],
+        "Networking": [
+            "CS314"
+        ],
+        "HDFS": [],
+        "Transform": [],
+        "Efficiency": [],
+        "NoSQL": [],
+        "Shell": [],
+        "Big data": []
+    },
+    "Amazon_Graduate_Software_Engineer": {
+        "missing_skills": [
+            "Distributed storage",
+            "Collaboration",
+            "Creating solutions for distributed systems",
+            "Problem Solving Skills",
+            "Complexity analysis",
+            "Innovation",
+            "Customer engagement",
+            "Algorithm design",
+            "Analytical skills",
+            "Data structures",
+            "Technical articulation",
+            "Relational databases",
+            "Leadership",
+            "Agile environment",
+            "Distributed systems",
+            "Efficiency",
+            "Object-oriented design",
+            "Designing and building innovative technologies",
+            "Scalability"
+        ],
+        "Optimization": [
+            "CS314"
+        ],
+        "Distributed storage": [],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Collaboration": [],
+        "Creating solutions for distributed systems": [],
+        "Problem Solving Skills": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Fault Tolerance": [
+            "CS458"
+        ],
+        "Algorithms": [
+            "CS165",
+            "CS164",
+            "CS152"
+        ],
+        "Complexity analysis": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Customer engagement": [],
+        "Algorithm design": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Analytical skills": [],
+        "Data structures": [],
+        "Technical articulation": [],
+        "Relational databases": [],
+        "Leadership": [],
+        "Agile environment": [],
+        "Distributed systems": [],
+        "Abstraction": [
+            "CS455",
+            "CS162"
+        ],
+        "Efficiency": [],
+        "Object-oriented design": [],
+        "Designing and building innovative technologies": [],
+        "Scalability": []
+    },
+    "Amazon_SDE_AI_ML": {
+        "missing_skills": [
+            "Transformative AI Solutions",
+            "Automation",
+            "Cloud computing",
+            "Data Mining",
+            "Machine learning",
+            "Collaboration",
+            "Problem Solving Skills",
+            "Complexity analysis",
+            "Innovation",
+            "Generative AI",
+            "System Design",
+            "C#",
+            "Coding skills",
+            "Artificial Intelligence (AI)",
+            "Data structures",
+            "Amazon Web Services (AWS)",
+            "Relational databases",
+            "Distributed systems",
+            "Object-oriented design",
+            "Scalability"
+        ],
+        "Transformative AI Solutions": [],
+        "Automation": [],
+        "Optimization": [
+            "CS314"
+        ],
+        "Cloud computing": [],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Data Mining": [],
+        "Machine learning": [],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Operating Systems": [
+            "CS370"
+        ],
+        "Algorithms": [
+            "CS165",
+            "CS164",
+            "CS152"
+        ],
+        "Complexity analysis": [],
+        "Innovation": [],
+        "Generative AI": [],
+        "System Design": [],
+        "C#": [],
+        "Coding skills": [],
+        "Artificial Intelligence (AI)": [],
+        "Research": [
+            "CS150",
+            "CS110"
+        ],
+        "Data structures": [],
+        "Amazon Web Services (AWS)": [],
+        "Relational databases": [],
+        "Security": [
+            "CS150",
+            "CS110"
+        ],
+        "Distributed systems": [],
+        "Object-oriented design": [],
+        "Scalability": []
+    },
+    "Amazon_SDE_Cloud": {
+        "missing_skills": [
+            "Automation",
+            "Data Mining",
+            "Collaboration",
+            "Problem Solving Skills",
+            "Innovative technologies",
+            "Complexity analysis",
+            "Innovation",
+            "Customer engagement",
+            "Compute technologies",
+            "Algorithm design",
+            "C#",
+            "Programming",
+            "Software Development",
+            "Data structures",
+            "Amazon Web Services (AWS)",
+            "Leadership",
+            "Distributed systems",
+            "Object-oriented design",
+            "Scalability"
+        ],
+        "Automation": [],
+        "Optimization": [
+            "CS314"
+        ],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Data Mining": [],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Innovative technologies": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Complexity analysis": [],
+        "Innovation": [],
+        "Customer engagement": [],
+        "Compute technologies": [],
+        "Algorithm design": [],
+        "C#": [],
+        "Programming": [],
+        "Software Development": [],
+        "Data structures": [],
+        "Amazon Web Services (AWS)": [],
+        "Leadership": [],
+        "Networking": [
+            "CS314"
+        ],
+        "Security": [
+            "CS150",
+            "CS110"
+        ],
+        "Distributed systems": [],
+        "Object-oriented design": [],
+        "Scalability": []
+    },
+    "Amazon_SDE_Embedded_Dev": {
+        "missing_skills": [
+            "Distributed storage",
+            "Disaster Recovery",
+            "Multi-tenant Systems",
+            "Problem Solving Skills",
+            "Availability",
+            "Transactional Systems",
+            "Rust",
+            "Linear Programming",
+            "Innovation",
+            "Compute technologies",
+            "Creative Solutions",
+            "Creating new products",
+            "Programming",
+            "Kernel",
+            "Relational databases",
+            "Nonlinear Optimization",
+            "Agile environment",
+            "Large Scale Databases",
+            "Distributed systems",
+            "Efficiency",
+            "Scalability"
+        ],
+        "Distributed storage": [],
+        "Disaster Recovery": [],
+        "Multi-tenant Systems": [],
+        "Problem Solving Skills": [],
+        "Availability": [],
+        "Databases": [
+            "CS314",
+            "CS250",
+            "CS110 - Modules",
+            "CS312"
+        ],
+        "Transactional Systems": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Rust": [],
+        "Fault Tolerance": [
+            "CS458"
+        ],
+        "Operating Systems": [
+            "CS370"
+        ],
+        "Algorithms": [
+            "CS165",
+            "CS164",
+            "CS152"
+        ],
+        "Linear Programming": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Compute technologies": [],
+        "C": [
+            "CS270"
+        ],
+        "Creative Solutions": [],
+        "Creating new products": [],
+        "Programming": [],
+        "Kernel": [],
+        "Relational databases": [],
+        "Nonlinear Optimization": [],
+        "Agile environment": [],
+        "Large Scale Databases": [],
+        "Distributed systems": [],
+        "Efficiency": [],
+        "Abstraction": [
+            "CS455",
+            "CS162"
+        ],
+        "Scalability": []
+    },
+    "Amazon_SDE_I": {
+        "missing_skills": [
+            "Agile development",
+            "Collaboration",
+            "Problem Solving Skills",
+            "Ambiguity Management",
+            "Innovation",
+            "System Design",
+            "File systems",
+            "C#",
+            "Programming",
+            "Analytical skills",
+            "Kernel",
+            "Performance engineering",
+            "Articulation",
+            "Relational databases",
+            "Job scheduling",
+            "Agile environment",
+            "Distributed systems",
+            "Object-oriented design",
+            "Resource management"
+        ],
+        "Optimization": [
+            "CS314"
+        ],
+        "C++": [
+            "CS270"
+        ],
+        "Agile development": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Ambiguity Management": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Operating Systems": [
+            "CS370"
+        ],
+        "Algorithms": [
+            "CS165",
+            "CS164",
+            "CS152"
+        ],
+        "Innovation": [],
+        "Communication": [
+            "CS314"
+        ],
+        "System Design": [],
+        "File systems": [],
+        "C#": [],
+        "Programming": [],
+        "Analytical skills": [],
+        "Kernel": [],
+        "Performance engineering": [],
+        "Articulation": [],
+        "Relational databases": [],
+        "Job scheduling": [],
+        "Agile environment": [],
+        "Distributed systems": [],
+        "Abstraction": [
+            "CS455",
+            "CS162"
+        ],
+        "Resource management": [],
+        "Object-oriented design": []
+    },
+    "Amazon_SDE_Query_Optimization": {
+        "missing_skills": [
+            "Innovative Engineers",
+            "Cloud computing",
+            "Collaboration",
+            "Problem Solving Skills",
+            "Perl",
+            "Parallel Execution Engine",
+            "Performance",
+            "Complexity analysis",
+            "multi-tiered systems",
+            "Innovation",
+            "Deep learning",
+            "Amazon Redshift",
+            "Algorithmic Expertise",
+            "Distributed",
+            "Cloud Data Warehouse",
+            "C#",
+            "Programming",
+            "Coding skills",
+            "Analytical skills",
+            "Data structures",
+            "Database management",
+            "Relational databases",
+            "Query Analysis",
+            "Query optimization",
+            "Requirements gathering",
+            "Object-oriented design"
+        ],
+        "Innovative Engineers": [],
+        "Optimization": [
+            "CS314"
+        ],
+        "C++": [
+            "CS270"
+        ],
+        "Cloud computing": [],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Perl": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Parallel Execution Engine": [],
+        "Performance": [],
+        "Operating Systems": [
+            "CS370"
+        ],
+        "Algorithms": [
+            "CS165",
+            "CS164",
+            "CS152"
+        ],
+        "Complexity analysis": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "multi-tiered systems": [],
+        "Innovation": [],
+        "Deep learning": [],
+        "Amazon Redshift": [],
+        "Algorithmic Expertise": [],
+        "Distributed": [],
+        "Cloud Data Warehouse": [],
+        "C#": [],
+        "Programming": [],
+        "Coding skills": [],
+        "Analytical skills": [],
+        "Research": [
+            "CS150",
+            "CS110"
+        ],
+        "Data structures": [],
+        "Database management": [],
+        "Relational databases": [],
+        "Query Analysis": [],
+        "Query optimization": [],
+        "Requirements gathering": [],
+        "Object-oriented design": []
+    },
+    "Amex_Backend_Engineer": {
+        "missing_skills": [
+            "React.js",
+            "JavaScript",
+            "Agile development",
+            "Application Design",
+            "Spring Webflux",
+            "Kubernetes",
+            "Performance Monitoring Tools",
+            "Vert.x",
+            "Continuous Delivery (CD)",
+            "Web development",
+            "Contribution",
+            "Event driven micro services architecture",
+            "Jenkins",
+            "Programming",
+            "Software Development",
+            "Coding skills",
+            "User Interfaces (UI)",
+            "Design",
+            "Knowledge sharing",
+            "Database management",
+            "Trend Identification",
+            "Cloud infrastructure",
+            "Relational databases",
+            "Cutting edge technology",
+            "Spring Boot",
+            "NoSQL",
+            "Object-oriented design",
+            "Open source tools"
+        ],
+        "React.js": [],
+        "JavaScript": [],
+        "Agile development": [],
+        "Application Design": [],
+        "Microservices": [
+            "CS312"
+        ],
+        "Spring Webflux": [],
+        "Kubernetes": [],
+        "Performance Monitoring Tools": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Vert.x": [],
+        "Continuous Delivery (CD)": [],
+        "Web development": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Contribution": [],
+        "Maven": [
+            "CS314"
+        ],
+        "Event driven micro services architecture": [],
+        "Jenkins": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Programming": [],
+        "Software Development": [],
+        "Coding skills": [],
+        "User Interfaces (UI)": [],
+        "Design": [],
+        "Knowledge sharing": [],
+        "Database management": [],
+        "Trend Identification": [],
+        "Cloud infrastructure": [],
+        "Relational databases": [],
+        "Docker": [
+            "CS314"
+        ],
+        "Cutting edge technology": [],
+        "Spring Boot": [],
+        "NoSQL": [],
+        "Object-oriented design": [],
+        "Open source tools": []
+    },
+    "Amex_Engineer_Java": {
+        "missing_skills": [
+            "Cross-channel Communications",
+            "React.js",
+            "Monitoring",
+            "Web Services",
+            "Team collaboration",
+            "Application Design",
+            "Problem Solving Skills",
+            "Node.js",
+            "Backend development",
+            "Reusable",
+            "Software architecture",
+            "Deployment",
+            "Automated tests",
+            "Customer engagement",
+            "XML",
+            "Support Applications",
+            "Innovative ideas",
+            "Mentorship",
+            "Accountability",
+            "Continuous improvement (CI)",
+            "Agile methodology",
+            "Analyzing Workflow",
+            "Programming",
+            "Software Development",
+            "JSON",
+            "Coding skills",
+            "PostgreSQL",
+            "User Interfaces (UI)",
+            "Analytical skills",
+            "Design",
+            "Data structures",
+            "Multithreading programming",
+            "Relational databases",
+            "Oracle",
+            "Leadership",
+            "Consistent Development Practices",
+            "Distributed systems",
+            "Requirements gathering",
+            "Efficiency",
+            "NoSQL",
+            "Object-oriented design"
+        ],
+        "Cross-channel Communications": [],
+        "React.js": [],
+        "Monitoring": [],
+        "Web Services": [],
+        "Team collaboration": [],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Application Design": [],
+        "Problem Solving Skills": [],
+        "Node.js": [],
+        "Backend development": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Reusable": [],
+        "Documentation": [
+            "CS214"
+        ],
+        "Software architecture": [],
+        "Deployment": [],
+        "Algorithms": [
+            "CS165",
+            "CS164",
+            "CS152"
+        ],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Customer engagement": [],
+        "XML": [],
+        "Automated tests": [],
+        "Support Applications": [],
+        "Innovative ideas": [],
+        "Mentorship": [],
+        "Accountability": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Continuous improvement (CI)": [],
+        "Agile methodology": [],
+        "Analyzing Workflow": [],
+        "Programming": [],
+        "Software Development": [],
+        "Consistency": [
+            "CS455"
+        ],
+        "JSON": [],
+        "Coding skills": [],
+        "PostgreSQL": [],
+        "User Interfaces (UI)": [],
+        "Analytical skills": [],
+        "Design": [],
+        "Data structures": [],
+        "Multithreading programming": [],
+        "Relational databases": [],
+        "Oracle": [],
+        "Leadership": [],
+        "Consistent Development Practices": [],
+        "Distributed systems": [],
+        "Requirements gathering": [],
+        "Efficiency": [],
+        "NoSQL": [],
+        "Object-oriented design": []
+    },
+    "Amex_Software_Engineer": {
+        "missing_skills": [
+            "CircleCI",
+            "MySQL",
+            "View",
+            "CICD pipelines",
+            "JavaScript",
+            "Cloud computing",
+            "Load (ETL)",
+            "DevOps",
+            "Software Engineering",
+            "Collaboration",
+            "Cloud Technology",
+            "Extract",
+            "Kubernetes",
+            "Caching Strategies",
+            "Data management",
+            "Runtimes",
+            "TDD",
+            "Innovation",
+            "CloudOps",
+            "Model",
+            "Jenkins",
+            "Golang",
+            "SQL",
+            "GitHub Actions",
+            "OOP/Func Paradigms",
+            "Kotlin",
+            "Strong analytical skills",
+            "async/event-based",
+            "SecOps",
+            "SoC",
+            "data pipelines",
+            "Technical leadership",
+            "Programming",
+            "Software Development",
+            "ECS",
+            "Controller (mvc)",
+            "PostgreSQL",
+            "Analytical skills",
+            "Site Reliability Engineering (SRE)",
+            "Database management",
+            "Quality Commitment",
+            "Transform",
+            "EKS",
+            "MemSQL",
+            "NoSQL",
+            "Containerization"
+        ],
+        "CircleCI": [],
+        "View": [],
+        "MySQL": [],
+        "CICD pipelines": [],
+        "JavaScript": [],
+        "C++": [
+            "CS270"
+        ],
+        "Cloud computing": [],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Load (ETL)": [],
+        "DevOps": [],
+        "Software Engineering": [],
+        "Collaboration": [],
+        "Cloud Technology": [],
+        "Extract": [],
+        "Microservices": [
+            "CS312"
+        ],
+        "Databases": [
+            "CS314",
+            "CS250",
+            "CS110 - Modules",
+            "CS312"
+        ],
+        "Kubernetes": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Caching Strategies": [],
+        "Data management": [],
+        "Runtimes": [],
+        "TDD": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "CloudOps": [],
+        "Model": [],
+        "Jenkins": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Golang": [],
+        "SQL": [],
+        "GitHub Actions": [],
+        "OOP/Func Paradigms": [],
+        "Kotlin": [],
+        "Strong analytical skills": [],
+        "async/event-based": [],
+        "SecOps": [],
+        "SoC": [],
+        "data pipelines": [],
+        "Technical leadership": [],
+        "Programming": [],
+        "Software Development": [],
+        "ECS": [],
+        "Controller (mvc)": [],
+        "PostgreSQL": [],
+        "Analytical skills": [],
+        "Site Reliability Engineering (SRE)": [],
+        "Database management": [],
+        "Quality Commitment": [],
+        "Transform": [],
+        "Git": [
+            "CS314",
+            "CS164",
+            "CS214"
+        ],
+        "EKS": [],
+        "MemSQL": [],
+        "NoSQL": [],
+        "Containerization": []
+    },
+    "Apple_Software_Engineer_WatchOS": {
+        "missing_skills": [
+            "Knowledge sharing",
+            "System Design",
+            "Creative Solutions",
+            "Experience Optimization",
+            "SwiftUI",
+            "Inter-process Communication",
+            "Collaboration",
+            "Innovation",
+            "User experience (UX)",
+            "Profiling Applications"
+        ],
+        "status": "None of the required skills are taught in any course"
+    },
+    "Apple_SWE_Internal_Tools": {
+        "missing_skills": [
+            "Multitasking",
+            "Monitoring",
+            "Infrastructure as code (IaC)",
+            "Critical thinking",
+            "Collaboration",
+            "Objective-C",
+            "Problem Solving Skills",
+            "macOS",
+            "Innovation",
+            "system monitoring tools",
+            "Compute technologies",
+            "Build Systems",
+            "Strong software development skills",
+            "Maintaining software applications",
+            "Packaging Software",
+            "Technical leadership",
+            "SwiftUI",
+            "Software Compilation",
+            "Programming",
+            "Software Development",
+            "Build infrastructure",
+            "Profiling",
+            "Logging",
+            "Design",
+            "Software Solutions",
+            "UNIX system administration",
+            "Bash",
+            "Build dependencies",
+            "software debugging skills",
+            "Implementation",
+            "Scripting"
+        ],
+        "Multitasking": [],
+        "Monitoring": [],
+        "Infrastructure as code (IaC)": [],
+        "Critical thinking": [],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Collaboration": [],
+        "Objective-C": [],
+        "Problem Solving Skills": [],
+        "macOS": [],
+        "Software Design": [
+            "CS214"
+        ],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "system monitoring tools": [],
+        "Compute technologies": [],
+        "Build Systems": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Strong software development skills": [],
+        "Unix": [
+            "CS314"
+        ],
+        "Maintaining software applications": [],
+        "Packaging Software": [],
+        "Technical leadership": [],
+        "Debugging": [
+            "CS164",
+            "CS214"
+        ],
+        "SwiftUI": [],
+        "Programming": [],
+        "Software Development": [],
+        "Software Compilation": [],
+        "Build infrastructure": [],
+        "Profiling": [],
+        "Logging": [],
+        "Design": [],
+        "Software Solutions": [],
+        "UNIX system administration": [],
+        "Bash": [],
+        "Build dependencies": [],
+        "software debugging skills": [],
+        "Implementation": [],
+        "Scripting": []
+    },
+    "Apple_Webkit_Engineer": {
+        "missing_skills": [
+            "HTML",
+            "JavaScript",
+            "Bug fixing",
+            "Collaboration",
+            "Objective-C",
+            "Problem Solving Skills",
+            "Systems programming",
+            "Performance optimization",
+            "Web development",
+            "Innovation",
+            "Test cases",
+            "AppKit",
+            "CFNetwork",
+            "Inter-process Communication",
+            "Programming",
+            "UIKit",
+            "Web Standards",
+            "Compatibility",
+            "Development",
+            "Compatibility Testing",
+            "CSS"
+        ],
+        "HTML": [],
+        "JavaScript": [],
+        "C++": [
+            "CS270"
+        ],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Bug fixing": [],
+        "Collaboration": [],
+        "Objective-C": [],
+        "Problem Solving Skills": [],
+        "Systems programming": [],
+        "Performance optimization": [],
+        "Web development": [],
+        "Innovation": [],
+        "Test cases": [],
+        "C": [
+            "CS270"
+        ],
+        "AppKit": [],
+        "CFNetwork": [],
+        "Inter-process Communication": [],
+        "Programming": [],
+        "UIKit": [],
+        "Web Standards": [],
+        "Compatibility": [],
+        "Development": [],
+        "Compatibility Testing": [],
+        "CSS": []
+    },
+    "Comcast_Software_Engineer_Coop": {
+        "missing_skills": [
+            "Security Protocols",
+            "MySQL",
+            "Automation",
+            "Encryption",
+            "Cloud computing",
+            "AI/ML",
+            "Software Engineering",
+            "Business Skills",
+            "Data management",
+            "Innovation",
+            "Mentorship",
+            "Business operations",
+            "Data analysis",
+            "Product development",
+            "Software Development",
+            "PostgreSQL",
+            "Test and Deployment automation",
+            "Solution Creation",
+            "Knowledge sharing",
+            "Interpersonal Skills",
+            "Oracle",
+            "Version control",
+            "Software Engineering Practices",
+            "MongoDB"
+        ],
+        "Security Protocols": [],
+        "MySQL": [],
+        "Automation": [],
+        "Encryption": [],
+        "Cloud computing": [],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "AI/ML": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Software Engineering": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Business Skills": [],
+        "Data management": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Project Management": [
+            "CS314",
+            "CS214"
+        ],
+        "Mentorship": [],
+        "Business operations": [],
+        "Data analysis": [],
+        "Product development": [],
+        "Software Development": [],
+        "PostgreSQL": [],
+        "Solution Creation": [],
+        "Test and Deployment automation": [],
+        "Knowledge sharing": [],
+        "Interpersonal Skills": [],
+        "Oracle": [],
+        "Version control": [],
+        "Networking": [
+            "CS314"
+        ],
+        "Security": [
+            "CS150",
+            "CS110"
+        ],
+        "Software Engineering Practices": [],
+        "MongoDB": []
+    },
+    "Figma_Data_Scientist_Early_Career": {
+        "missing_skills": [
+            "Knowledge sharing",
+            "Statistical methods and models",
+            "Data structures",
+            "Cross-functional collaboration",
+            "Evaluate Experiments",
+            "Statistics",
+            "Data Engineering",
+            "Collaboration",
+            "Machine learning",
+            "Coding skills",
+            "User behavior prediction",
+            "Problem Solving Skills",
+            "Strong communication skills",
+            "Analytical skills",
+            "Modeling"
+        ],
+        "Data Science": [
+            "CS456"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Machine learning": [],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Documentation": [
+            "CS214"
+        ],
+        "Evaluate Experiments": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Strong communication skills": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Statistical methods and models": [],
+        "Coding skills": [],
+        "User behavior prediction": [],
+        "Analytical skills": [],
+        "Modeling": [],
+        "Knowledge sharing": [],
+        "Data structures": [],
+        "Cross-functional collaboration": [],
+        "Statistics": [],
+        "Data Engineering": []
+    },
+    "Figma_Web_Developer": {
+        "missing_skills": [
+            "Deployment practices",
+            "TypeScript",
+            "Code Review",
+            "React.js",
+            "HTML",
+            "JavaScript",
+            "Agile development",
+            "Collaboration",
+            "roadmapping",
+            "Node.js",
+            "Backend development",
+            "CI/CD strategy",
+            "Performance",
+            "Infrastructure Development",
+            "Web development",
+            "CI/CD",
+            "A/B testing",
+            "Conversion rate optimization",
+            "User interface development",
+            "User experience (UX)",
+            "Next.js",
+            "Express",
+            "Troubleshooting",
+            "Software Frameworks",
+            "Programming",
+            "GraphQL",
+            "Gatsby",
+            "Database management",
+            "Visual QA",
+            "Cloud infrastructure",
+            "Cross-functional collaboration",
+            "OKR planning",
+            "CSS",
+            "Accessibility"
+        ],
+        "Deployment practices": [],
+        "TypeScript": [],
+        "Code Review": [],
+        "React.js": [],
+        "Optimization": [
+            "CS314"
+        ],
+        "HTML": [],
+        "JavaScript": [],
+        "Agile development": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "roadmapping": [],
+        "Node.js": [],
+        "Backend development": [],
+        "CI/CD strategy": [],
+        "Performance": [],
+        "Infrastructure Development": [],
+        "Web development": [],
+        "CI/CD": [],
+        "A/B testing": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Conversion rate optimization": [],
+        "User experience (UX)": [],
+        "User interface development": [],
+        "Accessibility": [],
+        "Next.js": [],
+        "Express": [],
+        "Troubleshooting": [],
+        "Software Frameworks": [],
+        "Debugging": [
+            "CS164",
+            "CS214"
+        ],
+        "Programming": [],
+        "Gatsby": [],
+        "Database management": [],
+        "Visual QA": [],
+        "Cloud infrastructure": [],
+        "Cross-functional collaboration": [],
+        "OKR planning": [],
+        "Security": [
+            "CS150",
+            "CS110"
+        ],
+        "CSS": [],
+        "GraphQL": []
+    },
+    "Github_Software_Engineer": {
+        "missing_skills": [
+            "Code Review",
+            "React.js",
+            "Automation",
+            "JavaScript",
+            "Software Engineering",
+            "DevOps",
+            "Collaboration",
+            "Problem Solving Skills",
+            "Exploration",
+            "High performance",
+            "Ruby",
+            "Azure technologies",
+            "Rust",
+            "Web development",
+            "Architecture Design",
+            "Innovation",
+            "User experience (UX)",
+            "APIs",
+            "Compute technologies",
+            "Creative Problem Solving",
+            "Support Applications",
+            "Mentorship",
+            "Strong communication skills",
+            "Golang",
+            "Maintainable code",
+            "Technical leadership",
+            "GitHub",
+            "C#",
+            "Programming",
+            "Modeling",
+            "Design",
+            "Feedback",
+            "Development",
+            "Leadership",
+            "Agile environment",
+            "Efficiency",
+            "High-quality systems",
+            "Implementation"
+        ],
+        "Code Review": [],
+        "React.js": [],
+        "Automation": [],
+        "JavaScript": [],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Software Engineering": [],
+        "DevOps": [],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Exploration": [],
+        "High performance": [],
+        "Ruby": [],
+        "Azure technologies": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Rust": [],
+        "Web development": [],
+        "Architecture Design": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "User experience (UX)": [],
+        "APIs": [],
+        "Compute technologies": [],
+        "Creative Problem Solving": [],
+        "Testing": [
+            "CS164"
+        ],
+        "Mentorship": [],
+        "Support Applications": [],
+        "Strong communication skills": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Golang": [],
+        "C": [
+            "CS270"
+        ],
+        "Maintainable code": [],
+        "Technical leadership": [],
+        "GitHub": [],
+        "C#": [],
+        "Programming": [],
+        "Modeling": [],
+        "Design": [],
+        "Feedback": [],
+        "Development": [],
+        "Leadership": [],
+        "Agile environment": [],
+        "Git": [
+            "CS314",
+            "CS164",
+            "CS214"
+        ],
+        "Efficiency": [],
+        "High-quality systems": [],
+        "Implementation": [],
+        "Prototyping": [
+            "CS464"
+        ]
+    },
+    "Github_Software_Engineer_2": {
+        "missing_skills": [
+            "Code Review",
+            "React.js",
+            "Automation",
+            "Autonomy",
+            "JavaScript",
+            "Software Engineering",
+            "DevOps",
+            "Collaboration",
+            "Backend development",
+            "Ruby",
+            "Front-end frameworks",
+            "Azure technologies",
+            "Rust",
+            "Architecture Design",
+            "Innovation",
+            "User experience (UX)",
+            "APIs",
+            "Compute technologies",
+            "Creative Problem Solving",
+            "Support Applications",
+            "Mentorship",
+            "Golang",
+            "Maintainable code",
+            "Creative Solutions",
+            "Technical leadership",
+            "GitHub",
+            "C#",
+            "Programming",
+            "Software Development",
+            "Frontend development",
+            "Design",
+            "Feedback",
+            "Leadership",
+            "Development",
+            "Agile environment",
+            "Requirements gathering",
+            "High-quality systems",
+            "Implementation"
+        ],
+        "Code Review": [],
+        "React.js": [],
+        "Automation": [],
+        "Autonomy": [],
+        "JavaScript": [],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Software Engineering": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "DevOps": [],
+        "Collaboration": [],
+        "Backend development": [],
+        "Ruby": [],
+        "Front-end frameworks": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Azure technologies": [],
+        "Rust": [],
+        "Architecture Design": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "User experience (UX)": [],
+        "APIs": [],
+        "Compute technologies": [],
+        "Creative Problem Solving": [],
+        "Testing": [
+            "CS164"
+        ],
+        "Mentorship": [],
+        "Support Applications": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Golang": [],
+        "Maintainable code": [],
+        "C": [
+            "CS270"
+        ],
+        "Creative Solutions": [],
+        "Technical leadership": [],
+        "GitHub": [],
+        "C#": [],
+        "Programming": [],
+        "Software Development": [],
+        "Frontend development": [],
+        "Design": [],
+        "Feedback": [],
+        "Leadership": [],
+        "Development": [],
+        "Agile environment": [],
+        "Git": [
+            "CS314",
+            "CS164",
+            "CS214"
+        ],
+        "Requirements gathering": [],
+        "High-quality systems": [],
+        "Implementation": [],
+        "Prototyping": [
+            "CS464"
+        ]
+    },
+    "Google_ML_Analyst": {
+        "missing_skills": [
+            "Insights Drawing",
+            "Presentation skills",
+            "Feature engineering",
+            "Data visualization",
+            "Decision making",
+            "Machine learning",
+            "Statistics Generation",
+            "Problem Solving Skills",
+            "Data exploration",
+            "Safety",
+            "Protection",
+            "SQL",
+            "Data analysis",
+            "Technical leadership",
+            "Programming",
+            "Fraud Prevention",
+            "Analytical skills",
+            "Modeling",
+            "Trend Identification",
+            "User safety",
+            "Cross-functional collaboration",
+            "User insights",
+            "Efficiency",
+            "R"
+        ],
+        "Insights Drawing": [],
+        "Presentation skills": [],
+        "Feature engineering": [],
+        "Data visualization": [],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Decision making": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Machine learning": [],
+        "Statistics Generation": [],
+        "Problem Solving Skills": [],
+        "Data exploration": [],
+        "Safety": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Project Management": [
+            "CS314",
+            "CS214"
+        ],
+        "Protection": [],
+        "Communication": [
+            "CS314"
+        ],
+        "SQL": [],
+        "Data analysis": [],
+        "Technical leadership": [],
+        "Programming": [],
+        "Fraud Prevention": [],
+        "Analytical skills": [],
+        "Modeling": [],
+        "Trend Identification": [],
+        "User safety": [],
+        "Cross-functional collaboration": [],
+        "User insights": [],
+        "Security": [
+            "CS150",
+            "CS110"
+        ],
+        "Efficiency": [],
+        "R": []
+    },
+    "Google_ML_Engineer_Silicon": {
+        "missing_skills": [
+            "Hardware design",
+            "Design",
+            "Implementation",
+            "Performance",
+            "SoC",
+            "AI/ML",
+            "Development",
+            "Software Engineering",
+            "Software Development",
+            "Collaboration",
+            "Machine learning",
+            "AI and ML accelerators",
+            "Innovation",
+            "Simulation",
+            "Compute technologies",
+            "Efficiency",
+            "Compilers",
+            "Improvement"
+        ],
+        "AI/ML": [],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Software Engineering": [],
+        "Collaboration": [],
+        "Machine learning": [],
+        "AI and ML accelerators": [],
+        "Hardware design": [],
+        "Verification": [
+            "CS314"
+        ],
+        "Performance": [],
+        "Innovation": [],
+        "Simulation": [],
+        "Compute technologies": [],
+        "Testing": [
+            "CS164"
+        ],
+        "Compilers": [],
+        "Improvement": [],
+        "Communication": [
+            "CS314"
+        ],
+        "C": [
+            "CS270"
+        ],
+        "SoC": [],
+        "Software Development": [],
+        "Research": [
+            "CS150",
+            "CS110"
+        ],
+        "Design": [],
+        "Development": [],
+        "Efficiency": [],
+        "Implementation": []
+    },
+    "Google_Software_Engineer_Youtube_Design": {
+        "missing_skills": [
+            "TypeScript",
+            "Code Review",
+            "HTML",
+            "JavaScript",
+            "Collaboration",
+            "Backend development",
+            "Deployment",
+            "Natural language processing (NLP)",
+            "Innovation",
+            "Distributed computing",
+            "Data storage",
+            "Compute technologies",
+            "Golang",
+            "Large-scale system design",
+            "Information retrieval",
+            "Creative Solutions",
+            "Quality Experiences",
+            "Maintaining software applications",
+            "Programming",
+            "Software Development",
+            "Artificial Intelligence (AI)",
+            "Frontend development",
+            "User Interfaces (UI)",
+            "Design",
+            "Cross-functional collaboration",
+            "Experience with data structures",
+            "Full stack development",
+            "Implementation",
+            "CSS",
+            "Experience with algorithms"
+        ],
+        "TypeScript": [],
+        "Code Review": [],
+        "HTML": [],
+        "JavaScript": [],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "Backend development": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Deployment": [],
+        "Documentation": [
+            "CS214"
+        ],
+        "Natural language processing (NLP)": [],
+        "Innovation": [],
+        "Distributed computing": [],
+        "Data storage": [],
+        "Compute technologies": [],
+        "Testing": [
+            "CS164"
+        ],
+        "Communication": [
+            "CS314"
+        ],
+        "Golang": [],
+        "Large-scale system design": [],
+        "C": [
+            "CS270"
+        ],
+        "Information retrieval": [],
+        "Creative Solutions": [],
+        "Quality Experiences": [],
+        "Maintaining software applications": [],
+        "Programming": [],
+        "Software Development": [],
+        "Artificial Intelligence (AI)": [],
+        "Frontend development": [],
+        "User Interfaces (UI)": [],
+        "Design": [],
+        "Cross-functional collaboration": [],
+        "Experience with data structures": [],
+        "Networking": [
+            "CS314"
+        ],
+        "Full stack development": [],
+        "Security": [
+            "CS150",
+            "CS110"
+        ],
+        "Implementation": [],
+        "CSS": [],
+        "Experience with algorithms": []
+    },
+    "Google_UX_Designer": {
+        "missing_skills": [
+            "Experience with design tools",
+            "User interface mockups",
+            "User workflows",
+            "Creative Solutions",
+            "Designing across multiple platforms",
+            "User-centered design",
+            "Leadership",
+            "Product development",
+            "Web development",
+            "Collaboration",
+            "Innovation",
+            "User experience (UX)",
+            "Usability Evaluation",
+            "Wireframes",
+            "User Interfaces (UI)",
+            "Content Strategy"
+        ],
+        "Designing across multiple platforms": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "Usability Evaluation": [],
+        "Content Strategy": [],
+        "Experience with design tools": [],
+        "User-centered design": [],
+        "Web development": [],
+        "Innovation": [],
+        "User experience (UX)": [],
+        "Communication": [
+            "CS314"
+        ],
+        "User interface mockups": [],
+        "Creative Solutions": [],
+        "Product development": [],
+        "User Interfaces (UI)": [],
+        "Research": [
+            "CS150",
+            "CS110"
+        ],
+        "User workflows": [],
+        "Leadership": [],
+        "Wireframes": [],
+        "Prototyping": [
+            "CS464"
+        ]
+    },
+    "HPE_AI_ML_Engineer": {
+        "missing_skills": [
+            "System Design",
+            "Statistical Modeling",
+            "Large Scale Computing",
+            "Data visualization",
+            "Data analysis",
+            "Software Frameworks",
+            "Unstructured Data",
+            "Data Quality",
+            "Machine learning",
+            "Deep learning",
+            "Structured Data",
+            "Modeling"
+        ],
+        "System Design": [],
+        "Statistical Modeling": [],
+        "Optimization": [
+            "CS314"
+        ],
+        "Large Scale Computing": [],
+        "Data visualization": [],
+        "Data analysis": [],
+        "Debugging": [
+            "CS164",
+            "CS214"
+        ],
+        "Algorithms": [
+            "CS165",
+            "CS164",
+            "CS152"
+        ],
+        "Unstructured Data": [],
+        "Software Frameworks": [],
+        "Data Quality": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Machine learning": [],
+        "Deep learning": [],
+        "Structured Data": [],
+        "Testing": [
+            "CS164"
+        ],
+        "Modeling": []
+    },
+    "HPE_Cloud_Developer": {
+        "missing_skills": [
+            "Design",
+            "Monitoring",
+            "Deployment",
+            "Continuous Delivery (CD)",
+            "DevOps",
+            "Innovation",
+            "Efficiency",
+            "Cloud Technology",
+            "Problem Solving Skills"
+        ],
+        "Design": [],
+        "Monitoring": [],
+        "Deployment": [],
+        "Continuous Delivery (CD)": [],
+        "DevOps": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Efficiency": [],
+        "Cloud Technology": [],
+        "Problem Solving Skills": [],
+        "Prototyping": [
+            "CS464"
+        ]
+    },
+    "HPE_Data_Scientist": {
+        "missing_skills": [
+            "Exploratory Data Analysis (EDA)",
+            "Data visualization",
+            "Load (ETL)",
+            "Decision making",
+            "Collaboration",
+            "Machine learning",
+            "Problem Solving Skills",
+            "Data Validation",
+            "Hypothesis Matrix",
+            "Extract",
+            "Predictive Analytics",
+            "Data loading",
+            "Data management",
+            "User experience (UX)",
+            "Statistical Analysis System (SAS)",
+            "Business operations",
+            "Data preparation",
+            "Data analysis",
+            "Analytical skills",
+            "Modeling",
+            "Statistics",
+            "Transform",
+            "Data Integration",
+            "SPSS",
+            "R"
+        ],
+        "Exploratory Data Analysis (EDA)": [],
+        "Data visualization": [],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Decision making": [],
+        "Load (ETL)": [],
+        "Collaboration": [],
+        "Machine learning": [],
+        "Problem Solving Skills": [],
+        "Data Validation": [],
+        "Predictive Analytics": [],
+        "Extract": [],
+        "Data loading": [],
+        "Data management": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "User experience (UX)": [],
+        "Statistical Analysis System (SAS)": [],
+        "SPSS": [],
+        "Business operations": [],
+        "Data preparation": [],
+        "Data analysis": [],
+        "Analytical skills": [],
+        "Modeling": [],
+        "Statistics": [],
+        "Transform": [],
+        "Data Integration": [],
+        "Hypothesis Matrix": [],
+        "R": []
+    },
+    "HPE_Electrical_Hardware_Engineer": {
+        "missing_skills": [
+            "Design",
+            "Reliability",
+            "Development",
+            "Product development",
+            "Evaluation",
+            "Problem Solving Skills",
+            "Analytical skills"
+        ],
+        "Design": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Reliability": [],
+        "Development": [],
+        "Product development": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Evaluation": [],
+        "Problem Solving Skills": [],
+        "Testing": [
+            "CS164"
+        ],
+        "Analytical skills": []
+    },
+    "HPE_Engineer": {
+        "missing_skills": [
+            "Design",
+            "Software Development",
+            "Validation",
+            "Technical leadership"
+        ],
+        "Design": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Technical leadership": [],
+        "Debugging": [
+            "CS164",
+            "CS214"
+        ],
+        "Software Development": [],
+        "Validation": []
+    },
+    "HPE_Engineering_Program_Manager": {
+        "missing_skills": [
+            "Organization",
+            "Autonomy",
+            "Leadership",
+            "Reporting",
+            "Collaboration",
+            "Efficiency",
+            "Problem Solving Skills",
+            "Analytical skills"
+        ],
+        "Communication": [
+            "CS314"
+        ],
+        "Documentation": [
+            "CS214"
+        ],
+        "Organization": [],
+        "Autonomy": [],
+        "Leadership": [],
+        "Reporting": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Collaboration": [],
+        "Project Management": [
+            "CS314",
+            "CS214"
+        ],
+        "Efficiency": [],
+        "Problem Solving Skills": [],
+        "Analytical skills": []
+    },
+    "HPE_Experience_Design_Engineer": {
+        "missing_skills": [
+            "Autonomy",
+            "Data analysis",
+            "Collaboration",
+            "User experience (UX)",
+            "Problem Solving Skills",
+            "Analytical skills"
+        ],
+        "Communication": [
+            "CS314"
+        ],
+        "Autonomy": [],
+        "Data analysis": [],
+        "Collaboration": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "User experience (UX)": [],
+        "Problem Solving Skills": [],
+        "Analytical skills": []
+    },
+    "HPE_Industrial_Engineer": {
+        "missing_skills": [
+            "Decision making",
+            "Analytical skills",
+            "Problem Solving Skills"
+        ],
+        "Decision making": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Analytical skills": [],
+        "Problem Solving Skills": []
+    },
+    "HPE_Mechanical_Engineer": {
+        "missing_skills": [
+            "Design",
+            "Reliability",
+            "Leadership",
+            "Evaluation",
+            "Problem Solving Skills",
+            "CAD Software",
+            "Analytical skills"
+        ],
+        "Design": [],
+        "Reliability": [],
+        "Prototyping": [
+            "CS464"
+        ],
+        "Leadership": [],
+        "Testing": [
+            "CS164"
+        ],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Evaluation": [],
+        "Problem Solving Skills": [],
+        "CAD Software": [],
+        "Analytical skills": []
+    },
+    "HPE_Product_Engineer": {
+        "missing_skills": [
+            "Product development",
+            "Process improvement",
+            "Quality control",
+            "Problem Solving Skills",
+            "Analytical skills"
+        ],
+        "Product development": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Process improvement": [],
+        "Quality control": [],
+        "Problem Solving Skills": [],
+        "Analytical skills": []
+    },
+    "HPE_Product_Manager": {
+        "missing_skills": [
+            "Autonomy",
+            "Forecasting",
+            "Product development",
+            "Financial literacy",
+            "Innovation",
+            "Problem Solving Skills",
+            "Analytical skills"
+        ],
+        "Autonomy": [],
+        "Forecasting": [],
+        "Product development": [],
+        "Financial literacy": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Project Management": [
+            "CS314",
+            "CS214"
+        ],
+        "Problem Solving Skills": [],
+        "Analytical skills": []
+    },
+    "HPE_Quality_Assurance_Engineer": {
+        "missing_skills": [
+            "Collaboration",
+            "Efficiency",
+            "Analytical skills",
+            "Problem Solving Skills"
+        ],
+        "Documentation": [
+            "CS214"
+        ],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Efficiency": [],
+        "Problem Solving Skills": [],
+        "Analytical skills": []
+    },
+    "HPE_Quality_Engineer": {
+        "missing_skills": [
+            "Six Sigma",
+            "Lean Sigma",
+            "Data analysis",
+            "Quality control",
+            "Problem Solving Skills",
+            "Analytical skills"
+        ],
+        "Communication": [
+            "CS314"
+        ],
+        "Six Sigma": [],
+        "Lean Sigma": [],
+        "Data analysis": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Quality control": [],
+        "Problem Solving Skills": [],
+        "Testing": [
+            "CS164"
+        ],
+        "Analytical skills": []
+    },
+    "HPE_Research_Engineer": {
+        "missing_skills": [
+            "Data analysis",
+            "Development",
+            "Scientific research",
+            "Collaboration",
+            "Innovation",
+            "Publications",
+            "Problem Solving Skills",
+            "Implementation",
+            "Analytical skills"
+        ],
+        "Problem Solving Skills": [],
+        "Analytical skills": [],
+        "Development": [],
+        "Data analysis": [],
+        "Scientific research": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Collaboration": [],
+        "Publications": [],
+        "Implementation": [],
+        "Research": [
+            "CS150",
+            "CS110"
+        ]
+    },
+    "HPE_Software_Designer": {
+        "missing_skills": [
+            "Analytical skills",
+            "Code Review",
+            "Maintaining software applications",
+            "Software testing",
+            "Programming",
+            "Software Development",
+            "Application Design",
+            "Requirements gathering",
+            "Collaboration",
+            "Problem Solving Skills",
+            "Logging"
+        ],
+        "Communication": [
+            "CS314"
+        ],
+        "Code Review": [],
+        "Software Design": [
+            "CS214"
+        ],
+        "Documentation": [
+            "CS214"
+        ],
+        "Maintaining software applications": [],
+        "Software testing": [],
+        "Debugging": [
+            "CS164",
+            "CS214"
+        ],
+        "Programming": [],
+        "Software Development": [],
+        "Application Design": [],
+        "Requirements gathering": [],
+        "Collaboration": [],
+        "Logging": [],
+        "Problem Solving Skills": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Analytical skills": []
+    },
+    "HPE_SW_Engineer_Firmware": {
+        "missing_skills": [
+            "Hardware design",
+            "Design",
+            "Analytical skills",
+            "Efficiency",
+            "Assembly Language",
+            "Problem Solving Skills",
+            "Firmware Development",
+            "Logging"
+        ],
+        "Hardware design": [],
+        "Design": [],
+        "Communication": [
+            "CS314"
+        ],
+        "C": [
+            "CS270"
+        ],
+        "Operating Systems": [
+            "CS370"
+        ],
+        "C++": [
+            "CS270"
+        ],
+        "Debugging": [
+            "CS164",
+            "CS214"
+        ],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Efficiency": [],
+        "Assembly Language": [],
+        "Problem Solving Skills": [],
+        "Logging": [],
+        "Firmware Development": [],
+        "Analytical skills": []
+    },
+    "HPE_Systems_Software_Engineer": {
+        "missing_skills": [
+            "Hardware design",
+            "Programming",
+            "Coding skills",
+            "Problem Solving Skills",
+            "Routers",
+            "Compilers",
+            "Analytical skills"
+        ],
+        "Databases": [
+            "CS314",
+            "CS250",
+            "CS110 - Modules",
+            "CS312"
+        ],
+        "Hardware design": [],
+        "Software Design": [
+            "CS214"
+        ],
+        "Operating Systems": [
+            "CS370"
+        ],
+        "Networking": [
+            "CS314"
+        ],
+        "Programming": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Coding skills": [],
+        "Problem Solving Skills": [],
+        "Routers": [],
+        "Compilers": [],
+        "Analytical skills": []
+    },
+    "HPE_Test_Engineer": {
+        "missing_skills": [
+            "Test Planning",
+            "System Design",
+            "Scheduling",
+            "Problem Solving Skills",
+            "Analytical skills"
+        ],
+        "Communication": [
+            "CS314"
+        ],
+        "System Design": [],
+        "Test Planning": [],
+        "Scheduling": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Problem Solving Skills": [],
+        "Analytical skills": []
+    },
+    "HPE_VLSI_Engineer": {
+        "missing_skills": [
+            "Design",
+            "Hardware design",
+            "Automation",
+            "Decision making",
+            "Programming",
+            "Efficiency",
+            "Problem Solving Skills",
+            "Electronic Design",
+            "Scripting",
+            "Analytical skills"
+        ],
+        "Design": [],
+        "Hardware design": [],
+        "Automation": [],
+        "Algorithms": [
+            "CS165",
+            "CS164",
+            "CS152"
+        ],
+        "Decision making": [],
+        "Programming": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Efficiency": [],
+        "Problem Solving Skills": [],
+        "Electronic Design": [],
+        "Scripting": [],
+        "Analytical skills": []
+    },
+    "HP_Associate_Software_Developer": {
+        "missing_skills": [
+            "TypeScript",
+            "Automation",
+            "JavaScript",
+            "DevOps",
+            "Collaboration",
+            "Terraform",
+            "Node.js",
+            "High standards",
+            "Automated tests",
+            "Innovation",
+            "Creative Solutions",
+            "End-to-End Tests",
+            "Technical leadership",
+            "Automated security scanning",
+            "Software Development",
+            "API Tests",
+            "Virtual Desktop Infrastructure",
+            "Agile software development",
+            "Test Automation"
+        ],
+        "TypeScript": [],
+        "Automation": [],
+        "JavaScript": [],
+        "Integration Tests": [
+            "CS314"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "DevOps": [],
+        "Collaboration": [],
+        "Node.js": [],
+        "Terraform": [],
+        "Microservices": [
+            "CS312"
+        ],
+        "High standards": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Automated tests": [],
+        "Testing": [
+            "CS164"
+        ],
+        "Creative Solutions": [],
+        "End-to-End Tests": [],
+        "Technical leadership": [],
+        "Automated security scanning": [],
+        "Software Development": [],
+        "API Tests": [],
+        "Virtual Desktop Infrastructure": [],
+        "Agile software development": [],
+        "Test Automation": []
+    },
+    "HP_Software_Quality_Engineer": {
+        "missing_skills": [
+            "Code Review",
+            "Agile development",
+            "Software Engineering",
+            "Collaboration",
+            "Software Quality (SQA/SQC)",
+            "Problem Solving Skills",
+            "Testing Strategies",
+            "Customer needs",
+            "CI/CD",
+            "Innovation",
+            "Customer engagement",
+            "Mentorship",
+            "Test Planning",
+            "Agile methodology",
+            "Design Discussions",
+            "Product validation",
+            "JIRA",
+            "Software Development",
+            "Coding skills",
+            "TestRail",
+            "Analytical skills",
+            "Building new solutions",
+            "Design",
+            "Manual Testing",
+            "Software testing",
+            "Leadership",
+            "Efficiency",
+            "Scripting"
+        ],
+        "Code Review": [],
+        "Agile development": [],
+        "Software Engineering": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "Software Quality (SQA/SQC)": [],
+        "Problem Solving Skills": [],
+        "Testing Strategies": [],
+        "Customer needs": [],
+        "CI/CD": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Customer engagement": [],
+        "Project Management": [
+            "CS314",
+            "CS214"
+        ],
+        "Testing": [
+            "CS164"
+        ],
+        "Mentorship": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Test Planning": [],
+        "Agile methodology": [],
+        "Product validation": [],
+        "JIRA": [],
+        "Debugging": [
+            "CS164",
+            "CS214"
+        ],
+        "Software Development": [],
+        "Coding skills": [],
+        "TestRail": [],
+        "Analytical skills": [],
+        "Building new solutions": [],
+        "Design": [],
+        "Manual Testing": [],
+        "Software testing": [],
+        "Scripting": [],
+        "Leadership": [],
+        "Efficiency": [],
+        "Design Discussions": []
+    },
+    "Meta_Software_Engineer": {
+        "missing_skills": [
+            "Code Review",
+            "Embedded systems",
+            "AR/VR",
+            "Augmented reality",
+            "Game engine development",
+            "Collaboration",
+            "Problem Solving Skills",
+            "mobile app development",
+            "Hardware design",
+            "Mobile Software Experience",
+            "Software architecture",
+            "Innovation",
+            "Software engineering quality",
+            "Firmware Development",
+            "Technical leadership",
+            "robotics",
+            "Programming",
+            "Software Development",
+            "Artificial Intelligence (AI)",
+            "PHP",
+            "Analytical skills",
+            "Design",
+            "Infrastructure",
+            "Development",
+            "Architectural tradeoffs",
+            "Efficiency",
+            "Virtual reality",
+            "Hardware development"
+        ],
+        "Code Review": [],
+        "Embedded systems": [],
+        "AR/VR": [],
+        "Hardware": [
+            "CS110"
+        ],
+        "Augmented reality": [],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Game engine development": [],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "mobile app development": [],
+        "Hardware design": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Mobile Software Experience": [],
+        "Documentation": [
+            "CS214"
+        ],
+        "Software architecture": [],
+        "Operating Systems": [
+            "CS370"
+        ],
+        "Innovation": [],
+        "Software engineering quality": [],
+        "Testing": [
+            "CS164"
+        ],
+        "Firmware Development": [],
+        "Prototyping": [
+            "CS464"
+        ],
+        "Technical leadership": [],
+        "Debugging": [
+            "CS164",
+            "CS214"
+        ],
+        "Programming": [],
+        "Software Development": [],
+        "Artificial Intelligence (AI)": [],
+        "PHP": [],
+        "Analytical skills": [],
+        "Design": [],
+        "Hardware development": [],
+        "Infrastructure": [],
+        "Development": [],
+        "Architectural tradeoffs": [],
+        "Efficiency": [],
+        "Virtual reality": [],
+        "robotics": []
+    },
+    "Meta_Software_Engineer_Android": {
+        "missing_skills": [
+            "Analytical skills",
+            "Android native languages",
+            "Android Programming Techniques",
+            "Multithreading programming",
+            "User Interfaces (UI)",
+            "Performance",
+            "Infrastructure",
+            "Programming",
+            "Software Development",
+            "Building Reusable Android Software Components",
+            "Unit testing",
+            "Building complex applications targeting Android",
+            "Mobile memory management",
+            "Efficiency",
+            "Benchmarking",
+            "Performance Debugging",
+            "API design"
+        ],
+        "Android native languages": [],
+        "Optimization": [
+            "CS314"
+        ],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Benchmarking": [],
+        "Performance Debugging": [],
+        "Performance": [],
+        "Building Reusable Android Software Components": [],
+        "Unit testing": [],
+        "API design": [],
+        "Programming": [],
+        "Software Development": [],
+        "Building complex applications targeting Android": [],
+        "Android Programming Techniques": [],
+        "Analytical skills": [],
+        "User Interfaces (UI)": [],
+        "Multithreading programming": [],
+        "Infrastructure": [],
+        "Mobile memory management": [],
+        "Efficiency": []
+    },
+    "Meta_Software_Engineer_Codesign": {
+        "missing_skills": [
+            "Collaboration",
+            "Large-scale infrastructure",
+            "AI and ML accelerators",
+            "Publications",
+            "Problem Solving Skills",
+            "Hardware design",
+            "Storage Systems",
+            "Compute technologies",
+            "Community Contribution",
+            "Full stack analysis",
+            "Technical leadership",
+            "Programming",
+            "PHP",
+            "Analytical skills",
+            "GPUs",
+            "workload architectural analysis",
+            "CPUs",
+            "Distributed systems",
+            "Scripting"
+        ],
+        "Hardware": [
+            "CS110"
+        ],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Collaboration": [],
+        "Large-scale infrastructure": [],
+        "AI and ML accelerators": [],
+        "Publications": [],
+        "Problem Solving Skills": [],
+        "Hardware design": [],
+        "Storage Systems": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Compute technologies": [],
+        "Community Contribution": [],
+        "Full stack analysis": [],
+        "Communication": [
+            "CS314"
+        ],
+        "C": [
+            "CS270"
+        ],
+        "Technical leadership": [],
+        "Programming": [],
+        "PHP": [],
+        "Analytical skills": [],
+        "GPUs": [],
+        "workload architectural analysis": [],
+        "CPUs": [],
+        "Networking": [
+            "CS314"
+        ],
+        "Distributed systems": [],
+        "Scripting": []
+    },
+    "Meta_Software_Engineer_Computer_Vision": {
+        "missing_skills": [
+            "Methodology Development",
+            "AR/VR",
+            "System Interaction",
+            "PyTorch",
+            "Machine learning",
+            "Vision Systems",
+            "AI system design",
+            "Benchmarking",
+            "Architecture Design",
+            "Innovation",
+            "Deep learning",
+            "Mentorship",
+            "Computer Vision",
+            "Experience with distributed systems",
+            "Technical leadership",
+            "Programming",
+            "Artificial Intelligence (AI)",
+            "ML rigor",
+            "Leadership"
+        ],
+        "Methodology Development": [],
+        "AR/VR": [],
+        "System Interaction": [],
+        "PyTorch": [],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Machine learning": [],
+        "Vision Systems": [],
+        "AI system design": [],
+        "Benchmarking": [],
+        "Architecture Design": [],
+        "Innovation": [],
+        "Deep learning": [],
+        "Mentorship": [],
+        "Computer Vision": [],
+        "Experience with distributed systems": [],
+        "Technical leadership": [],
+        "Programming": [],
+        "Artificial Intelligence (AI)": [],
+        "ML rigor": [],
+        "Leadership": []
+    },
+    "Meta_Software_Engineer_Frontend": {
+        "missing_skills": [
+            "React.js",
+            "HTML",
+            "JavaScript",
+            "Software Engineering",
+            "Collaboration",
+            "High performance",
+            "Performance Debugging",
+            "Front-end frameworks",
+            "Reusable",
+            "Front-end Systems",
+            "Architecture Design",
+            "Unit testing",
+            "Innovation",
+            "Large-Scale Product Development",
+            "API design",
+            "Software Development",
+            "Designing Interfaces",
+            "Performance and Scalability",
+            "User Interface Components",
+            "CSS"
+        ],
+        "React.js": [],
+        "HTML": [],
+        "JavaScript": [],
+        "Software Engineering": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "High performance": [],
+        "Performance Debugging": [],
+        "Front-end frameworks": [],
+        "Reusable": [],
+        "Front-end Systems": [],
+        "Architecture Design": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Unit testing": [],
+        "Large-Scale Product Development": [],
+        "API design": [],
+        "Web Applications": [
+            "CS312"
+        ],
+        "Software Development": [],
+        "Designing Interfaces": [],
+        "Performance and Scalability": [],
+        "User Interface Components": [],
+        "CSS": []
+    },
+    "Meta_Software_Engineer_Infrastructure": {
+        "missing_skills": [
+            "Code Review",
+            "Monitoring",
+            "JavaScript",
+            "Software Engineering",
+            "Collaboration",
+            "Quality improvement",
+            "Building large-scale infrastructure applications",
+            "Compute technologies",
+            "System Resources",
+            "Design Reviews",
+            "Reliability",
+            "Technical leadership",
+            "Software Development",
+            "PHP",
+            "Analytical skills",
+            "Design",
+            "Cross-functional collaboration",
+            "Quality work",
+            "Exposure to architectural patterns",
+            "Leadership",
+            "Efficiency",
+            "Large scale software applications",
+            "Scalability"
+        ],
+        "Code Review": [],
+        "Monitoring": [],
+        "JavaScript": [],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Software Engineering": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "Quality improvement": [],
+        "Building large-scale infrastructure applications": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Compute technologies": [],
+        "System Resources": [],
+        "Testing": [
+            "CS164"
+        ],
+        "Communication": [
+            "CS314"
+        ],
+        "Design Reviews": [],
+        "C": [
+            "CS270"
+        ],
+        "Reliability": [],
+        "Technical leadership": [],
+        "Software Development": [],
+        "PHP": [],
+        "Analytical skills": [],
+        "Design": [],
+        "Cross-functional collaboration": [],
+        "Quality work": [],
+        "Exposure to architectural patterns": [],
+        "Leadership": [],
+        "Efficiency": [],
+        "Large scale software applications": [],
+        "Scalability": []
+    },
+    "Microsoft_Applied_Scientist": {
+        "missing_skills": [
+            "LLMs",
+            "AI/ML",
+            "Active learning",
+            "Load (ETL)",
+            "Time series",
+            "Machine learning",
+            "Collaboration",
+            "Publications",
+            "Probabilistic graphical models",
+            "Predictive Analytics",
+            "Extract",
+            "Statistical Techniques",
+            "Innovation",
+            "Deep learning",
+            "Compute technologies",
+            "Data preparation",
+            "Technical leadership",
+            "Scala",
+            "Artificial Intelligence (AI)",
+            "Data integrity",
+            "Multi-modal models",
+            "Bayesian networks",
+            "Statistics",
+            "Critical feedback",
+            "Data-driven Research",
+            "Transform",
+            "Reinforcement learning",
+            "SLMs",
+            "R"
+        ],
+        "LLMs": [],
+        "AI/ML": [],
+        "Active learning": [],
+        "Load (ETL)": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Time series": [],
+        "Machine learning": [],
+        "Collaboration": [],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "R": [],
+        "Publications": [],
+        "Probabilistic graphical models": [],
+        "Extract": [],
+        "Predictive Analytics": [],
+        "Statistical Techniques": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Deep learning": [],
+        "Compute technologies": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Data preparation": [],
+        "Technical leadership": [],
+        "Scala": [],
+        "Artificial Intelligence (AI)": [],
+        "Data integrity": [],
+        "Research": [
+            "CS150",
+            "CS110"
+        ],
+        "Bayesian networks": [],
+        "Statistics": [],
+        "Critical feedback": [],
+        "Data-driven Research": [],
+        "Transform": [],
+        "Reinforcement learning": [],
+        "SLMs": [],
+        "Multi-modal models": []
+    },
+    "Microsoft_Fullstack": {
+        "missing_skills": [
+            "Compliance",
+            "Automation",
+            "Monitoring",
+            "Service level agreement",
+            "Reliability",
+            "Performance",
+            "JavaScript",
+            "Data analysis",
+            "Safety",
+            "C#",
+            "Programming",
+            "Software Development",
+            "Collaboration",
+            "Innovation",
+            "Efficiency",
+            "Problem Solving Skills",
+            "Accessibility"
+        ],
+        "Automation": [],
+        "Monitoring": [],
+        "JavaScript": [],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Performance": [],
+        "Safety": [],
+        "Innovation": [],
+        "C": [
+            "CS270"
+        ],
+        "Service level agreement": [],
+        "Reliability": [],
+        "Data analysis": [],
+        "C#": [],
+        "Programming": [],
+        "Software Development": [],
+        "Compliance": [],
+        "Privacy": [
+            "CS150",
+            "CS110",
+            "CS456"
+        ],
+        "Security": [
+            "CS150",
+            "CS110"
+        ],
+        "Efficiency": [],
+        "Accessibility": []
+    },
+    "Microsoft_Security_Researcher": {
+        "missing_skills": [
+            "Experimentation",
+            "Penetration testing",
+            "Automation",
+            "Cloud computing",
+            "Data Mining",
+            "Threat Actor TTPs",
+            "Machine learning",
+            "Apache Spark",
+            "Malicious Activity Detection",
+            "Security Domain",
+            "Problem Solving Skills",
+            "Intelligence Requirements",
+            "Incident response",
+            "Regulatory Scrutiny",
+            "Architecture Design",
+            "Threat Hunts",
+            "Innovation",
+            "Distributed computing",
+            "Address Security Issues",
+            "Data-driven inference methods",
+            "Digital Technology Platforms",
+            "Signature Detection",
+            "Cloud Identity TTPs",
+            "Technical leadership",
+            "Cloud architectures",
+            "Product development",
+            "Threat Analysis",
+            "Programming",
+            "Scala",
+            "C#",
+            "Data analysis",
+            "Protect tools",
+            "Systemic Security Issues",
+            "Telemetry",
+            "Strong Quantitative Skills",
+            "Code Contribution",
+            "Research Methodology",
+            "Statistics",
+            "Analyze Threat Trends",
+            "Threat Reporting",
+            "Actionable Intelligence",
+            "Operational Impact",
+            "Security Analysis"
+        ],
+        "Experimentation": [],
+        "Penetration testing": [],
+        "Automation": [],
+        "Cloud computing": [],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Data Mining": [],
+        "Threat Actor TTPs": [],
+        "Machine learning": [],
+        "Apache Spark": [],
+        "Problem Solving Skills": [],
+        "Security Domain": [],
+        "Malicious Activity Detection": [],
+        "Intelligence Requirements": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Incident response": [],
+        "Regulatory Scrutiny": [],
+        "Architecture Design": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Distributed computing": [],
+        "Project Management": [
+            "CS314",
+            "CS214"
+        ],
+        "Threat Hunts": [],
+        "Address Security Issues": [],
+        "Data-driven inference methods": [],
+        "Digital Technology Platforms": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Malware Analysis": [
+            "CS456"
+        ],
+        "Signature Detection": [],
+        "Cloud Identity TTPs": [],
+        "Technical leadership": [],
+        "Cloud architectures": [],
+        "Product development": [],
+        "Threat Analysis": [],
+        "Programming": [],
+        "Scala": [],
+        "C#": [],
+        "Data analysis": [],
+        "Protect tools": [],
+        "Systemic Security Issues": [],
+        "Telemetry": [],
+        "Strong Quantitative Skills": [],
+        "Research": [
+            "CS150",
+            "CS110"
+        ],
+        "Code Contribution": [],
+        "Research Methodology": [],
+        "Statistics": [],
+        "Analyze Threat Trends": [],
+        "Security": [
+            "CS150",
+            "CS110"
+        ],
+        "Threat Reporting": [],
+        "Actionable Intelligence": [],
+        "Operational Impact": [],
+        "Security Analysis": [],
+        "Prototyping": [
+            "CS464"
+        ]
+    },
+    "Microsoft_Software_Engineering_Security": {
+        "missing_skills": [
+            "Deployment practices",
+            "Time management",
+            "Security tools",
+            "Automation",
+            "Feedback Integration",
+            "JavaScript",
+            "Software Engineering",
+            "Collaboration",
+            "Problem Solving Skills",
+            "Logs",
+            "Regulations",
+            "Performance",
+            "Customer needs",
+            "Safety",
+            "Identifying Dependencies",
+            "Design Documentation",
+            "Continuous improvement (CI)",
+            "Secure coding standards",
+            "Business operations",
+            "Reliability",
+            "Data analysis",
+            "Estimations",
+            "C#",
+            "Programming",
+            "Software Development",
+            "Code building",
+            "Telemetry",
+            "Analytical skills",
+            "Tooling",
+            "Security Policies",
+            "Compliance",
+            "Feedback",
+            "Product Security",
+            "Development",
+            "Efficiency",
+            "Test Automation",
+            "System behavior insights"
+        ],
+        "Deployment practices": [],
+        "Time management": [],
+        "Security tools": [],
+        "Automation": [],
+        "Feedback Integration": [],
+        "JavaScript": [],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Software Engineering": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Logs": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Regulations": [],
+        "Performance": [],
+        "Customer needs": [],
+        "Safety": [],
+        "Testing": [
+            "CS164"
+        ],
+        "Identifying Dependencies": [],
+        "Design Documentation": [],
+        "Continuous improvement (CI)": [],
+        "Communication": [
+            "CS314"
+        ],
+        "C": [
+            "CS270"
+        ],
+        "Secure coding standards": [],
+        "Business operations": [],
+        "Reliability": [],
+        "Data analysis": [],
+        "Debugging": [
+            "CS164",
+            "CS214"
+        ],
+        "C#": [],
+        "Programming": [],
+        "Software Development": [],
+        "Code building": [],
+        "Estimations": [],
+        "Telemetry": [],
+        "Analytical skills": [],
+        "Tooling": [],
+        "Security Policies": [],
+        "Compliance": [],
+        "Feedback": [],
+        "Product Security": [],
+        "Development": [],
+        "Security": [
+            "CS150",
+            "CS110"
+        ],
+        "Efficiency": [],
+        "Test Automation": [],
+        "System behavior insights": []
+    },
+    "Microsoft_Software_Engineer_AI_ML": {
+        "missing_skills": [
+            "Deployment practices",
+            "Feedback Integration",
+            "Automation",
+            "Monitoring",
+            "JavaScript",
+            "AI/ML",
+            "Software Engineering",
+            "Collaboration",
+            "Machine learning",
+            "Problem Solving Skills",
+            "Performance Debugging",
+            "Code Creation",
+            "System functionality",
+            "Performance",
+            "Customer needs",
+            "Safety",
+            "Architecture Design",
+            "Orchestration patterns",
+            "User experience (UX)",
+            "Compute technologies",
+            "Identifying Dependencies",
+            "Design Documentation",
+            "Continuous improvement (CI)",
+            "Service level agreement",
+            "Reliability",
+            "Technical Validation",
+            "Data analysis",
+            "Estimations",
+            "C#",
+            "Programming",
+            "Product development",
+            "Feature Deployments",
+            "Coding skills",
+            "Artificial Intelligence (AI)",
+            "Telemetry",
+            "Compliance",
+            "User Impacts",
+            "Service Impacts",
+            "Efficiency",
+            "ML models",
+            "System behavior insights",
+            "Scalability",
+            "Responsible AI practices",
+            "Accessibility"
+        ],
+        "Deployment practices": [],
+        "Automation": [],
+        "Monitoring": [],
+        "Feedback Integration": [],
+        "JavaScript": [],
+        "C++": [
+            "CS270"
+        ],
+        "AI/ML": [],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Software Engineering": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "Machine learning": [],
+        "Problem Solving Skills": [],
+        "Performance Debugging": [],
+        "Code Creation": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "System functionality": [],
+        "Performance": [],
+        "Customer needs": [],
+        "Safety": [],
+        "Architecture Design": [],
+        "Orchestration patterns": [],
+        "User experience (UX)": [],
+        "Compute technologies": [],
+        "Testing": [
+            "CS164"
+        ],
+        "Identifying Dependencies": [],
+        "Design Documentation": [],
+        "Continuous improvement (CI)": [],
+        "C": [
+            "CS270"
+        ],
+        "Service level agreement": [],
+        "Reliability": [],
+        "Technical Validation": [],
+        "Data analysis": [],
+        "Debugging": [
+            "CS164",
+            "CS214"
+        ],
+        "C#": [],
+        "Programming": [],
+        "Product development": [],
+        "Estimations": [],
+        "Feature Deployments": [],
+        "Coding skills": [],
+        "Artificial Intelligence (AI)": [],
+        "Telemetry": [],
+        "Compliance": [],
+        "User Impacts": [],
+        "Privacy": [
+            "CS150",
+            "CS110",
+            "CS456"
+        ],
+        "Security": [
+            "CS150",
+            "CS110"
+        ],
+        "Service Impacts": [],
+        "Efficiency": [],
+        "ML models": [],
+        "System behavior insights": [],
+        "Scalability": [],
+        "Responsible AI practices": [],
+        "Accessibility": []
+    },
+    "Netflix_Software_Engineer_Intern": {
+        "missing_skills": [
+            "TypeScript",
+            "React.js",
+            "HTML",
+            "Software Engineering",
+            "Collaboration",
+            "Problem Solving Skills",
+            "Product reviews",
+            "Content Engineering",
+            "User-centered design",
+            "Innovation",
+            "Contribution",
+            "User experience (UX)",
+            "Continual improvement",
+            "Mentorship",
+            "System Design",
+            "Maintaining software applications",
+            "Kotlin",
+            "Technical leadership",
+            "Software Development",
+            "Tooling",
+            "Media distribution workflows",
+            "Cross-functional collaboration",
+            "Building media apps"
+        ],
+        "TypeScript": [],
+        "React.js": [],
+        "HTML": [],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Software Engineering": [],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Product reviews": [],
+        "Content Engineering": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "User-centered design": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Contribution": [],
+        "User experience (UX)": [],
+        "Mentorship": [],
+        "Continual improvement": [],
+        "Communication": [
+            "CS314"
+        ],
+        "System Design": [],
+        "Maintaining software applications": [],
+        "Kotlin": [],
+        "Technical leadership": [],
+        "Software Development": [],
+        "Tooling": [],
+        "Media distribution workflows": [],
+        "Cross-functional collaboration": [],
+        "Building media apps": []
+    },
+    "OpenAI_Software_Engineering_Applied_Engineering": {
+        "missing_skills": [
+            "Speed",
+            "MySQL",
+            "React.js",
+            "JavaScript",
+            "AI/ML",
+            "Collaboration",
+            "Problem Solving Skills",
+            "Deadlines",
+            "Customer needs",
+            "Customer engagement",
+            "User experience (UX)",
+            "Compute technologies",
+            "Competing priorities",
+            "Product development",
+            "Programming",
+            "PostgreSQL",
+            "Cross-functional collaboration",
+            "Relational databases",
+            "Cutting edge technology",
+            "Efficiency",
+            "Scalability"
+        ],
+        "Speed": [],
+        "MySQL": [],
+        "React.js": [],
+        "Optimization": [
+            "CS314"
+        ],
+        "JavaScript": [],
+        "AI/ML": [],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Deadlines": [],
+        "Customer needs": [],
+        "Customer engagement": [],
+        "User experience (UX)": [],
+        "Compute technologies": [],
+        "Competing priorities": [],
+        "Product development": [],
+        "Programming": [],
+        "PostgreSQL": [],
+        "Cross-functional collaboration": [],
+        "Relational databases": [],
+        "Cutting edge technology": [],
+        "Efficiency": [],
+        "Scalability": []
+    },
+    "OpenAI_Software_Engineer_Real_Time": {
+        "missing_skills": [
+            "Automation",
+            "Monitoring",
+            "Infrastructure as code (IaC)",
+            "System Optimization",
+            "Cloud computing",
+            "Collaboration",
+            "Problem Solving Skills",
+            "Availability",
+            "Kubernetes",
+            "Resilient systems",
+            "Performance Improvement",
+            "Service Level Indicators",
+            "Performance",
+            "Service mesh technologies",
+            "Troubleshooting",
+            "System Design",
+            "Reliability",
+            "Observability Tools",
+            "Programming",
+            "Scalability",
+            "Service Level Objectives",
+            "Tooling",
+            "Design",
+            "Cloud infrastructure",
+            "Cross-functional collaboration",
+            "Feedback",
+            "Infrastructure",
+            "Development",
+            "Cloud environments",
+            "Efficiency",
+            "Resilient design patterns",
+            "Implementation",
+            "Containerization",
+            "Scripting"
+        ],
+        "Automation": [],
+        "Monitoring": [],
+        "Infrastructure as code (IaC)": [],
+        "System Optimization": [],
+        "Cloud computing": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Availability": [],
+        "Microservices": [
+            "CS312"
+        ],
+        "Kubernetes": [],
+        "Resilient systems": [],
+        "Performance Improvement": [],
+        "Service Level Indicators": [],
+        "Performance": [],
+        "Fault Tolerance": [
+            "CS458"
+        ],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Service mesh technologies": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Troubleshooting": [],
+        "System Design": [],
+        "Reliability": [],
+        "Observability Tools": [],
+        "Programming": [],
+        "Service Level Objectives": [],
+        "Tooling": [],
+        "Design": [],
+        "Configuration Management": [
+            "CS314"
+        ],
+        "Cloud infrastructure": [],
+        "Cross-functional collaboration": [],
+        "Feedback": [],
+        "Infrastructure": [],
+        "Scripting": [],
+        "Development": [],
+        "Security": [
+            "CS150",
+            "CS110"
+        ],
+        "Cloud environments": [],
+        "Efficiency": [],
+        "Resilient design patterns": [],
+        "Implementation": [],
+        "Containerization": [],
+        "Scalability": []
+    },
+    "Paypal_Android_Engineer": {
+        "missing_skills": [
+            "Code Review",
+            "Mobile UI/UX Design",
+            "Experience: mobile UI/UX design",
+            "REST APIs",
+            "Kotlin",
+            "Development",
+            "Software Development Lifecycle",
+            "Agile development",
+            "Java Frameworks",
+            "Programming",
+            "Unit testing",
+            "Collaboration",
+            "Innovation",
+            "Customer engagement",
+            "User experience (UX)",
+            "Software Development",
+            "JSON"
+        ],
+        "Code Review": [],
+        "Experience: mobile UI/UX design": [],
+        "Application Development": [
+            "CS430"
+        ],
+        "Java Frameworks": [],
+        "Agile development": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Software Development Lifecycle": [],
+        "Unit testing": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Customer engagement": [],
+        "User experience (UX)": [],
+        "REST APIs": [],
+        "Kotlin": [],
+        "Programming": [],
+        "Software Development": [],
+        "JSON": [],
+        "Mobile UI/UX Design": [],
+        "Development": [],
+        "Clean Code": [
+            "CS314"
+        ],
+        "Git": [
+            "CS314",
+            "CS164",
+            "CS214"
+        ]
+    },
+    "Paypal_Fresh_Grad_SE": {
+        "missing_skills": [
+            "SQL",
+            "Agile methodology",
+            "Organization",
+            "Maintaining software applications",
+            "Code craftsmanship",
+            "REST APIs",
+            "Version control",
+            "SVN",
+            "Development",
+            "Agile development",
+            "Enterprise Application Monitoring",
+            "Software Development",
+            "JSON",
+            "Spring",
+            "NoSQL",
+            "Rule Management Systems"
+        ],
+        "Organization": [],
+        "Agile development": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Software Design": [
+            "CS214"
+        ],
+        "Code craftsmanship": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "SQL": [],
+        "Agile methodology": [],
+        "Maintaining software applications": [],
+        "REST APIs": [],
+        "SVN": [],
+        "Enterprise Application Monitoring": [],
+        "Software Development": [],
+        "JSON": [],
+        "Spring": [],
+        "Version control": [],
+        "Development": [],
+        "Git": [
+            "CS314",
+            "CS164",
+            "CS214"
+        ],
+        "NoSQL": [],
+        "Rule Management Systems": []
+    },
+    "Paypal_Platforms_Engineering": {
+        "missing_skills": [
+            "Experience with Systems",
+            "Code Review",
+            "System Optimization",
+            "Team collaboration",
+            "Software Engineering",
+            "Collaboration",
+            "Problem Solving Skills",
+            "Backend development",
+            "Financial infrastructure",
+            "Regulations",
+            "Continuous integration",
+            "Servlet containers",
+            "JDBC/ORM",
+            "Innovation",
+            "GCP",
+            "Design and development methodologies",
+            "Mentorship",
+            "SQL",
+            "Design Discussions",
+            "Business operations",
+            "REST APIs",
+            "Reliability",
+            "Firestore",
+            "Payment Processing Industry Knowledge",
+            "App servers",
+            "Design",
+            "JMS",
+            "Database management",
+            "Cloud infrastructure",
+            "Cross-functional collaboration",
+            "BigQuery",
+            "Oracle",
+            "Infrastructure",
+            "Leadership",
+            "Development",
+            "Financial literacy",
+            "ORM tools",
+            "NoSQL",
+            "Requirements gathering",
+            "High-quality systems",
+            "Scalability"
+        ],
+        "Experience with Systems": [],
+        "Code Review": [],
+        "Optimization": [
+            "CS314"
+        ],
+        "System Optimization": [],
+        "Team collaboration": [],
+        "Software Engineering": [],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Backend development": [],
+        "Financial infrastructure": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Regulations": [],
+        "Continuous integration": [],
+        "Servlet containers": [],
+        "JDBC/ORM": [],
+        "Innovation": [],
+        "Maven": [
+            "CS314"
+        ],
+        "GCP": [],
+        "Mentorship": [],
+        "Design and development methodologies": [],
+        "SQL": [],
+        "Business operations": [],
+        "REST APIs": [],
+        "Reliability": [],
+        "Firestore": [],
+        "Scalability": [],
+        "Payment Processing Industry Knowledge": [],
+        "App servers": [],
+        "Design": [],
+        "JMS": [],
+        "Database management": [],
+        "Cloud infrastructure": [],
+        "Cross-functional collaboration": [],
+        "BigQuery": [],
+        "Oracle": [],
+        "Infrastructure": [],
+        "Leadership": [],
+        "Development": [],
+        "Financial literacy": [],
+        "Git": [
+            "CS314",
+            "CS164",
+            "CS214"
+        ],
+        "ORM tools": [],
+        "NoSQL": [],
+        "Requirements gathering": [],
+        "High-quality systems": [],
+        "Design Discussions": []
+    },
+    "Paypal_SE_Growths_Market": {
+        "missing_skills": [
+            "MySQL",
+            "Web Services",
+            "Collaboration",
+            "Backend development",
+            "J2EE",
+            "Web development",
+            "Unit testing",
+            "Innovation",
+            "Customer engagement",
+            "New product development",
+            "System Design",
+            "REST APIs",
+            "Hibernate",
+            "Programming",
+            "Software Development",
+            "Spring",
+            "User acquisition",
+            "Oracle",
+            "Platform expansion",
+            "Financial literacy",
+            "Spring Boot",
+            "Efficiency",
+            "Object-oriented design"
+        ],
+        "MySQL": [],
+        "Web Services": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "Backend development": [],
+        "J2EE": [],
+        "Databases": [
+            "CS314",
+            "CS250",
+            "CS110 - Modules",
+            "CS312"
+        ],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Web development": [],
+        "Unit testing": [],
+        "Innovation": [],
+        "Customer engagement": [],
+        "New product development": [],
+        "System Design": [],
+        "REST APIs": [],
+        "Hibernate": [],
+        "Programming": [],
+        "Software Development": [],
+        "Spring": [],
+        "User acquisition": [],
+        "Oracle": [],
+        "Platform expansion": [],
+        "Financial literacy": [],
+        "Spring Boot": [],
+        "Efficiency": [],
+        "Object-oriented design": []
+    },
+    "Paypal_Software_Engineer": {
+        "missing_skills": [
+            "Service Monitoring",
+            "Code quality",
+            "Remediation",
+            "Governance",
+            "Collaboration",
+            "Machine learning",
+            "Problem Solving Skills",
+            "Performance optimization",
+            "Google BigQuery",
+            "Innovation",
+            "Risk management",
+            "Troubleshooting",
+            "System Design",
+            "SQL",
+            "Modernization",
+            "Software Development",
+            "Performance Analytics",
+            "Database Access",
+            "Compliance",
+            "System Layers",
+            "Statistical Analysis",
+            "Spring Boot",
+            "Efficiency",
+            "Platform Governance",
+            "Scalability"
+        ],
+        "Service Monitoring": [],
+        "Code quality": [],
+        "Remediation": [],
+        "Governance": [],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "Machine learning": [],
+        "Problem Solving Skills": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Performance optimization": [],
+        "Google BigQuery": [],
+        "Innovation": [],
+        "Testing": [
+            "CS164"
+        ],
+        "Risk management": [],
+        "Troubleshooting": [],
+        "System Design": [],
+        "SQL": [],
+        "Unix": [
+            "CS314"
+        ],
+        "Modernization": [],
+        "Hadoop": [
+            "CS455"
+        ],
+        "Software Development": [],
+        "Performance Analytics": [],
+        "Database Access": [],
+        "Compliance": [],
+        "System Layers": [],
+        "Statistical Analysis": [],
+        "Spring Boot": [],
+        "Efficiency": [],
+        "Platform Governance": [],
+        "Scalability": []
+    },
+    "Sony_Blockchain_Developer": {
+        "missing_skills": [
+            "Symmetric key",
+            "Presentation skills",
+            "Blockchain/Crypto",
+            "Crypto currencies",
+            "Hash functions",
+            "Encryption",
+            "Quality orientation",
+            "Privacy-Preserving Features",
+            "Software architecture",
+            "Rust",
+            "Signatures",
+            "Erlang",
+            "Crypto algorithms",
+            "Innovation",
+            "Golang",
+            "Summarization Skills",
+            "Asymmetric key",
+            "Scala",
+            "Programming",
+            "Distributed consensus methodologies",
+            "Knowledge sharing",
+            "Haskell",
+            "Design",
+            "Ethereum",
+            "Crypto Techniques",
+            "Development",
+            "Cutting edge technology",
+            "Open source tools"
+        ],
+        "Symmetric key": [],
+        "Blockchain/Crypto": [],
+        "Crypto currencies": [],
+        "Presentation skills": [],
+        "Hash functions": [],
+        "Encryption": [],
+        "C++": [
+            "CS270"
+        ],
+        "Quality orientation": [],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Privacy-Preserving Features": [],
+        "Solidity": [
+            "CS458"
+        ],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Hyperledger": [
+            "CS458"
+        ],
+        "Software architecture": [],
+        "Rust": [],
+        "Signatures": [],
+        "Algorithms": [
+            "CS165",
+            "CS164",
+            "CS152"
+        ],
+        "Erlang": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Blockchain": [
+            "CS458"
+        ],
+        "Crypto algorithms": [],
+        "Testing": [
+            "CS164"
+        ],
+        "Golang": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Summarization Skills": [],
+        "C": [
+            "CS270"
+        ],
+        "Asymmetric key": [],
+        "Scala": [],
+        "Programming": [],
+        "Cryptography": [
+            "CS457"
+        ],
+        "Distributed consensus methodologies": [],
+        "Research": [
+            "CS150",
+            "CS110"
+        ],
+        "Knowledge sharing": [],
+        "Haskell": [],
+        "Design": [],
+        "Ethereum": [],
+        "Crypto Techniques": [],
+        "Development": [],
+        "Cutting edge technology": [],
+        "Cryptocurrency": [
+            "CS458"
+        ],
+        "Open source tools": []
+    },
+    "Sony_Software_Design_Engineer": {
+        "missing_skills": [
+            "Image Processing",
+            "Time management",
+            "Creative Solutions",
+            "Computer Vision Algorithms",
+            "Leadership",
+            "Algorithm Research",
+            "Software Development",
+            "Innovation",
+            "Deep learning",
+            "Computer Vision"
+        ],
+        "Image Processing": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Time management": [],
+        "Creative Solutions": [],
+        "Computer Vision Algorithms": [],
+        "C++": [
+            "CS270"
+        ],
+        "Algorithms": [
+            "CS165",
+            "CS164",
+            "CS152"
+        ],
+        "Leadership": [],
+        "Application Development": [
+            "CS430"
+        ],
+        "Software Development": [],
+        "Algorithm Research": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Deep learning": [],
+        "Project Management": [
+            "CS314",
+            "CS214"
+        ],
+        "Computer Vision": []
+    },
+    "Spotify_Backend_Engineer_Audiobooks": {
+        "missing_skills": [
+            "TypeScript",
+            "React.js",
+            "JavaScript",
+            "Collaboration",
+            "Problem Solving Skills",
+            "Backend development",
+            "Performance at scale",
+            "Backend Standard Methodologies",
+            "end-to-end design",
+            "Software architecture",
+            "non-relational databases",
+            "Identifying bottlenecks",
+            "Innovation",
+            "User experience (UX)",
+            "GCP",
+            "Mentorship",
+            "Scalable architectures",
+            "Improvement",
+            "Next.js",
+            "Cloud platforms",
+            "System Design",
+            "Maintaining software applications",
+            "Technical leadership",
+            "Product development",
+            "Scalability",
+            "Tooling",
+            "Database management",
+            "Relational databases",
+            "schema design",
+            "Leadership",
+            "Content Processing",
+            "Query optimization",
+            "Distributed systems",
+            "Efficiency",
+            "High-quality systems",
+            "Implementation",
+            "Containerization",
+            "System uptime management"
+        ],
+        "TypeScript": [],
+        "React.js": [],
+        "JavaScript": [],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "System uptime management": [],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Backend development": [],
+        "Performance at scale": [],
+        "Backend Standard Methodologies": [],
+        "end-to-end design": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Software architecture": [],
+        "non-relational databases": [],
+        "Identifying bottlenecks": [],
+        "Innovation": [],
+        "User experience (UX)": [],
+        "GCP": [],
+        "Mentorship": [],
+        "Scalable architectures": [],
+        "Improvement": [],
+        "Next.js": [],
+        "Communication": [
+            "CS314"
+        ],
+        "Cloud platforms": [],
+        "System Design": [],
+        "Maintaining software applications": [],
+        "Technical leadership": [],
+        "Product development": [],
+        "Tooling": [],
+        "Database management": [],
+        "Relational databases": [],
+        "schema design": [],
+        "Docker": [
+            "CS314"
+        ],
+        "Leadership": [],
+        "Content Processing": [],
+        "Clean Code": [
+            "CS314"
+        ],
+        "Query optimization": [],
+        "Distributed systems": [],
+        "Efficiency": [],
+        "High-quality systems": [],
+        "Implementation": [],
+        "Containerization": [],
+        "Scalability": []
+    },
+    "Spotify_Backend_Engineer_Data_Platform": {
+        "missing_skills": [
+            "Autonomy",
+            "Team collaboration",
+            "Collaboration",
+            "Problem Solving Skills",
+            "Customer needs",
+            "Innovation",
+            "Backend services",
+            "Accommodations",
+            "System Design",
+            "Pipelines",
+            "Reliability",
+            "data pipelines",
+            "Scala",
+            "Iteration",
+            "Data Quality",
+            "Tooling",
+            "Observability",
+            "Data structures",
+            "User workflows",
+            "Data Engineering",
+            "Scalability"
+        ],
+        "Autonomy": [],
+        "Team collaboration": [],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Algorithms": [
+            "CS165",
+            "CS164",
+            "CS152"
+        ],
+        "Customer needs": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Backend services": [],
+        "Accommodations": [],
+        "System Design": [],
+        "Pipelines": [],
+        "Reliability": [],
+        "data pipelines": [],
+        "Scala": [],
+        "Iteration": [],
+        "Data Quality": [],
+        "Tooling": [],
+        "Observability": [],
+        "Data structures": [],
+        "User workflows": [],
+        "Data Engineering": [],
+        "Scalability": []
+    },
+    "Spotify_Data_Scientist_Audiobooks": {
+        "missing_skills": [
+            "Feature engineering",
+            "Data visualization",
+            "Collaboration",
+            "Excellent Communication Skills",
+            "Machine learning",
+            "Data exploration",
+            "Measurement techniques",
+            "Strategic planning",
+            "A/B testing",
+            "Real-time Monitoring",
+            "Innovation",
+            "Compute technologies",
+            "SQL",
+            "Forecasting",
+            "Data analysis",
+            "Product development",
+            "Key Performance Metrics",
+            "Tableau",
+            "Analytical skills",
+            "Modeling",
+            "Design",
+            "Statistics",
+            "Visual Dashboards",
+            "Development",
+            "Quantitative analysis",
+            "Implementation",
+            "Statistical Knowledge"
+        ],
+        "Feature engineering": [],
+        "Data visualization": [],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Collaboration": [],
+        "Excellent Communication Skills": [],
+        "Machine learning": [],
+        "Data exploration": [],
+        "Measurement techniques": [],
+        "Strategic planning": [],
+        "A/B testing": [],
+        "Real-time Monitoring": [],
+        "Innovation": [],
+        "Compute technologies": [],
+        "Communication": [
+            "CS314"
+        ],
+        "SQL": [],
+        "Forecasting": [],
+        "Data analysis": [],
+        "Product development": [],
+        "Key Performance Metrics": [],
+        "Tableau": [],
+        "Analytical skills": [],
+        "Modeling": [],
+        "Design": [],
+        "Statistics": [],
+        "Visual Dashboards": [],
+        "Development": [],
+        "Quantitative analysis": [],
+        "Implementation": [],
+        "Statistical Knowledge": []
+    },
+    "Spotify_Junior_Backend_Engineer": {
+        "missing_skills": [
+            "Service Monitoring",
+            "Collaboration",
+            "Backend development",
+            "Availability",
+            "Operational Responsibility",
+            "Low latency",
+            "Continuous Delivery (CD)",
+            "Automated tests",
+            "Innovation",
+            "Backend services",
+            "Deployment Pipelines",
+            "SQL",
+            "Modernization",
+            "Reliability",
+            "Scala",
+            "Programming",
+            "Quality focus",
+            "Continuous development",
+            "Infrastructure Building",
+            "Maintaining Systems",
+            "Knowledge sharing",
+            "Design",
+            "Data structures",
+            "Google Cloud SQL",
+            "Google Cloud Bigtable",
+            "Data Engineering",
+            "Defensive programming",
+            "NoSQL",
+            "Implementation",
+            "Scalability"
+        ],
+        "Service Monitoring": [],
+        "Linux": [
+            "CS314",
+            "CS164"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Quality Assurance": [
+            "CS164"
+        ],
+        "Collaboration": [],
+        "Backend development": [],
+        "Availability": [],
+        "Databases": [
+            "CS314",
+            "CS250",
+            "CS110 - Modules",
+            "CS312"
+        ],
+        "Operational Responsibility": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Low latency": [],
+        "Continuous Delivery (CD)": [],
+        "Algorithms": [
+            "CS165",
+            "CS164",
+            "CS152"
+        ],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Automated tests": [],
+        "Backend services": [],
+        "Deployment Pipelines": [],
+        "SQL": [],
+        "Modernization": [],
+        "Reliability": [],
+        "Scala": [],
+        "Programming": [],
+        "Quality focus": [],
+        "Continuous development": [],
+        "Infrastructure Building": [],
+        "Maintaining Systems": [],
+        "Knowledge sharing": [],
+        "Design": [],
+        "Data structures": [],
+        "Google Cloud SQL": [],
+        "Google Cloud Bigtable": [],
+        "Data Engineering": [],
+        "Defensive programming": [],
+        "Reasoning": [
+            "CS440"
+        ],
+        "Clean Code": [
+            "CS314"
+        ],
+        "NoSQL": [],
+        "Implementation": [],
+        "Scalability": []
+    },
+    "Tesla_Security_Engineer": {
+        "missing_skills": [
+            "Penetration testing",
+            "Security reviews",
+            "Automation",
+            "Remediation",
+            "Auditing code",
+            "Collaboration",
+            "Excellent Communication Skills",
+            "Threat modeling",
+            "Supply-chain validation",
+            "Vulnerability",
+            "Rust",
+            "Cybersecurity",
+            "Innovation",
+            "Golang",
+            "Source code auditing",
+            "SQL",
+            "Fuzzing",
+            "Reliability",
+            "Programming",
+            "Vulnerability tracking",
+            "Modeling",
+            "Secure architecture design",
+            "Sanitizers",
+            "Software testing",
+            "Risk analysis",
+            "Timely resolution",
+            "NoSQL",
+            "Develop automated systems",
+            "Security solution design"
+        ],
+        "Penetration testing": [],
+        "Security reviews": [],
+        "Automation": [],
+        "C++": [
+            "CS270"
+        ],
+        "Remediation": [],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Auditing code": [],
+        "Collaboration": [],
+        "Excellent Communication Skills": [],
+        "Threat modeling": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Supply-chain validation": [],
+        "Vulnerability": [],
+        "Rust": [],
+        "Cybersecurity": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Golang": [],
+        "Source code auditing": [],
+        "C": [
+            "CS270"
+        ],
+        "SQL": [],
+        "Fuzzing": [],
+        "Reliability": [],
+        "Programming": [],
+        "Vulnerability tracking": [],
+        "Modeling": [],
+        "Secure architecture design": [],
+        "Sanitizers": [],
+        "Software testing": [],
+        "Risk analysis": [],
+        "Security": [
+            "CS150",
+            "CS110"
+        ],
+        "Timely resolution": [],
+        "NoSQL": [],
+        "Develop automated systems": [],
+        "Security solution design": []
+    },
+    "Tesla_Software_Compliance_Engineer": {
+        "missing_skills": [
+            "Standards Implementation",
+            "Collaboration",
+            "Embedded environments/protocols",
+            "Prioritization",
+            "Stakeholder Management",
+            "SIL/HIL/Integration testing",
+            "Power system knowledge",
+            "Software architecture",
+            "Rust",
+            "Measurement techniques",
+            "Web development",
+            "Test Engineering",
+            "Innovation",
+            "Simulation",
+            "Compute technologies",
+            "Firmware Development",
+            "Golang",
+            "Simulink",
+            "System Design",
+            "SQL",
+            "Modeling and simulation",
+            "Data analysis",
+            "C#",
+            "Programming",
+            "Validation",
+            "Modeling",
+            "Interpersonal Skills",
+            "Development",
+            "NoSQL",
+            "Matlab",
+            "Power quality knowledge"
+        ],
+        "C++": [
+            "CS270"
+        ],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Standards Implementation": [],
+        "Collaboration": [],
+        "Embedded environments/protocols": [],
+        "Prioritization": [],
+        "Stakeholder Management": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "SIL/HIL/Integration testing": [],
+        "Power system knowledge": [],
+        "Software architecture": [],
+        "Rust": [],
+        "Measurement techniques": [],
+        "Web development": [],
+        "Test Engineering": [],
+        "Innovation": [],
+        "Simulation": [],
+        "Compute technologies": [],
+        "Testing": [
+            "CS164"
+        ],
+        "Firmware Development": [],
+        "Golang": [],
+        "Simulink": [],
+        "System Design": [],
+        "C": [
+            "CS270"
+        ],
+        "Communication": [
+            "CS314"
+        ],
+        "SQL": [],
+        "Modeling and simulation": [],
+        "Data analysis": [],
+        "Debugging": [
+            "CS164",
+            "CS214"
+        ],
+        "C#": [],
+        "Programming": [],
+        "Validation": [],
+        "Modeling": [],
+        "Interpersonal Skills": [],
+        "Development": [],
+        "NoSQL": [],
+        "Matlab": [],
+        "Power quality knowledge": []
+    },
+    "Tesla_Software_Engineer_Firmware": {
+        "missing_skills": [
+            "Embedded microprocessor",
+            "Embedded systems",
+            "Test-driven Development",
+            "Collaboration",
+            "System debugging",
+            "Problem Solving Skills",
+            "Software Systems",
+            "Hardware design",
+            "Testing/Verification Tools",
+            "Automated tests",
+            "Innovation",
+            "Assembly Language",
+            "Software Development Tools",
+            "Fuzzing",
+            "Embedded Software Development",
+            "Real-time embedded environment",
+            "Code optimization",
+            "Programming",
+            "Software Development",
+            "Embedded Development",
+            "Analytical skills",
+            "Design",
+            "Knowledge sharing",
+            "Algorithm Development",
+            "Implementation",
+            "Real-time Controls",
+            "robotics",
+            "Performance and optimization trade-offs"
+        ],
+        "Embedded microprocessor": [],
+        "Embedded systems": [],
+        "Test-driven Development": [],
+        "System debugging": [],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Software Systems": [],
+        "Hardware design": [],
+        "Software Design": [
+            "CS214"
+        ],
+        "Static Analysis": [
+            "CS415"
+        ],
+        "Testing/Verification Tools": [],
+        "Automated tests": [],
+        "Innovation": [],
+        "Assembly Language": [],
+        "Communication": [
+            "CS314"
+        ],
+        "C": [
+            "CS270"
+        ],
+        "Implementation": [],
+        "Fuzzing": [],
+        "Embedded Software Development": [],
+        "Real-time embedded environment": [],
+        "Debugging": [
+            "CS164",
+            "CS214"
+        ],
+        "Code optimization": [],
+        "Programming": [],
+        "Software Development": [],
+        "robotics": [],
+        "Analytical skills": [],
+        "Design": [],
+        "Knowledge sharing": [],
+        "Algorithm Development": [],
+        "Software Development Tools": [],
+        "Real-time Controls": [],
+        "Embedded Development": [],
+        "Performance and optimization trade-offs": []
+    },
+    "Tesla_Software_Engineer_Recruiting": {
+        "missing_skills": [
+            "Design",
+            "TypeScript",
+            "Golang",
+            "SQL",
+            "Creative Solutions",
+            "Maintaining software applications",
+            "Performance",
+            "Code quality",
+            "JavaScript",
+            "Leadership",
+            "Web development",
+            "Collaboration",
+            "Vue",
+            "Enhancing existing functionality",
+            "Problem Solving Skills",
+            "Compute technologies"
+        ],
+        "TypeScript": [],
+        "Optimization": [
+            "CS314"
+        ],
+        "Code quality": [],
+        "JavaScript": [],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Design Patterns": [
+            "CS414"
+        ],
+        "Performance": [],
+        "Web development": [],
+        "Compute technologies": [],
+        "Golang": [],
+        "SQL": [],
+        "Web Applications": [
+            "CS312"
+        ],
+        "Creative Solutions": [],
+        "Maintaining software applications": [],
+        "Vue": [],
+        "Enhancing existing functionality": [],
+        "Design": [],
+        "Leadership": []
+    },
+    "Yahoo_Frontend_Software_Dev_Engineer": {
+        "missing_skills": [
+            "TypeScript",
+            "Code Review",
+            "React.js",
+            "HTML",
+            "System Development",
+            "Web Services",
+            "Team collaboration",
+            "Collaboration",
+            "Problem Solving Skills",
+            "Node.js",
+            "Software Systems",
+            "Continuous integration",
+            "Product Management",
+            "Web development",
+            "Unit testing",
+            "Innovation",
+            "Support Applications",
+            "Ad hoc analyses",
+            "Business operations",
+            "REST APIs",
+            "Data analysis",
+            "Quality focus",
+            "Large-scale systems",
+            "PHP",
+            "Data processing",
+            "Analytical skills",
+            "Knowledge sharing",
+            "Design",
+            "Cross-functional collaboration",
+            "Yaml",
+            "Development",
+            "Efficiency",
+            "CSS"
+        ],
+        "TypeScript": [],
+        "Code Review": [],
+        "React.js": [],
+        "HTML": [],
+        "System Development": [],
+        "Web Services": [],
+        "Team collaboration": [],
+        "Python": [
+            "CS150",
+            "CS345",
+            "CS320",
+            "CS220",
+            "CS445"
+        ],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Node.js": [],
+        "Software Systems": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Continuous integration": [],
+        "Product Management": [],
+        "Web development": [],
+        "Unit testing": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Regression Testing": [
+            "CS415"
+        ],
+        "Support Applications": [],
+        "Ad hoc analyses": [],
+        "Web Applications": [
+            "CS312"
+        ],
+        "Business operations": [],
+        "REST APIs": [],
+        "Data analysis": [],
+        "Quality focus": [],
+        "Large-scale systems": [],
+        "PHP": [],
+        "Data processing": [],
+        "Analytical skills": [],
+        "Knowledge sharing": [],
+        "Design": [],
+        "Cross-functional collaboration": [],
+        "Yaml": [],
+        "Development": [],
+        "Efficiency": [],
+        "CSS": []
+    },
+    "Yahoo_Software_Dev_Engineer": {
+        "missing_skills": [
+            "Code Review",
+            "React.js",
+            "JavaScript",
+            "Cloud computing",
+            "Production code",
+            "Collaboration",
+            "Problem Solving Skills",
+            "Kubernetes",
+            "Performance optimization",
+            "RabbitMQ",
+            "Reporting",
+            "Unit testing",
+            "Innovation",
+            "Public clouds",
+            "SQL",
+            "System architecture",
+            "Technical leadership",
+            "Scala",
+            "Software Development",
+            "Large-scale systems",
+            "Coding skills",
+            "Product Decisions",
+            "Analytical skills",
+            "Database management",
+            "Interpersonal Skills",
+            "Elasticsearch",
+            "Development",
+            "Spring Boot",
+            "Efficiency",
+            "Apache Druid",
+            "NoSQL",
+            "MongoDB"
+        ],
+        "Code Review": [],
+        "React.js": [],
+        "JavaScript": [],
+        "Cloud computing": [],
+        "Production code": [],
+        "Collaboration": [],
+        "Problem Solving Skills": [],
+        "Microservices": [
+            "CS312"
+        ],
+        "Kubernetes": [],
+        "Java": [
+            "CS314",
+            "CS165",
+            "CS162",
+            "CS164",
+            "CS214"
+        ],
+        "Performance optimization": [],
+        "RabbitMQ": [],
+        "Reporting": [],
+        "Unit testing": [],
+        "Teamwork": [
+            "CS314"
+        ],
+        "Innovation": [],
+        "Public clouds": [],
+        "Communication": [
+            "CS314"
+        ],
+        "SQL": [],
+        "System architecture": [],
+        "Technical leadership": [],
+        "Scala": [],
+        "Software Development": [],
+        "Large-scale systems": [],
+        "Coding skills": [],
+        "Product Decisions": [],
+        "Analytical skills": [],
+        "Refactoring": [
+            "CS314",
+            "CS414",
+            "CS214"
+        ],
+        "Database management": [],
+        "Interpersonal Skills": [],
+        "Elasticsearch": [],
+        "Development": [],
+        "Clean Code": [
+            "CS314"
+        ],
+        "Spring Boot": [],
+        "Efficiency": [],
+        "Apache Druid": [],
+        "NoSQL": [],
+        "MongoDB": []
+    }
+}
