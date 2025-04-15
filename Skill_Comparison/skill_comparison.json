@@ -2,48 +2,41 @@
   {
     "job title":"Adobe_AI_ML_Engineer",
     "covered skills":[
-      "Python",
-      "Testing",
-      "Quality Assurance",
+      "Communication",
       "Debugging",
+      "Python",
+      "Quality Assurance",
       "Teamwork",
-      "Communication"
+      "Testing"
     ],
     "missing skills":[
-      "Knowledge sharing",
+      "Analytical skills",
+      "Angular",
       "Bug fixing",
+      "Code Review",
       "Code\/API documentation",
-      "Maintaining software applications",
-      "Feedback",
+      "Collaboration",
+      "Customer needs",
       "Design",
-      "Planning",
-      "Ruby",
-      "Programming",
-      "Front-end frameworks",
       "DevOps",
       "Development",
       "Efficiency",
-      "Code Review",
-      "Angular",
-      "Problem Solving Skills",
-      "Collaboration",
-      "Strong communication skills",
-      "React.js",
-      "JavaScript",
+      "Feedback",
+      "Front-end frameworks",
       "High performance",
-      "Analytical skills",
+      "JavaScript",
+      "Knowledge sharing",
+      "Maintaining software applications",
+      "Planning",
+      "Problem Solving Skills",
+      "Programming",
+      "React.js",
       "Reliability",
-      "Customer needs",
+      "Ruby",
+      "Strong communication skills",
       "Vue"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Teamwork",
-          "Communication"
-        ]
-      ],
       [
         "CS150",
         [
@@ -51,23 +44,17 @@
         ]
       ],
       [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
         "CS164",
         [
-          "Debugging",
+          "Quality Assurance",
           "Testing",
-          "Quality Assurance"
+          "Debugging"
+        ]
+      ],
+      [
+        "CS214",
+        [
+          "Debugging"
         ]
       ],
       [
@@ -77,9 +64,22 @@
         ]
       ],
       [
-        "CS214",
+        "CS314",
         [
-          "Debugging"
+          "Teamwork",
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
         ]
       ],
       [
@@ -94,73 +94,60 @@
   {
     "job title":"Adobe_Junior_SDE",
     "covered skills":[
+      "Java",
       "Security",
-      "Teamwork",
-      "Java"
+      "Teamwork"
     ],
     "missing skills":[
-      "Innovation",
-      "Knowledge sharing",
+      "Adobe Commerce",
+      "Agile development",
+      "Architecture Design",
+      "Automated tests",
+      "CI systems",
+      "CI\/CD methodologies",
       "Cloud Technology",
-      "SaaS Design Principles",
+      "Cloud computing",
       "Clusters",
       "Compliance",
-      "Infrastructure Development",
-      "CI\/CD methodologies",
+      "Containerization",
       "Decision making",
+      "Designing Features",
+      "DevOps",
+      "Development",
+      "Distributed systems",
+      "Efficiency",
+      "Improvement",
+      "Infrastructure Development",
+      "Innovation",
+      "Knowledge sharing",
+      "Lean-Agile environment",
+      "Magento",
+      "Metrics",
+      "Monitoring",
       "Observability",
-      "Scalability",
+      "PHP",
+      "Performance",
+      "Product development",
       "Programming",
       "Quality Insights",
-      "DevOps",
-      "Monitoring",
-      "Designing Features",
-      "Development",
-      "Metrics",
-      "Efficiency",
-      "Automated tests",
-      "Terraform",
       "Quality control",
-      "Software Development",
-      "Agile development",
-      "PHP",
-      "Lean-Agile environment",
-      "Performance",
       "SQL",
-      "Adobe Commerce",
-      "Cloud computing",
-      "Architecture Design",
-      "Magento",
-      "Improvement",
-      "CI systems",
-      "Containerization",
+      "SaaS Design Principles",
+      "Scalability",
       "Shift Quality",
+      "Software Development",
       "Spring Boot",
-      "Product development",
-      "Distributed systems"
+      "Terraform"
     ],
     "intersecting course skills":[
       [
-        "CS314",
-        [
-          "Teamwork",
-          "Java"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS150",
+        "CS110",
         [
           "Security"
         ]
       ],
       [
-        "CS110",
+        "CS150",
         [
           "Security"
         ]
@@ -178,8 +165,21 @@
         ]
       ],
       [
+        "CS165",
+        [
+          "Java"
+        ]
+      ],
+      [
         "CS214",
         [
+          "Java"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
           "Java"
         ]
       ]
@@ -189,82 +189,35 @@
   {
     "job title":"Adobe_Software_Engineering_Intern",
     "covered skills":[
-      "Python",
-      "Java",
-      "C++",
       "Algorithms",
+      "C++",
+      "Communication",
+      "Java",
       "Networking",
-      "Teamwork",
-      "Communication"
+      "Python",
+      "Teamwork"
     ],
     "missing skills":[
-      "Interpersonal Skills",
-      "OOP\/Func Paradigms",
-      "Machine learning",
-      "Data structures",
-      "Cloud Technology",
       "Adobe Experience Manager",
-      "JavaScript",
-      "Cloud Engineering",
       "Analytical skills",
-      "Backend development",
-      "Design",
-      "Programming",
       "Artificial Intelligence (AI)",
-      "Node.js"
+      "Backend development",
+      "Cloud Engineering",
+      "Cloud Technology",
+      "Data structures",
+      "Design",
+      "Interpersonal Skills",
+      "JavaScript",
+      "Machine learning",
+      "Node.js",
+      "OOP\/Func Paradigms",
+      "Programming"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Networking",
-          "Teamwork",
-          "Java",
-          "Communication"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java",
-          "Algorithms"
-        ]
-      ],
       [
         "CS150",
         [
           "Python"
-        ]
-      ],
-      [
-        "CS162",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS270",
-        [
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Java",
-          "Algorithms"
         ]
       ],
       [
@@ -274,15 +227,62 @@
         ]
       ],
       [
-        "CS220",
+        "CS162",
         [
-          "Python"
+          "Java"
+        ]
+      ],
+      [
+        "CS164",
+        [
+          "Algorithms",
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Algorithms",
+          "Java"
         ]
       ],
       [
         "CS214",
         [
           "Java"
+        ]
+      ],
+      [
+        "CS220",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS270",
+        [
+          "C++"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Networking",
+          "Java",
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
         ]
       ],
       [
@@ -297,41 +297,41 @@
   {
     "job title":"Adobe_Software_Quality_Engineer",
     "covered skills":[
-      "Testing",
+      "Communication",
       "Quality Assurance",
-      "Communication"
+      "Testing"
     ],
     "missing skills":[
+      "Analytical skills",
+      "Collaboration",
+      "Deployment",
       "HTML",
-      "React.js",
-      "Time management",
+      "High performance",
       "Implementation",
       "JavaScript",
-      "Scripting",
-      "Testing Workflows",
-      "TypeScript",
-      "Deployment",
-      "High performance",
-      "Analytical skills",
       "Open source tools",
-      "Testing Methodologies",
       "Problem Solving Skills",
-      "Web Debugging Tools",
       "Programming",
-      "Collaboration"
+      "React.js",
+      "Scripting",
+      "Testing Methodologies",
+      "Testing Workflows",
+      "Time management",
+      "TypeScript",
+      "Web Debugging Tools"
     ],
     "intersecting course skills":[
+      [
+        "CS164",
+        [
+          "Quality Assurance",
+          "Testing"
+        ]
+      ],
       [
         "CS314",
         [
           "Communication"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Testing",
-          "Quality Assurance"
         ]
       ]
     ],
@@ -340,69 +340,68 @@
   {
     "job title":"Adobe_Software_Solutions_Architect",
     "covered skills":[
-      "Teamwork",
+      "Communication",
       "Optimization",
-      "Security",
       "Research",
-      "Communication"
+      "Security",
+      "Teamwork"
     ],
     "missing skills":[
-      "CRM systems",
-      "Innovation",
-      "Data management",
-      "Implementation",
-      "Architecture Solutions",
-      "Feedback",
-      "Product Management",
-      "Demand-side Platforms (DSPs)",
-      "Data Retention",
-      "Data storage",
-      "Product Advancements",
-      "Team collaboration",
-      "Email systems",
       "Actionable Insights",
-      "Web development",
-      "Adobe Marketo",
-      "REST APIs",
-      "Cross-Device Tracking platforms",
       "Adobe Cloud Solutions",
-      "Programming",
-      "Data Management Platforms (DMPs)",
-      "Customer engagement",
-      "HTML",
-      "Automation",
-      "Continuous improvement (CI)",
-      "Product adoption",
-      "Progress Management",
-      "Enterprise Architecture",
-      "Problem Solving Skills",
-      "Tooling",
-      "Collaboration",
-      "Solution architecture",
-      "Effective Communication",
-      "Interpersonal Skills",
-      "Technical leadership",
-      "Recommendation Systems",
-      "Performance",
-      "Leadership",
-      "JavaScript",
-      "Mobile technologies",
-      "Architecture Design",
+      "Adobe Marketo",
       "Analytical skills",
-      "Customer needs",
-      "Resolution Drive",
+      "Architecture Design",
+      "Architecture Solutions",
+      "Automation",
+      "CRM systems",
+      "Collaboration",
+      "Continuous improvement (CI)",
       "Creative Solutions",
-      "Product development",
+      "Cross-Device Tracking platforms",
+      "Customer engagement",
+      "Customer needs",
+      "Data Management Platforms (DMPs)",
       "Data Mining",
-      "Strategic planning"
+      "Data Retention",
+      "Data management",
+      "Data storage",
+      "Demand-side Platforms (DSPs)",
+      "Effective Communication",
+      "Email systems",
+      "Enterprise Architecture",
+      "Feedback",
+      "HTML",
+      "Implementation",
+      "Innovation",
+      "Interpersonal Skills",
+      "JavaScript",
+      "Leadership",
+      "Mobile technologies",
+      "Performance",
+      "Problem Solving Skills",
+      "Product Advancements",
+      "Product Management",
+      "Product adoption",
+      "Product development",
+      "Programming",
+      "Progress Management",
+      "REST APIs",
+      "Recommendation Systems",
+      "Resolution Drive",
+      "Solution architecture",
+      "Strategic planning",
+      "Team collaboration",
+      "Technical leadership",
+      "Tooling",
+      "Web development"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS110",
         [
-          "Optimization",
-          "Teamwork",
-          "Communication"
+          "Security",
+          "Research"
         ]
       ],
       [
@@ -413,10 +412,11 @@
         ]
       ],
       [
-        "CS110",
+        "CS314",
         [
-          "Security",
-          "Research"
+          "Teamwork",
+          "Optimization",
+          "Communication"
         ]
       ]
     ],
@@ -425,67 +425,48 @@
   {
     "job title":"Amazon_Cloud_Support_Engineer_ETL",
     "covered skills":[
-      "Python",
-      "Operating Systems",
-      "Networking",
       "Java",
+      "Networking",
+      "Operating Systems",
+      "Python",
       "Quality Assurance"
     ],
     "missing skills":[
-      "Innovation",
-      "Knowledge sharing",
-      "Apache Hive",
-      "HDFS",
-      "Pig",
-      "Mentorship",
-      "Hadoop ecosystems",
-      "Operational efficiency",
-      "Apache Spark",
-      "Scala",
-      "Programming",
-      "Customer engagement",
-      "Shell",
-      "Automation",
-      "Continuous improvement (CI)",
-      "Efficiency",
-      "Load (ETL)",
-      "NoSQL",
-      "Extract",
-      "Problem Solving Skills",
-      "Software Development",
-      "Collaboration",
       "Advanced Troubleshooting Techniques",
-      "Troubleshooting",
-      "Technical leadership",
-      "SQL",
+      "Apache Hive",
+      "Apache Spark",
+      "Automation",
       "Big data",
       "Cloud computing",
-      "Transform",
-      "Data analysis",
+      "Collaboration",
+      "Continuous improvement (CI)",
+      "Customer engagement",
       "Customer needs",
+      "Data analysis",
+      "Data lake architecture",
+      "Efficiency",
+      "Extract",
       "HBASE",
-      "Data lake architecture"
+      "HDFS",
+      "Hadoop ecosystems",
+      "Innovation",
+      "Knowledge sharing",
+      "Load (ETL)",
+      "Mentorship",
+      "NoSQL",
+      "Operational efficiency",
+      "Pig",
+      "Problem Solving Skills",
+      "Programming",
+      "SQL",
+      "Scala",
+      "Shell",
+      "Software Development",
+      "Technical leadership",
+      "Transform",
+      "Troubleshooting"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Networking",
-          "Java"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS370",
-        [
-          "Operating Systems"
-        ]
-      ],
       [
         "CS150",
         [
@@ -499,22 +480,22 @@
         ]
       ],
       [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
         "CS164",
         [
-          "Java",
-          "Quality Assurance"
+          "Quality Assurance",
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS214",
+        [
+          "Java"
         ]
       ],
       [
@@ -524,9 +505,28 @@
         ]
       ],
       [
-        "CS214",
+        "CS314",
         [
+          "Networking",
           "Java"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS370",
+        [
+          "Operating Systems"
         ]
       ],
       [
@@ -541,56 +541,112 @@
   {
     "job title":"Amazon_Graduate_Software_Engineer",
     "covered skills":[
-      "Python",
       "Abstraction",
+      "Algorithms",
+      "C++",
+      "Communication",
+      "Fault Tolerance",
       "Java",
       "Optimization",
-      "Fault Tolerance",
-      "C++",
-      "Algorithms",
-      "Teamwork",
-      "Communication"
+      "Python",
+      "Teamwork"
     ],
     "missing skills":[
-      "Innovation",
-      "Creating solutions for distributed systems",
-      "Complexity analysis",
       "Agile environment",
-      "Scalability",
-      "Customer engagement",
       "Algorithm design",
-      "Object-oriented design",
-      "Relational databases",
-      "Data structures",
-      "Efficiency",
-      "Problem Solving Skills",
-      "Designing and building innovative technologies",
-      "Collaboration",
-      "Technical articulation",
-      "Leadership",
       "Analytical skills",
+      "Collaboration",
+      "Complexity analysis",
+      "Creating solutions for distributed systems",
+      "Customer engagement",
+      "Data structures",
+      "Designing and building innovative technologies",
       "Distributed storage",
-      "Distributed systems"
+      "Distributed systems",
+      "Efficiency",
+      "Innovation",
+      "Leadership",
+      "Object-oriented design",
+      "Problem Solving Skills",
+      "Relational databases",
+      "Scalability",
+      "Technical articulation"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS150",
         [
-          "Optimization",
-          "Teamwork",
-          "Java",
-          "Communication"
+          "Python"
+        ]
+      ],
+      [
+        "CS152",
+        [
+          "Algorithms"
+        ]
+      ],
+      [
+        "CS162",
+        [
+          "Abstraction",
+          "Java"
+        ]
+      ],
+      [
+        "CS164",
+        [
+          "Algorithms",
+          "Java"
         ]
       ],
       [
         "CS165",
         [
-          "Java",
-          "Algorithms"
+          "Algorithms",
+          "Java"
         ]
       ],
       [
-        "CS150",
+        "CS214",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS220",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS270",
+        [
+          "C++"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Optimization",
+          "Java",
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS445",
         [
           "Python"
         ]
@@ -602,65 +658,9 @@
         ]
       ],
       [
-        "CS162",
-        [
-          "Abstraction",
-          "Java"
-        ]
-      ],
-      [
-        "CS270",
-        [
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
         "CS458",
         [
           "Fault Tolerance"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Java",
-          "Algorithms"
-        ]
-      ],
-      [
-        "CS152",
-        [
-          "Algorithms"
-        ]
-      ],
-      [
-        "CS220",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS214",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS445",
-        [
-          "Python"
         ]
       ]
     ],
@@ -669,66 +669,38 @@
   {
     "job title":"Amazon_SDE_AI_ML",
     "covered skills":[
-      "Python",
+      "Algorithms",
+      "C++",
+      "Java",
       "Operating Systems",
       "Optimization",
-      "C++",
-      "Algorithms",
-      "Security",
+      "Python",
       "Research",
-      "Java"
+      "Security"
     ],
     "missing skills":[
-      "Innovation",
-      "System Design",
-      "C#",
-      "Complexity analysis",
-      "Distributed systems",
-      "Machine learning",
-      "Transformative AI Solutions",
-      "Generative AI",
       "Amazon Web Services (AWS)",
-      "Scalability",
-      "Automation",
-      "Relational databases",
-      "Object-oriented design",
-      "Data structures",
-      "Problem Solving Skills",
       "Artificial Intelligence (AI)",
-      "Collaboration",
-      "Coding skills",
+      "Automation",
+      "C#",
       "Cloud computing",
-      "Data Mining"
+      "Coding skills",
+      "Collaboration",
+      "Complexity analysis",
+      "Data Mining",
+      "Data structures",
+      "Distributed systems",
+      "Generative AI",
+      "Innovation",
+      "Machine learning",
+      "Object-oriented design",
+      "Problem Solving Skills",
+      "Relational databases",
+      "Scalability",
+      "System Design",
+      "Transformative AI Solutions"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Optimization",
-          "Java"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java",
-          "Algorithms"
-        ]
-      ],
-      [
-        "CS370",
-        [
-          "Operating Systems"
-        ]
-      ],
-      [
-        "CS150",
-        [
-          "Python",
-          "Research",
-          "Security"
-        ]
-      ],
       [
         "CS110",
         [
@@ -737,34 +709,11 @@
         ]
       ],
       [
-        "CS162",
+        "CS150",
         [
-          "Java"
-        ]
-      ],
-      [
-        "CS270",
-        [
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
+          "Security",
+          "Research",
           "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Java",
-          "Algorithms"
         ]
       ],
       [
@@ -774,15 +723,66 @@
         ]
       ],
       [
-        "CS220",
+        "CS162",
         [
-          "Python"
+          "Java"
+        ]
+      ],
+      [
+        "CS164",
+        [
+          "Algorithms",
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Algorithms",
+          "Java"
         ]
       ],
       [
         "CS214",
         [
           "Java"
+        ]
+      ],
+      [
+        "CS220",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS270",
+        [
+          "C++"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Optimization",
+          "Java"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS370",
+        [
+          "Operating Systems"
         ]
       ],
       [
@@ -797,41 +797,59 @@
   {
     "job title":"Amazon_SDE_Cloud",
     "covered skills":[
-      "Python",
-      "Optimization",
       "C++",
-      "Security",
-      "Networking",
       "Java",
-      "Quality Assurance"
+      "Networking",
+      "Optimization",
+      "Python",
+      "Quality Assurance",
+      "Security"
     ],
     "missing skills":[
-      "Innovation",
-      "C#",
-      "Complexity analysis",
-      "Distributed systems",
-      "Amazon Web Services (AWS)",
-      "Compute technologies",
-      "Scalability",
-      "Programming",
-      "Customer engagement",
       "Algorithm design",
-      "Object-oriented design",
+      "Amazon Web Services (AWS)",
       "Automation",
-      "Data structures",
-      "Innovative technologies",
-      "Problem Solving Skills",
-      "Software Development",
+      "C#",
       "Collaboration",
+      "Complexity analysis",
+      "Compute technologies",
+      "Customer engagement",
+      "Data Mining",
+      "Data structures",
+      "Distributed systems",
+      "Innovation",
+      "Innovative technologies",
       "Leadership",
-      "Data Mining"
+      "Object-oriented design",
+      "Problem Solving Skills",
+      "Programming",
+      "Scalability",
+      "Software Development"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS110",
         [
-          "Networking",
-          "Optimization",
+          "Security"
+        ]
+      ],
+      [
+        "CS150",
+        [
+          "Security",
+          "Python"
+        ]
+      ],
+      [
+        "CS162",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS164",
+        [
+          "Quality Assurance",
           "Java"
         ]
       ],
@@ -842,47 +860,9 @@
         ]
       ],
       [
-        "CS150",
-        [
-          "Python",
-          "Security"
-        ]
-      ],
-      [
-        "CS110",
-        [
-          "Security"
-        ]
-      ],
-      [
-        "CS162",
+        "CS214",
         [
           "Java"
-        ]
-      ],
-      [
-        "CS270",
-        [
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Java",
-          "Quality Assurance"
         ]
       ],
       [
@@ -892,9 +872,29 @@
         ]
       ],
       [
-        "CS214",
+        "CS270",
         [
+          "C++"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Networking",
+          "Optimization",
           "Java"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
         ]
       ],
       [
@@ -910,63 +910,48 @@
     "job title":"Amazon_SDE_Embedded_Dev",
     "covered skills":[
       "Abstraction",
-      "Databases",
-      "Operating Systems",
-      "C",
-      "Java",
-      "Fault Tolerance",
       "Algorithms",
+      "C",
+      "Databases",
+      "Fault Tolerance",
+      "Java",
+      "Operating Systems",
       "Teamwork"
     ],
     "missing skills":[
-      "Nonlinear Optimization",
-      "Innovation",
-      "Rust",
-      "Kernel",
       "Agile environment",
-      "Linear Programming",
-      "Compute technologies",
-      "Scalability",
-      "Programming",
-      "Large Scale Databases",
-      "Relational databases",
-      "Transactional Systems",
-      "Efficiency",
-      "Problem Solving Skills",
-      "Multi-tenant Systems",
       "Availability",
+      "Compute technologies",
+      "Creating new products",
+      "Creative Solutions",
       "Disaster Recovery",
       "Distributed storage",
-      "Creative Solutions",
       "Distributed systems",
-      "Creating new products"
+      "Efficiency",
+      "Innovation",
+      "Kernel",
+      "Large Scale Databases",
+      "Linear Programming",
+      "Multi-tenant Systems",
+      "Nonlinear Optimization",
+      "Problem Solving Skills",
+      "Programming",
+      "Relational databases",
+      "Rust",
+      "Scalability",
+      "Transactional Systems"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS110 - Modules",
         [
-          "Databases",
-          "Teamwork",
-          "Java"
+          "Databases"
         ]
       ],
       [
-        "CS165",
+        "CS152",
         [
-          "Java",
           "Algorithms"
-        ]
-      ],
-      [
-        "CS370",
-        [
-          "Operating Systems"
-        ]
-      ],
-      [
-        "CS455",
-        [
-          "Abstraction"
         ]
       ],
       [
@@ -977,9 +962,23 @@
         ]
       ],
       [
-        "CS270",
+        "CS164",
         [
-          "C"
+          "Algorithms",
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Algorithms",
+          "Java"
+        ]
+      ],
+      [
+        "CS214",
+        [
+          "Java"
         ]
       ],
       [
@@ -989,34 +988,9 @@
         ]
       ],
       [
-        "CS458",
+        "CS270",
         [
-          "Fault Tolerance"
-        ]
-      ],
-      [
-        "CS110 - Modules",
-        [
-          "Databases"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Java",
-          "Algorithms"
-        ]
-      ],
-      [
-        "CS152",
-        [
-          "Algorithms"
-        ]
-      ],
-      [
-        "CS214",
-        [
-          "Java"
+          "C"
         ]
       ],
       [
@@ -1024,57 +998,13 @@
         [
           "Databases"
         ]
-      ]
-    ],
-    "gt label":0.275862069
-  },
-  {
-    "job title":"Amazon_SDE_I",
-    "covered skills":[
-      "Abstraction",
-      "Operating Systems",
-      "Optimization",
-      "C++",
-      "Algorithms",
-      "Quality Assurance",
-      "Java",
-      "Communication"
-    ],
-    "missing skills":[
-      "Innovation",
-      "Job scheduling",
-      "System Design",
-      "Ambiguity Management",
-      "C#",
-      "Performance engineering",
-      "Kernel",
-      "Agile environment",
-      "Programming",
-      "Articulation",
-      "Resource management",
-      "Object-oriented design",
-      "Relational databases",
-      "File systems",
-      "Problem Solving Skills",
-      "Collaboration",
-      "Agile development",
-      "Analytical skills",
-      "Distributed systems"
-    ],
-    "intersecting course skills":[
+      ],
       [
         "CS314",
         [
-          "Optimization",
-          "Java",
-          "Communication"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java",
-          "Algorithms"
+          "Teamwork",
+          "Databases",
+          "Java"
         ]
       ],
       [
@@ -1090,9 +1020,79 @@
         ]
       ],
       [
+        "CS458",
+        [
+          "Fault Tolerance"
+        ]
+      ]
+    ],
+    "gt label":0.275862069
+  },
+  {
+    "job title":"Amazon_SDE_I",
+    "covered skills":[
+      "Abstraction",
+      "Algorithms",
+      "C++",
+      "Communication",
+      "Java",
+      "Operating Systems",
+      "Optimization",
+      "Quality Assurance"
+    ],
+    "missing skills":[
+      "Agile development",
+      "Agile environment",
+      "Ambiguity Management",
+      "Analytical skills",
+      "Articulation",
+      "C#",
+      "Collaboration",
+      "Distributed systems",
+      "File systems",
+      "Innovation",
+      "Job scheduling",
+      "Kernel",
+      "Object-oriented design",
+      "Performance engineering",
+      "Problem Solving Skills",
+      "Programming",
+      "Relational databases",
+      "Resource management",
+      "System Design"
+    ],
+    "intersecting course skills":[
+      [
+        "CS152",
+        [
+          "Algorithms"
+        ]
+      ],
+      [
         "CS162",
         [
           "Abstraction",
+          "Java"
+        ]
+      ],
+      [
+        "CS164",
+        [
+          "Quality Assurance",
+          "Algorithms",
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Algorithms",
+          "Java"
+        ]
+      ],
+      [
+        "CS214",
+        [
           "Java"
         ]
       ],
@@ -1103,82 +1103,11 @@
         ]
       ],
       [
-        "CS164",
-        [
-          "Java",
-          "Algorithms",
-          "Quality Assurance"
-        ]
-      ],
-      [
-        "CS152",
-        [
-          "Algorithms"
-        ]
-      ],
-      [
-        "CS214",
-        [
-          "Java"
-        ]
-      ]
-    ],
-    "gt label":0.2962962963
-  },
-  {
-    "job title":"Amazon_SDE_Query_Optimization",
-    "covered skills":[
-      "Python",
-      "Operating Systems",
-      "Java",
-      "Optimization",
-      "C++",
-      "Algorithms",
-      "Research",
-      "Teamwork"
-    ],
-    "missing skills":[
-      "Requirements gathering",
-      "Innovation",
-      "C#",
-      "Complexity analysis",
-      "Algorithmic Expertise",
-      "Query optimization",
-      "Amazon Redshift",
-      "Deep learning",
-      "Programming",
-      "Database management",
-      "Query Analysis",
-      "Object-oriented design",
-      "Relational databases",
-      "Data structures",
-      "Parallel Execution Engine",
-      "multi-tiered systems",
-      "Distributed",
-      "Perl",
-      "Problem Solving Skills",
-      "Collaboration",
-      "Coding skills",
-      "Performance",
-      "Cloud computing",
-      "Analytical skills",
-      "Cloud Data Warehouse",
-      "Innovative Engineers"
-    ],
-    "intersecting course skills":[
-      [
         "CS314",
         [
           "Optimization",
-          "Teamwork",
-          "Java"
-        ]
-      ],
-      [
-        "CS165",
-        [
           "Java",
-          "Algorithms"
+          "Communication"
         ]
       ],
       [
@@ -1188,12 +1117,55 @@
         ]
       ],
       [
-        "CS150",
+        "CS455",
         [
-          "Python",
-          "Research"
+          "Abstraction"
         ]
-      ],
+      ]
+    ],
+    "gt label":0.2962962963
+  },
+  {
+    "job title":"Amazon_SDE_Query_Optimization",
+    "covered skills":[
+      "Algorithms",
+      "C++",
+      "Java",
+      "Operating Systems",
+      "Optimization",
+      "Python",
+      "Research",
+      "Teamwork"
+    ],
+    "missing skills":[
+      "Algorithmic Expertise",
+      "Amazon Redshift",
+      "Analytical skills",
+      "C#",
+      "Cloud Data Warehouse",
+      "Cloud computing",
+      "Coding skills",
+      "Collaboration",
+      "Complexity analysis",
+      "Data structures",
+      "Database management",
+      "Deep learning",
+      "Distributed",
+      "Innovation",
+      "Innovative Engineers",
+      "Object-oriented design",
+      "Parallel Execution Engine",
+      "Performance",
+      "Perl",
+      "Problem Solving Skills",
+      "Programming",
+      "Query Analysis",
+      "Query optimization",
+      "Relational databases",
+      "Requirements gathering",
+      "multi-tiered systems"
+    ],
+    "intersecting course skills":[
       [
         "CS110",
         [
@@ -1201,34 +1173,10 @@
         ]
       ],
       [
-        "CS162",
+        "CS150",
         [
-          "Java"
-        ]
-      ],
-      [
-        "CS270",
-        [
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
+          "Research",
           "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Java",
-          "Algorithms"
         ]
       ],
       [
@@ -1238,15 +1186,67 @@
         ]
       ],
       [
-        "CS220",
+        "CS162",
         [
-          "Python"
+          "Java"
+        ]
+      ],
+      [
+        "CS164",
+        [
+          "Algorithms",
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Algorithms",
+          "Java"
         ]
       ],
       [
         "CS214",
         [
           "Java"
+        ]
+      ],
+      [
+        "CS220",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS270",
+        [
+          "C++"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Optimization",
+          "Java"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS370",
+        [
+          "Operating Systems"
         ]
       ],
       [
@@ -1261,60 +1261,44 @@
   {
     "job title":"Amex_Backend_Engineer",
     "covered skills":[
-      "Microservices",
-      "Java",
-      "Docker",
-      "Teamwork",
       "Communication",
-      "Maven"
+      "Docker",
+      "Java",
+      "Maven",
+      "Microservices",
+      "Teamwork"
     ],
     "missing skills":[
+      "Agile development",
       "Application Design",
+      "Cloud infrastructure",
+      "Coding skills",
+      "Continuous Delivery (CD)",
+      "Contribution",
+      "Cutting edge technology",
+      "Database management",
+      "Design",
+      "Event driven micro services architecture",
+      "JavaScript",
+      "Jenkins",
       "Knowledge sharing",
       "Kubernetes",
-      "Continuous Delivery (CD)",
-      "Design",
-      "Trend Identification",
-      "Open source tools",
-      "Vert.x",
-      "Web development",
-      "Cloud infrastructure",
-      "Spring Webflux",
-      "Contribution",
-      "Jenkins",
-      "Programming",
-      "Database management",
-      "Event driven micro services architecture",
-      "Object-oriented design",
-      "Relational databases",
       "NoSQL",
-      "User Interfaces (UI)",
-      "Software Development",
-      "Agile development",
-      "Coding skills",
-      "React.js",
-      "JavaScript",
+      "Object-oriented design",
+      "Open source tools",
       "Performance Monitoring Tools",
+      "Programming",
+      "React.js",
+      "Relational databases",
+      "Software Development",
       "Spring Boot",
-      "Cutting edge technology"
+      "Spring Webflux",
+      "Trend Identification",
+      "User Interfaces (UI)",
+      "Vert.x",
+      "Web development"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Java",
-          "Docker",
-          "Teamwork",
-          "Communication",
-          "Maven"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java"
-        ]
-      ],
       [
         "CS162",
         [
@@ -1323,6 +1307,12 @@
       ],
       [
         "CS164",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
         [
           "Java"
         ]
@@ -1338,6 +1328,16 @@
         [
           "Microservices"
         ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Docker",
+          "Maven",
+          "Communication",
+          "Java"
+        ]
       ]
     ],
     "gt label":0.1764705882
@@ -1345,115 +1345,63 @@
   {
     "job title":"Amex_Engineer_Java",
     "covered skills":[
-      "Python",
-      "Java",
-      "Consistency",
-      "C++",
       "Algorithms",
-      "Teamwork",
+      "C++",
+      "Communication",
+      "Consistency",
       "Documentation",
-      "Communication"
+      "Java",
+      "Python",
+      "Teamwork"
     ],
     "missing skills":[
-      "Requirements gathering",
-      "Application Design",
-      "Software architecture",
-      "Agile methodology",
-      "Innovative ideas",
-      "Mentorship",
-      "Support Applications",
-      "PostgreSQL",
-      "Design",
-      "Oracle",
-      "Web Services",
-      "Consistent Development Practices",
-      "Analyzing Workflow",
-      "Team collaboration",
-      "JSON",
-      "Cross-channel Communications",
-      "Backend development",
-      "Reusable",
-      "XML",
-      "Programming",
-      "Customer engagement",
-      "Object-oriented design",
-      "Relational databases",
-      "Data structures",
-      "Continuous improvement (CI)",
-      "Efficiency",
-      "Deployment",
-      "NoSQL",
-      "User Interfaces (UI)",
-      "Automated tests",
-      "Multithreading programming",
-      "Problem Solving Skills",
-      "Software Development",
       "Accountability",
-      "Coding skills",
-      "React.js",
-      "Leadership",
+      "Agile methodology",
       "Analytical skills",
-      "Monitoring",
+      "Analyzing Workflow",
+      "Application Design",
+      "Automated tests",
+      "Backend development",
+      "Coding skills",
+      "Consistent Development Practices",
+      "Continuous improvement (CI)",
+      "Cross-channel Communications",
+      "Customer engagement",
+      "Data structures",
+      "Deployment",
+      "Design",
       "Distributed systems",
-      "Node.js"
+      "Efficiency",
+      "Innovative ideas",
+      "JSON",
+      "Leadership",
+      "Mentorship",
+      "Monitoring",
+      "Multithreading programming",
+      "NoSQL",
+      "Node.js",
+      "Object-oriented design",
+      "Oracle",
+      "PostgreSQL",
+      "Problem Solving Skills",
+      "Programming",
+      "React.js",
+      "Relational databases",
+      "Requirements gathering",
+      "Reusable",
+      "Software Development",
+      "Software architecture",
+      "Support Applications",
+      "Team collaboration",
+      "User Interfaces (UI)",
+      "Web Services",
+      "XML"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Teamwork",
-          "Java",
-          "Communication"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java",
-          "Algorithms"
-        ]
-      ],
       [
         "CS150",
         [
           "Python"
-        ]
-      ],
-      [
-        "CS455",
-        [
-          "Consistency"
-        ]
-      ],
-      [
-        "CS162",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS270",
-        [
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Java",
-          "Algorithms"
         ]
       ],
       [
@@ -1463,22 +1411,74 @@
         ]
       ],
       [
+        "CS162",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS164",
+        [
+          "Algorithms",
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Algorithms",
+          "Java"
+        ]
+      ],
+      [
+        "CS214",
+        [
+          "Documentation",
+          "Java"
+        ]
+      ],
+      [
         "CS220",
         [
           "Python"
         ]
       ],
       [
-        "CS214",
+        "CS270",
         [
+          "C++"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
           "Java",
-          "Documentation"
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
         ]
       ],
       [
         "CS445",
         [
           "Python"
+        ]
+      ],
+      [
+        "CS455",
+        [
+          "Consistency"
         ]
       ]
     ],
@@ -1487,78 +1487,68 @@
   {
     "job title":"Amex_Software_Engineer",
     "covered skills":[
-      "Python",
+      "C++",
+      "Communication",
       "Databases",
-      "Microservices",
       "Git",
       "Java",
-      "C++",
-      "Teamwork",
-      "Communication"
+      "Microservices",
+      "Python",
+      "Teamwork"
     ],
     "missing skills":[
-      "Innovation",
-      "MemSQL",
-      "Controller (mvc)",
-      "Cloud Technology",
-      "Data management",
-      "Kubernetes",
-      "CloudOps",
-      "Golang",
+      "Analytical skills",
       "CICD pipelines",
-      "View",
-      "PostgreSQL",
-      "SecOps",
-      "MySQL",
-      "TDD",
       "Caching Strategies",
       "CircleCI",
-      "data pipelines",
-      "Site Reliability Engineering (SRE)",
-      "Jenkins",
-      "Software Engineering",
-      "Programming",
-      "Database management",
-      "Runtimes",
-      "OOP\/Func Paradigms",
-      "DevOps",
-      "EKS",
-      "Strong analytical skills",
-      "Load (ETL)",
-      "NoSQL",
-      "Model",
-      "Extract",
-      "Software Development",
-      "Collaboration",
-      "Quality Commitment",
-      "GitHub Actions",
-      "Technical leadership",
-      "JavaScript",
-      "SQL",
-      "ECS",
-      "Kotlin",
+      "Cloud Technology",
       "Cloud computing",
-      "Analytical skills",
-      "async\/event-based",
-      "Transform",
+      "CloudOps",
+      "Collaboration",
       "Containerization",
-      "SoC"
+      "Controller (mvc)",
+      "Data management",
+      "Database management",
+      "DevOps",
+      "ECS",
+      "EKS",
+      "Extract",
+      "GitHub Actions",
+      "Golang",
+      "Innovation",
+      "JavaScript",
+      "Jenkins",
+      "Kotlin",
+      "Kubernetes",
+      "Load (ETL)",
+      "MemSQL",
+      "Model",
+      "MySQL",
+      "NoSQL",
+      "OOP\/Func Paradigms",
+      "PostgreSQL",
+      "Programming",
+      "Quality Commitment",
+      "Runtimes",
+      "SQL",
+      "SecOps",
+      "Site Reliability Engineering (SRE)",
+      "SoC",
+      "Software Development",
+      "Software Engineering",
+      "Strong analytical skills",
+      "TDD",
+      "Technical leadership",
+      "Transform",
+      "View",
+      "async\/event-based",
+      "data pipelines"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS110 - Modules",
         [
-          "Databases",
-          "Git",
-          "Java",
-          "Teamwork",
-          "Communication"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java"
+          "Databases"
         ]
       ],
       [
@@ -1574,13 +1564,27 @@
         ]
       ],
       [
-        "CS270",
+        "CS164",
         [
-          "C++"
+          "Git",
+          "Java"
         ]
       ],
       [
-        "CS345",
+        "CS165",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS214",
+        [
+          "Git",
+          "Java"
+        ]
+      ],
+      [
+        "CS220",
         [
           "Python"
         ]
@@ -1592,35 +1596,9 @@
         ]
       ],
       [
-        "CS320",
+        "CS270",
         [
-          "Python"
-        ]
-      ],
-      [
-        "CS110 - Modules",
-        [
-          "Databases"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Git",
-          "Java"
-        ]
-      ],
-      [
-        "CS220",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS214",
-        [
-          "Git",
-          "Java"
+          "C++"
         ]
       ],
       [
@@ -1628,6 +1606,28 @@
         [
           "Databases",
           "Microservices"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Databases",
+          "Communication",
+          "Git",
+          "Java"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
         ]
       ],
       [
@@ -1640,93 +1640,51 @@
     "gt label":0.1481481481
   },
   {
-    "job title":"Apple_Software_Engineer_WatchOS",
-    "covered skills":[
-
-    ],
-    "missing skills":[
-      "SwiftUI",
-      "Innovation",
-      "Knowledge sharing",
-      "Profiling Applications",
-      "User experience (UX)",
-      "Experience Optimization",
-      "System Design",
-      "Inter-process Communication",
-      "Creative Solutions",
-      "Collaboration"
-    ],
-    "intersecting course skills":[
-
-    ],
-    "gt label":0.0
-  },
-  {
     "job title":"Apple_SWE_Internal_Tools",
     "covered skills":[
-      "Python",
-      "Unix",
-      "Software Design",
+      "Communication",
       "Debugging",
+      "Python",
+      "Software Design",
       "Teamwork",
-      "Communication"
+      "Unix"
     ],
     "missing skills":[
-      "SwiftUI",
-      "Innovation",
-      "Multitasking",
-      "Build dependencies",
-      "system monitoring tools",
       "Bash",
-      "Logging",
-      "Implementation",
-      "macOS",
-      "Maintaining software applications",
-      "Design",
-      "Build infrastructure",
-      "Critical thinking",
-      "Infrastructure as code (IaC)",
-      "Objective-C",
-      "UNIX system administration",
-      "Software Solutions",
-      "Compute technologies",
-      "Programming",
-      "software debugging skills",
       "Build Systems",
-      "Profiling",
-      "Strong software development skills",
-      "Software Compilation",
-      "Problem Solving Skills",
-      "Software Development",
+      "Build dependencies",
+      "Build infrastructure",
       "Collaboration",
-      "Technical leadership",
+      "Compute technologies",
+      "Critical thinking",
+      "Design",
+      "Implementation",
+      "Infrastructure as code (IaC)",
+      "Innovation",
+      "Logging",
+      "Maintaining software applications",
+      "Monitoring",
+      "Multitasking",
+      "Objective-C",
       "Packaging Software",
+      "Problem Solving Skills",
+      "Profiling",
+      "Programming",
       "Scripting",
-      "Monitoring"
+      "Software Compilation",
+      "Software Development",
+      "Software Solutions",
+      "Strong software development skills",
+      "SwiftUI",
+      "Technical leadership",
+      "UNIX system administration",
+      "macOS",
+      "software debugging skills",
+      "system monitoring tools"
     ],
     "intersecting course skills":[
       [
-        "CS314",
-        [
-          "Unix",
-          "Teamwork",
-          "Communication"
-        ]
-      ],
-      [
         "CS150",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
         [
           "Python"
         ]
@@ -1738,16 +1696,36 @@
         ]
       ],
       [
+        "CS214",
+        [
+          "Software Design",
+          "Debugging"
+        ]
+      ],
+      [
         "CS220",
         [
           "Python"
         ]
       ],
       [
-        "CS214",
+        "CS314",
         [
-          "Debugging",
-          "Software Design"
+          "Teamwork",
+          "Unix",
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
         ]
       ],
       [
@@ -1760,6 +1738,28 @@
     "gt label":0.1621621622
   },
   {
+    "job title":"Apple_Software_Engineer_WatchOS",
+    "covered skills":[
+
+    ],
+    "missing skills":[
+      "Collaboration",
+      "Creative Solutions",
+      "Experience Optimization",
+      "Innovation",
+      "Inter-process Communication",
+      "Knowledge sharing",
+      "Profiling Applications",
+      "SwiftUI",
+      "System Design",
+      "User experience (UX)"
+    ],
+    "intersecting course skills":[
+
+    ],
+    "gt label":0.0
+  },
+  {
     "job title":"Apple_Webkit_Engineer",
     "covered skills":[
       "C",
@@ -1767,40 +1767,40 @@
       "Quality Assurance"
     ],
     "missing skills":[
-      "Innovation",
-      "UIKit",
-      "Compatibility",
-      "Bug fixing",
       "AppKit",
-      "Web development",
-      "Objective-C",
-      "Inter-process Communication",
-      "Programming",
-      "Performance optimization",
-      "HTML",
-      "Web Standards",
-      "Systems programming",
-      "Development",
-      "CSS",
-      "Compatibility Testing",
-      "Problem Solving Skills",
-      "Collaboration",
-      "JavaScript",
+      "Bug fixing",
       "CFNetwork",
-      "Test cases"
+      "CSS",
+      "Collaboration",
+      "Compatibility",
+      "Compatibility Testing",
+      "Development",
+      "HTML",
+      "Innovation",
+      "Inter-process Communication",
+      "JavaScript",
+      "Objective-C",
+      "Performance optimization",
+      "Problem Solving Skills",
+      "Programming",
+      "Systems programming",
+      "Test cases",
+      "UIKit",
+      "Web Standards",
+      "Web development"
     ],
     "intersecting course skills":[
-      [
-        "CS270",
-        [
-          "C",
-          "C++"
-        ]
-      ],
       [
         "CS164",
         [
           "Quality Assurance"
+        ]
+      ],
+      [
+        "CS270",
+        [
+          "C++",
+          "C"
         ]
       ]
     ],
@@ -1809,48 +1809,65 @@
   {
     "job title":"Comcast_Software_Engineer_Coop",
     "covered skills":[
-      "Python",
-      "Java",
-      "Project Management",
       "C++",
-      "Security",
+      "Java",
       "Networking",
-      "Teamwork",
-      "Quality Assurance"
+      "Project Management",
+      "Python",
+      "Quality Assurance",
+      "Security",
+      "Teamwork"
     ],
     "missing skills":[
-      "Innovation",
-      "Knowledge sharing",
-      "Data management",
-      "Mentorship",
-      "Encryption",
-      "PostgreSQL",
-      "Security Protocols",
-      "Oracle",
-      "MySQL",
-      "Business Skills",
-      "MongoDB",
-      "Software Engineering Practices",
       "AI\/ML",
-      "Software Engineering",
-      "Business operations",
       "Automation",
-      "Software Development",
-      "Interpersonal Skills",
-      "Solution Creation",
-      "Test and Deployment automation",
+      "Business Skills",
+      "Business operations",
       "Cloud computing",
       "Data analysis",
-      "Version control",
-      "Product development"
+      "Data management",
+      "Encryption",
+      "Innovation",
+      "Interpersonal Skills",
+      "Knowledge sharing",
+      "Mentorship",
+      "MongoDB",
+      "MySQL",
+      "Oracle",
+      "PostgreSQL",
+      "Product development",
+      "Security Protocols",
+      "Software Development",
+      "Software Engineering",
+      "Software Engineering Practices",
+      "Solution Creation",
+      "Test and Deployment automation",
+      "Version control"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS110",
         [
-          "Project Management",
-          "Networking",
-          "Teamwork",
+          "Security"
+        ]
+      ],
+      [
+        "CS150",
+        [
+          "Security",
+          "Python"
+        ]
+      ],
+      [
+        "CS162",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS164",
+        [
+          "Quality Assurance",
           "Java"
         ]
       ],
@@ -1861,47 +1878,10 @@
         ]
       ],
       [
-        "CS150",
+        "CS214",
         [
-          "Python",
-          "Security"
-        ]
-      ],
-      [
-        "CS110",
-        [
-          "Security"
-        ]
-      ],
-      [
-        "CS162",
-        [
+          "Project Management",
           "Java"
-        ]
-      ],
-      [
-        "CS270",
-        [
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Java",
-          "Quality Assurance"
         ]
       ],
       [
@@ -1911,10 +1891,30 @@
         ]
       ],
       [
-        "CS214",
+        "CS270",
         [
+          "C++"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Networking",
           "Project Management",
           "Java"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
         ]
       ],
       [
@@ -1929,63 +1929,32 @@
   {
     "job title":"Figma_Data_Scientist_Early_Career",
     "covered skills":[
-      "Python",
+      "Communication",
       "Data Science",
-      "Teamwork",
       "Documentation",
-      "Communication"
+      "Python",
+      "Teamwork"
     ],
     "missing skills":[
-      "Strong communication skills",
-      "Knowledge sharing",
-      "Coding skills",
-      "Machine learning",
-      "Cross-functional collaboration",
-      "Data structures",
-      "Data Engineering",
-      "User behavior prediction",
       "Analytical skills",
-      "Statistics",
-      "Statistical methods and models",
-      "Modeling",
+      "Coding skills",
+      "Collaboration",
+      "Cross-functional collaboration",
+      "Data Engineering",
+      "Data structures",
       "Evaluate Experiments",
+      "Knowledge sharing",
+      "Machine learning",
+      "Modeling",
       "Problem Solving Skills",
-      "Collaboration"
+      "Statistical methods and models",
+      "Statistics",
+      "Strong communication skills",
+      "User behavior prediction"
     ],
     "intersecting course skills":[
       [
-        "CS314",
-        [
-          "Teamwork",
-          "Communication"
-        ]
-      ],
-      [
         "CS150",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS456",
-        [
-          "Data Science"
-        ]
-      ],
-      [
-        "CS220",
         [
           "Python"
         ]
@@ -1997,9 +1966,40 @@
         ]
       ],
       [
+        "CS220",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
+        ]
+      ],
+      [
         "CS445",
         [
           "Python"
+        ]
+      ],
+      [
+        "CS456",
+        [
+          "Data Science"
         ]
       ]
     ],
@@ -2010,52 +2010,51 @@
     "covered skills":[
       "Debugging",
       "Optimization",
+      "Quality Assurance",
       "Security",
-      "Teamwork",
-      "Quality Assurance"
+      "Teamwork"
     ],
     "missing skills":[
-      "CI\/CD strategy",
-      "Cross-functional collaboration",
-      "User interface development",
-      "Conversion rate optimization",
-      "Infrastructure Development",
-      "Gatsby",
-      "Web development",
-      "TypeScript",
-      "Cloud infrastructure",
-      "Backend development",
-      "Programming",
-      "OKR planning",
-      "Database management",
-      "HTML",
-      "User experience (UX)",
-      "CSS",
-      "Software Frameworks",
-      "Accessibility",
-      "Code Review",
       "A\/B testing",
-      "Collaboration",
-      "CI\/CD",
-      "Troubleshooting",
+      "Accessibility",
       "Agile development",
-      "React.js",
-      "Performance",
+      "Backend development",
+      "CI\/CD",
+      "CI\/CD strategy",
+      "CSS",
+      "Cloud infrastructure",
+      "Code Review",
+      "Collaboration",
+      "Conversion rate optimization",
+      "Cross-functional collaboration",
+      "Database management",
+      "Deployment practices",
+      "Express",
+      "Gatsby",
+      "GraphQL",
+      "HTML",
+      "Infrastructure Development",
       "JavaScript",
       "Next.js",
-      "Deployment practices",
-      "roadmapping",
-      "Express",
+      "Node.js",
+      "OKR planning",
+      "Performance",
+      "Programming",
+      "React.js",
+      "Software Frameworks",
+      "Troubleshooting",
+      "TypeScript",
+      "User experience (UX)",
+      "User interface development",
       "Visual QA",
-      "GraphQL",
-      "Node.js"
+      "Web development",
+      "roadmapping"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS110",
         [
-          "Optimization",
-          "Teamwork"
+          "Security"
         ]
       ],
       [
@@ -2065,22 +2064,23 @@
         ]
       ],
       [
-        "CS110",
-        [
-          "Security"
-        ]
-      ],
-      [
         "CS164",
         [
-          "Debugging",
-          "Quality Assurance"
+          "Quality Assurance",
+          "Debugging"
         ]
       ],
       [
         "CS214",
         [
           "Debugging"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Optimization"
         ]
       ]
     ],
@@ -2089,72 +2089,57 @@
   {
     "job title":"Github_Software_Engineer",
     "covered skills":[
-      "Python",
-      "Prototyping",
-      "Git",
       "C",
-      "Java",
-      "Testing",
       "C++",
+      "Communication",
+      "Git",
+      "Java",
+      "Prototyping",
+      "Python",
       "Teamwork",
-      "Communication"
+      "Testing"
     ],
     "missing skills":[
-      "Innovation",
-      "Implementation",
-      "Mentorship",
-      "Feedback",
-      "Rust",
-      "Design",
-      "Golang",
-      "Support Applications",
-      "C#",
-      "Azure technologies",
+      "APIs",
       "Agile environment",
-      "Web development",
-      "Ruby",
-      "Compute technologies",
-      "Modeling",
-      "Software Engineering",
-      "Programming",
+      "Architecture Design",
       "Automation",
+      "Azure technologies",
+      "C#",
+      "Code Review",
+      "Collaboration",
+      "Compute technologies",
+      "Creative Problem Solving",
+      "Design",
       "DevOps",
-      "User experience (UX)",
-      "High-quality systems",
       "Development",
       "Efficiency",
-      "Code Review",
-      "APIs",
       "Exploration",
-      "Problem Solving Skills",
-      "Creative Problem Solving",
-      "Collaboration",
+      "Feedback",
       "GitHub",
-      "Strong communication skills",
-      "React.js",
-      "Technical leadership",
-      "Leadership",
-      "JavaScript",
+      "Golang",
       "High performance",
-      "Architecture Design",
-      "Maintainable code"
+      "High-quality systems",
+      "Implementation",
+      "Innovation",
+      "JavaScript",
+      "Leadership",
+      "Maintainable code",
+      "Mentorship",
+      "Modeling",
+      "Problem Solving Skills",
+      "Programming",
+      "React.js",
+      "Ruby",
+      "Rust",
+      "Software Engineering",
+      "Strong communication skills",
+      "Support Applications",
+      "Technical leadership",
+      "User experience (UX)",
+      "Web development"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Git",
-          "Teamwork",
-          "Java",
-          "Communication"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java"
-        ]
-      ],
       [
         "CS150",
         [
@@ -2168,42 +2153,17 @@
         ]
       ],
       [
-        "CS270",
-        [
-          "C",
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS464",
-        [
-          "Prototyping"
-        ]
-      ],
-      [
         "CS164",
         [
           "Git",
-          "Java",
-          "Testing"
+          "Testing",
+          "Java"
         ]
       ],
       [
-        "CS220",
+        "CS165",
         [
-          "Python"
+          "Java"
         ]
       ],
       [
@@ -2214,9 +2174,49 @@
         ]
       ],
       [
+        "CS220",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS270",
+        [
+          "C++",
+          "C"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Git",
+          "Java",
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
+        ]
+      ],
+      [
         "CS445",
         [
           "Python"
+        ]
+      ],
+      [
+        "CS464",
+        [
+          "Prototyping"
         ]
       ]
     ],
@@ -2225,73 +2225,58 @@
   {
     "job title":"Github_Software_Engineer_2",
     "covered skills":[
-      "Python",
-      "Prototyping",
-      "Git",
       "C",
-      "Java",
-      "Testing",
       "C++",
+      "Communication",
+      "Git",
+      "Java",
+      "Prototyping",
+      "Python",
       "Quality Assurance",
       "Teamwork",
-      "Communication"
+      "Testing"
     ],
     "missing skills":[
-      "Requirements gathering",
-      "Innovation",
-      "Implementation",
-      "Mentorship",
-      "Feedback",
-      "Rust",
-      "Design",
-      "Golang",
-      "Azure technologies",
-      "C#",
-      "Support Applications",
-      "Agile environment",
-      "Ruby",
-      "Backend development",
-      "Compute technologies",
-      "Software Engineering",
-      "Programming",
-      "Front-end frameworks",
-      "Autonomy",
-      "Automation",
-      "DevOps",
-      "User experience (UX)",
-      "High-quality systems",
-      "Development",
-      "Code Review",
       "APIs",
-      "Software Development",
-      "Creative Problem Solving",
-      "Collaboration",
-      "GitHub",
-      "React.js",
-      "Technical leadership",
-      "Frontend development",
-      "Leadership",
-      "JavaScript",
+      "Agile environment",
       "Architecture Design",
+      "Automation",
+      "Autonomy",
+      "Azure technologies",
+      "Backend development",
+      "C#",
+      "Code Review",
+      "Collaboration",
+      "Compute technologies",
+      "Creative Problem Solving",
+      "Creative Solutions",
+      "Design",
+      "DevOps",
+      "Development",
+      "Feedback",
+      "Front-end frameworks",
+      "Frontend development",
+      "GitHub",
+      "Golang",
+      "High-quality systems",
+      "Implementation",
+      "Innovation",
+      "JavaScript",
+      "Leadership",
       "Maintainable code",
-      "Creative Solutions"
+      "Mentorship",
+      "Programming",
+      "React.js",
+      "Requirements gathering",
+      "Ruby",
+      "Rust",
+      "Software Development",
+      "Software Engineering",
+      "Support Applications",
+      "Technical leadership",
+      "User experience (UX)"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Git",
-          "Teamwork",
-          "Java",
-          "Communication"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java"
-        ]
-      ],
       [
         "CS150",
         [
@@ -2305,43 +2290,18 @@
         ]
       ],
       [
-        "CS270",
-        [
-          "C",
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS464",
-        [
-          "Prototyping"
-        ]
-      ],
-      [
         "CS164",
         [
-          "Git",
-          "Java",
+          "Quality Assurance",
           "Testing",
-          "Quality Assurance"
+          "Git",
+          "Java"
         ]
       ],
       [
-        "CS220",
+        "CS165",
         [
-          "Python"
+          "Java"
         ]
       ],
       [
@@ -2352,77 +2312,31 @@
         ]
       ],
       [
-        "CS445",
+        "CS220",
         [
           "Python"
-        ]
-      ]
-    ],
-    "gt label":0.2083333333
-  },
-  {
-    "job title":"Google_ML_Analyst",
-    "covered skills":[
-      "Python",
-      "Project Management",
-      "C++",
-      "Quality Assurance",
-      "Security",
-      "Teamwork",
-      "Communication"
-    ],
-    "missing skills":[
-      "Data visualization",
-      "User insights",
-      "Cross-functional collaboration",
-      "R",
-      "Trend Identification",
-      "Statistics Generation",
-      "Decision making",
-      "Insights Drawing",
-      "Machine learning",
-      "User safety",
-      "Modeling",
-      "Programming",
-      "Feature engineering",
-      "Data exploration",
-      "Protection",
-      "Efficiency",
-      "Problem Solving Skills",
-      "Safety",
-      "Technical leadership",
-      "SQL",
-      "Fraud Prevention",
-      "Analytical skills",
-      "Presentation skills",
-      "Data analysis"
-    ],
-    "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Project Management",
-          "Teamwork",
-          "Communication"
-        ]
-      ],
-      [
-        "CS150",
-        [
-          "Python",
-          "Security"
-        ]
-      ],
-      [
-        "CS110",
-        [
-          "Security"
         ]
       ],
       [
         "CS270",
         [
-          "C++"
+          "C++",
+          "C"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Git",
+          "Java",
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
         ]
       ],
       [
@@ -2432,8 +2346,68 @@
         ]
       ],
       [
-        "CS320",
+        "CS445",
         [
+          "Python"
+        ]
+      ],
+      [
+        "CS464",
+        [
+          "Prototyping"
+        ]
+      ]
+    ],
+    "gt label":0.2083333333
+  },
+  {
+    "job title":"Google_ML_Analyst",
+    "covered skills":[
+      "C++",
+      "Communication",
+      "Project Management",
+      "Python",
+      "Quality Assurance",
+      "Security",
+      "Teamwork"
+    ],
+    "missing skills":[
+      "Analytical skills",
+      "Cross-functional collaboration",
+      "Data analysis",
+      "Data exploration",
+      "Data visualization",
+      "Decision making",
+      "Efficiency",
+      "Feature engineering",
+      "Fraud Prevention",
+      "Insights Drawing",
+      "Machine learning",
+      "Modeling",
+      "Presentation skills",
+      "Problem Solving Skills",
+      "Programming",
+      "Protection",
+      "R",
+      "SQL",
+      "Safety",
+      "Statistics Generation",
+      "Technical leadership",
+      "Trend Identification",
+      "User insights",
+      "User safety"
+    ],
+    "intersecting course skills":[
+      [
+        "CS110",
+        [
+          "Security"
+        ]
+      ],
+      [
+        "CS150",
+        [
+          "Security",
           "Python"
         ]
       ],
@@ -2444,15 +2418,41 @@
         ]
       ],
       [
+        "CS214",
+        [
+          "Project Management"
+        ]
+      ],
+      [
         "CS220",
         [
           "Python"
         ]
       ],
       [
-        "CS214",
+        "CS270",
         [
-          "Project Management"
+          "C++"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Project Management",
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
         ]
       ],
       [
@@ -2467,49 +2467,35 @@
   {
     "job title":"Google_ML_Engineer_Silicon",
     "covered skills":[
-      "Python",
-      "Verification",
       "C",
-      "Testing",
       "C++",
+      "Communication",
+      "Python",
       "Research",
-      "Communication"
+      "Testing",
+      "Verification"
     ],
     "missing skills":[
+      "AI and ML accelerators",
+      "AI\/ML",
+      "Collaboration",
       "Compilers",
+      "Compute technologies",
+      "Design",
+      "Development",
+      "Efficiency",
+      "Hardware design",
+      "Implementation",
+      "Improvement",
       "Innovation",
       "Machine learning",
       "Performance",
-      "Implementation",
-      "Development",
-      "Efficiency",
-      "AI\/ML",
-      "AI and ML accelerators",
-      "Hardware design",
-      "Design",
-      "Improvement",
-      "Compute technologies",
       "Simulation",
-      "Software Engineering",
-      "Software Development",
       "SoC",
-      "Collaboration"
+      "Software Development",
+      "Software Engineering"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Verification",
-          "Communication"
-        ]
-      ],
-      [
-        "CS150",
-        [
-          "Python",
-          "Research"
-        ]
-      ],
       [
         "CS110",
         [
@@ -2517,21 +2503,9 @@
         ]
       ],
       [
-        "CS270",
+        "CS150",
         [
-          "C",
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
+          "Research",
           "Python"
         ]
       ],
@@ -2543,6 +2517,32 @@
       ],
       [
         "CS220",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS270",
+        [
+          "C++",
+          "C"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Verification",
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
         [
           "Python"
         ]
@@ -2559,75 +2559,61 @@
   {
     "job title":"Google_Software_Engineer_Youtube_Design",
     "covered skills":[
-      "Python",
       "C",
-      "Testing",
       "C++",
+      "Communication",
+      "Documentation",
+      "Java",
+      "Networking",
+      "Python",
       "Quality Assurance",
       "Security",
-      "Networking",
-      "Java",
-      "Documentation",
-      "Communication"
+      "Testing"
     ],
     "missing skills":[
-      "Innovation",
-      "Distributed computing",
-      "Cross-functional collaboration",
-      "Implementation",
-      "Maintaining software applications",
-      "Design",
-      "Golang",
-      "Natural language processing (NLP)",
-      "Experience with data structures",
-      "Experience with algorithms",
-      "Data storage",
-      "Information retrieval",
-      "TypeScript",
+      "Artificial Intelligence (AI)",
       "Backend development",
-      "Compute technologies",
-      "Large-scale system design",
-      "Programming",
-      "HTML",
-      "Deployment",
-      "User Interfaces (UI)",
       "CSS",
       "Code Review",
+      "Collaboration",
+      "Compute technologies",
+      "Creative Solutions",
+      "Cross-functional collaboration",
+      "Data storage",
+      "Deployment",
+      "Design",
+      "Distributed computing",
+      "Experience with algorithms",
+      "Experience with data structures",
+      "Frontend development",
+      "Full stack development",
+      "Golang",
+      "HTML",
+      "Implementation",
+      "Information retrieval",
+      "Innovation",
+      "JavaScript",
+      "Large-scale system design",
+      "Maintaining software applications",
+      "Natural language processing (NLP)",
+      "Programming",
       "Quality Experiences",
       "Software Development",
-      "Collaboration",
-      "Artificial Intelligence (AI)",
-      "Full stack development",
-      "Frontend development",
-      "JavaScript",
-      "Creative Solutions"
+      "TypeScript",
+      "User Interfaces (UI)"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS110",
         [
-          "Networking",
-          "Java",
-          "Communication"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java"
+          "Security"
         ]
       ],
       [
         "CS150",
         [
-          "Python",
-          "Security"
-        ]
-      ],
-      [
-        "CS110",
-        [
-          "Security"
+          "Security",
+          "Python"
         ]
       ],
       [
@@ -2637,30 +2623,24 @@
         ]
       ],
       [
-        "CS270",
-        [
-          "C",
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
         "CS164",
         [
+          "Quality Assurance",
           "Testing",
-          "Java",
-          "Quality Assurance"
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS214",
+        [
+          "Documentation",
+          "Java"
         ]
       ],
       [
@@ -2670,10 +2650,30 @@
         ]
       ],
       [
-        "CS214",
+        "CS270",
         [
+          "C++",
+          "C"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Networking",
           "Java",
-          "Documentation"
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
         ]
       ],
       [
@@ -2688,34 +2688,34 @@
   {
     "job title":"Google_UX_Designer",
     "covered skills":[
-      "Quality Assurance",
-      "Research",
+      "Communication",
       "Prototyping",
-      "Communication"
+      "Quality Assurance",
+      "Research"
     ],
     "missing skills":[
-      "Innovation",
-      "Usability Evaluation",
-      "Designing across multiple platforms",
-      "User experience (UX)",
-      "Web development",
-      "User-centered design",
-      "Leadership",
-      "User interface mockups",
-      "Creative Solutions",
-      "User Interfaces (UI)",
-      "User workflows",
+      "Collaboration",
       "Content Strategy",
-      "Wireframes",
-      "Product development",
+      "Creative Solutions",
+      "Designing across multiple platforms",
       "Experience with design tools",
-      "Collaboration"
+      "Innovation",
+      "Leadership",
+      "Product development",
+      "Usability Evaluation",
+      "User Interfaces (UI)",
+      "User experience (UX)",
+      "User interface mockups",
+      "User workflows",
+      "User-centered design",
+      "Web development",
+      "Wireframes"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS110",
         [
-          "Communication"
+          "Research"
         ]
       ],
       [
@@ -2725,21 +2725,21 @@
         ]
       ],
       [
-        "CS110",
+        "CS164",
         [
-          "Research"
+          "Quality Assurance"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Communication"
         ]
       ],
       [
         "CS464",
         [
           "Prototyping"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Quality Assurance"
         ]
       ]
     ],
@@ -2748,32 +2748,39 @@
   {
     "job title":"HPE_AI_ML_Engineer",
     "covered skills":[
-      "Optimization",
-      "Testing",
       "Algorithms",
       "Debugging",
-      "Teamwork"
+      "Optimization",
+      "Teamwork",
+      "Testing"
     ],
     "missing skills":[
-      "Data visualization",
-      "Structured Data",
-      "Machine learning",
-      "Large Scale Computing",
-      "System Design",
       "Data Quality",
-      "Software Frameworks",
       "Data analysis",
-      "Modeling",
+      "Data visualization",
       "Deep learning",
-      "Unstructured Data",
-      "Statistical Modeling"
+      "Large Scale Computing",
+      "Machine learning",
+      "Modeling",
+      "Software Frameworks",
+      "Statistical Modeling",
+      "Structured Data",
+      "System Design",
+      "Unstructured Data"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS152",
         [
-          "Optimization",
-          "Teamwork"
+          "Algorithms"
+        ]
+      ],
+      [
+        "CS164",
+        [
+          "Algorithms",
+          "Testing",
+          "Debugging"
         ]
       ],
       [
@@ -2783,23 +2790,16 @@
         ]
       ],
       [
-        "CS164",
-        [
-          "Debugging",
-          "Testing",
-          "Algorithms"
-        ]
-      ],
-      [
-        "CS152",
-        [
-          "Algorithms"
-        ]
-      ],
-      [
         "CS214",
         [
           "Debugging"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Optimization"
         ]
       ]
     ],
@@ -2808,19 +2808,19 @@
   {
     "job title":"HPE_Cloud_Developer",
     "covered skills":[
-      "Teamwork",
-      "Prototyping"
+      "Prototyping",
+      "Teamwork"
     ],
     "missing skills":[
-      "Innovation",
-      "DevOps",
       "Cloud Technology",
       "Continuous Delivery (CD)",
-      "Efficiency",
       "Deployment",
       "Design",
-      "Problem Solving Skills",
-      "Monitoring"
+      "DevOps",
+      "Efficiency",
+      "Innovation",
+      "Monitoring",
+      "Problem Solving Skills"
     ],
     "intersecting course skills":[
       [
@@ -2845,39 +2845,33 @@
       "Teamwork"
     ],
     "missing skills":[
-      "Data visualization",
-      "Data Validation",
-      "SPSS",
-      "Data management",
-      "Statistics",
-      "R",
-      "Statistical Analysis System (SAS)",
-      "Decision making",
-      "Machine learning",
-      "Data Integration",
-      "Predictive Analytics",
-      "Modeling",
-      "Business operations",
-      "Data loading",
-      "User experience (UX)",
-      "Load (ETL)",
-      "Data preparation",
-      "Extract",
-      "Problem Solving Skills",
-      "Collaboration",
-      "Hypothesis Matrix",
       "Analytical skills",
-      "Transform",
+      "Business operations",
+      "Collaboration",
+      "Data Integration",
+      "Data Validation",
       "Data analysis",
-      "Exploratory Data Analysis (EDA)"
+      "Data loading",
+      "Data management",
+      "Data preparation",
+      "Data visualization",
+      "Decision making",
+      "Exploratory Data Analysis (EDA)",
+      "Extract",
+      "Hypothesis Matrix",
+      "Load (ETL)",
+      "Machine learning",
+      "Modeling",
+      "Predictive Analytics",
+      "Problem Solving Skills",
+      "R",
+      "SPSS",
+      "Statistical Analysis System (SAS)",
+      "Statistics",
+      "Transform",
+      "User experience (UX)"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Teamwork"
-        ]
-      ],
       [
         "CS150",
         [
@@ -2885,9 +2879,15 @@
         ]
       ],
       [
-        "CS345",
+        "CS220",
         [
           "Python"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork"
         ]
       ],
       [
@@ -2897,7 +2897,7 @@
         ]
       ],
       [
-        "CS220",
+        "CS345",
         [
           "Python"
         ]
@@ -2914,31 +2914,31 @@
   {
     "job title":"HPE_Electrical_Hardware_Engineer",
     "covered skills":[
-      "Testing",
+      "Communication",
       "Teamwork",
-      "Communication"
+      "Testing"
     ],
     "missing skills":[
+      "Analytical skills",
+      "Design",
       "Development",
       "Evaluation",
-      "Analytical skills",
-      "Reliability",
-      "Design",
       "Problem Solving Skills",
-      "Product development"
+      "Product development",
+      "Reliability"
     ],
     "intersecting course skills":[
+      [
+        "CS164",
+        [
+          "Testing"
+        ]
+      ],
       [
         "CS314",
         [
           "Teamwork",
           "Communication"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Testing"
         ]
       ]
     ],
@@ -2947,22 +2947,16 @@
   {
     "job title":"HPE_Engineer",
     "covered skills":[
-      "Debugging",
-      "Communication"
+      "Communication",
+      "Debugging"
     ],
     "missing skills":[
-      "Software Development",
       "Design",
-      "Validation",
-      "Technical leadership"
+      "Software Development",
+      "Technical leadership",
+      "Validation"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Communication"
-        ]
-      ],
       [
         "CS164",
         [
@@ -2974,6 +2968,12 @@
         [
           "Debugging"
         ]
+      ],
+      [
+        "CS314",
+        [
+          "Communication"
+        ]
       ]
     ],
     "gt label":0.3333333333
@@ -2981,35 +2981,35 @@
   {
     "job title":"HPE_Engineering_Program_Manager",
     "covered skills":[
-      "Project Management",
-      "Teamwork",
+      "Communication",
       "Documentation",
-      "Communication"
+      "Project Management",
+      "Teamwork"
     ],
     "missing skills":[
-      "Autonomy",
-      "Organization",
-      "Leadership",
-      "Efficiency",
       "Analytical skills",
-      "Reporting",
+      "Autonomy",
+      "Collaboration",
+      "Efficiency",
+      "Leadership",
+      "Organization",
       "Problem Solving Skills",
-      "Collaboration"
+      "Reporting"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Project Management",
-          "Teamwork",
-          "Communication"
-        ]
-      ],
       [
         "CS214",
         [
           "Project Management",
           "Documentation"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Project Management",
+          "Communication"
         ]
       ]
     ],
@@ -3018,16 +3018,16 @@
   {
     "job title":"HPE_Experience_Design_Engineer",
     "covered skills":[
-      "Teamwork",
-      "Communication"
+      "Communication",
+      "Teamwork"
     ],
     "missing skills":[
-      "Autonomy",
-      "User experience (UX)",
       "Analytical skills",
+      "Autonomy",
+      "Collaboration",
       "Data analysis",
       "Problem Solving Skills",
-      "Collaboration"
+      "User experience (UX)"
     ],
     "intersecting course skills":[
       [
@@ -3047,8 +3047,8 @@
     ],
     "missing skills":[
       "Analytical skills",
-      "Problem Solving Skills",
-      "Decision making"
+      "Decision making",
+      "Problem Solving Skills"
     ],
     "intersecting course skills":[
       [
@@ -3063,20 +3063,26 @@
   {
     "job title":"HPE_Mechanical_Engineer",
     "covered skills":[
-      "Testing",
+      "Prototyping",
       "Teamwork",
-      "Prototyping"
+      "Testing"
     ],
     "missing skills":[
-      "Leadership",
-      "Evaluation",
-      "CAD Software",
       "Analytical skills",
-      "Reliability",
+      "CAD Software",
       "Design",
-      "Problem Solving Skills"
+      "Evaluation",
+      "Leadership",
+      "Problem Solving Skills",
+      "Reliability"
     ],
     "intersecting course skills":[
+      [
+        "CS164",
+        [
+          "Testing"
+        ]
+      ],
       [
         "CS314",
         [
@@ -3088,12 +3094,6 @@
         [
           "Prototyping"
         ]
-      ],
-      [
-        "CS164",
-        [
-          "Testing"
-        ]
       ]
     ],
     "gt label":0.3
@@ -3101,27 +3101,27 @@
   {
     "job title":"HPE_Product_Engineer",
     "covered skills":[
-      "Teamwork",
-      "Quality Assurance"
+      "Quality Assurance",
+      "Teamwork"
     ],
     "missing skills":[
-      "Process improvement",
       "Analytical skills",
-      "Quality control",
       "Problem Solving Skills",
-      "Product development"
+      "Process improvement",
+      "Product development",
+      "Quality control"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Teamwork"
-        ]
-      ],
       [
         "CS164",
         [
           "Quality Assurance"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork"
         ]
       ]
     ],
@@ -3134,25 +3134,25 @@
       "Teamwork"
     ],
     "missing skills":[
-      "Innovation",
-      "Autonomy",
-      "Forecasting",
       "Analytical skills",
-      "Problem Solving Skills",
+      "Autonomy",
       "Financial literacy",
+      "Forecasting",
+      "Innovation",
+      "Problem Solving Skills",
       "Product development"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS214",
         [
-          "Project Management",
-          "Teamwork"
+          "Project Management"
         ]
       ],
       [
-        "CS214",
+        "CS314",
         [
+          "Teamwork",
           "Project Management"
         ]
       ]
@@ -3162,23 +3162,17 @@
   {
     "job title":"HPE_Quality_Assurance_Engineer",
     "covered skills":[
-      "Teamwork",
       "Documentation",
-      "Quality Assurance"
+      "Quality Assurance",
+      "Teamwork"
     ],
     "missing skills":[
       "Analytical skills",
       "Collaboration",
-      "Problem Solving Skills",
-      "Efficiency"
+      "Efficiency",
+      "Problem Solving Skills"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Teamwork"
-        ]
-      ],
       [
         "CS164",
         [
@@ -3190,6 +3184,12 @@
         [
           "Documentation"
         ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork"
+        ]
       ]
     ],
     "gt label":0.4285714286
@@ -3197,32 +3197,32 @@
   {
     "job title":"HPE_Quality_Engineer",
     "covered skills":[
-      "Testing",
-      "Teamwork",
+      "Communication",
       "Quality Assurance",
-      "Communication"
+      "Teamwork",
+      "Testing"
     ],
     "missing skills":[
-      "Lean Sigma",
-      "Six Sigma",
       "Analytical skills",
       "Data analysis",
+      "Lean Sigma",
+      "Problem Solving Skills",
       "Quality control",
-      "Problem Solving Skills"
+      "Six Sigma"
     ],
     "intersecting course skills":[
+      [
+        "CS164",
+        [
+          "Quality Assurance",
+          "Testing"
+        ]
+      ],
       [
         "CS314",
         [
           "Teamwork",
           "Communication"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Testing",
-          "Quality Assurance"
         ]
       ]
     ],
@@ -3235,21 +3235,21 @@
       "Teamwork"
     ],
     "missing skills":[
-      "Innovation",
+      "Analytical skills",
+      "Collaboration",
+      "Data analysis",
       "Development",
       "Implementation",
-      "Scientific research",
-      "Analytical skills",
-      "Publications",
-      "Data analysis",
+      "Innovation",
       "Problem Solving Skills",
-      "Collaboration"
+      "Publications",
+      "Scientific research"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS110",
         [
-          "Teamwork"
+          "Research"
         ]
       ],
       [
@@ -3259,44 +3259,35 @@
         ]
       ],
       [
-        "CS110",
+        "CS314",
         [
-          "Research"
+          "Teamwork"
         ]
       ]
     ],
     "gt label":0.1818181818
   },
   {
-    "job title":"HPE_Software_Designer",
+    "job title":"HPE_SW_Engineer_Firmware",
     "covered skills":[
-      "Software Design",
+      "C",
+      "C++",
+      "Communication",
       "Debugging",
-      "Teamwork",
-      "Documentation",
-      "Communication"
+      "Operating Systems",
+      "Teamwork"
     ],
     "missing skills":[
-      "Requirements gathering",
-      "Software testing",
-      "Application Design",
-      "Logging",
-      "Programming",
       "Analytical skills",
-      "Maintaining software applications",
-      "Code Review",
-      "Problem Solving Skills",
-      "Software Development",
-      "Collaboration"
+      "Assembly Language",
+      "Design",
+      "Efficiency",
+      "Firmware Development",
+      "Hardware design",
+      "Logging",
+      "Problem Solving Skills"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Teamwork",
-          "Communication"
-        ]
-      ],
       [
         "CS164",
         [
@@ -3306,35 +3297,16 @@
       [
         "CS214",
         [
-          "Debugging",
-          "Software Design",
-          "Documentation"
+          "Debugging"
         ]
-      ]
-    ],
-    "gt label":0.3125
-  },
-  {
-    "job title":"HPE_SW_Engineer_Firmware",
-    "covered skills":[
-      "Operating Systems",
-      "C",
-      "C++",
-      "Debugging",
-      "Teamwork",
-      "Communication"
-    ],
-    "missing skills":[
-      "Logging",
-      "Efficiency",
-      "Analytical skills",
-      "Assembly Language",
-      "Hardware design",
-      "Design",
-      "Firmware Development",
-      "Problem Solving Skills"
-    ],
-    "intersecting course skills":[
+      ],
+      [
+        "CS270",
+        [
+          "C++",
+          "C"
+        ]
+      ],
       [
         "CS314",
         [
@@ -3346,69 +3318,77 @@
         "CS370",
         [
           "Operating Systems"
-        ]
-      ],
-      [
-        "CS270",
-        [
-          "C",
-          "C++"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Debugging"
-        ]
-      ],
-      [
-        "CS214",
-        [
-          "Debugging"
         ]
       ]
     ],
     "gt label":0.4285714286
   },
   {
-    "job title":"HPE_Systems_Software_Engineer",
+    "job title":"HPE_Software_Designer",
     "covered skills":[
-      "Databases",
-      "Operating Systems",
+      "Communication",
+      "Debugging",
+      "Documentation",
       "Software Design",
-      "Networking",
       "Teamwork"
     ],
     "missing skills":[
-      "Compilers",
-      "Coding skills",
-      "Routers",
       "Analytical skills",
-      "Hardware design",
+      "Application Design",
+      "Code Review",
+      "Collaboration",
+      "Logging",
+      "Maintaining software applications",
       "Problem Solving Skills",
-      "Programming"
+      "Programming",
+      "Requirements gathering",
+      "Software Development",
+      "Software testing"
     ],
     "intersecting course skills":[
       [
+        "CS164",
+        [
+          "Debugging"
+        ]
+      ],
+      [
+        "CS214",
+        [
+          "Software Design",
+          "Debugging",
+          "Documentation"
+        ]
+      ],
+      [
         "CS314",
         [
-          "Networking",
-          "Databases",
-          "Teamwork"
+          "Teamwork",
+          "Communication"
         ]
-      ],
-      [
-        "CS370",
-        [
-          "Operating Systems"
-        ]
-      ],
-      [
-        "CS250",
-        [
-          "Databases"
-        ]
-      ],
+      ]
+    ],
+    "gt label":0.3125
+  },
+  {
+    "job title":"HPE_Systems_Software_Engineer",
+    "covered skills":[
+      "Databases",
+      "Networking",
+      "Operating Systems",
+      "Software Design",
+      "Teamwork"
+    ],
+    "missing skills":[
+      "Analytical skills",
+      "Coding skills",
+      "Compilers",
+      "Hardware design",
+      "Problem Solving Skills",
+      "Programming",
+      "Routers"
+    ],
+    "intersecting course skills":[
       [
         "CS110 - Modules",
         [
@@ -3422,9 +3402,29 @@
         ]
       ],
       [
+        "CS250",
+        [
+          "Databases"
+        ]
+      ],
+      [
         "CS312",
         [
           "Databases"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Networking",
+          "Databases"
+        ]
+      ],
+      [
+        "CS370",
+        [
+          "Operating Systems"
         ]
       ]
     ],
@@ -3433,14 +3433,14 @@
   {
     "job title":"HPE_Test_Engineer",
     "covered skills":[
-      "Teamwork",
-      "Communication"
+      "Communication",
+      "Teamwork"
     ],
     "missing skills":[
-      "Scheduling",
-      "System Design",
       "Analytical skills",
       "Problem Solving Skills",
+      "Scheduling",
+      "System Design",
       "Test Planning"
     ],
     "intersecting course skills":[
@@ -3457,30 +3457,24 @@
   {
     "job title":"HPE_VLSI_Engineer",
     "covered skills":[
-      "Teamwork",
-      "Algorithms"
+      "Algorithms",
+      "Teamwork"
     ],
     "missing skills":[
-      "Automation",
-      "Electronic Design",
-      "Scripting",
-      "Efficiency",
       "Analytical skills",
-      "Hardware design",
+      "Automation",
+      "Decision making",
       "Design",
+      "Efficiency",
+      "Electronic Design",
+      "Hardware design",
       "Problem Solving Skills",
       "Programming",
-      "Decision making"
+      "Scripting"
     ],
     "intersecting course skills":[
       [
-        "CS314",
-        [
-          "Teamwork"
-        ]
-      ],
-      [
-        "CS165",
+        "CS152",
         [
           "Algorithms"
         ]
@@ -3492,9 +3486,15 @@
         ]
       ],
       [
-        "CS152",
+        "CS165",
         [
           "Algorithms"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork"
         ]
       ]
     ],
@@ -3503,55 +3503,36 @@
   {
     "job title":"HP_Associate_Software_Developer",
     "covered skills":[
-      "Python",
-      "Microservices",
       "Integration Tests",
-      "Testing",
-      "Teamwork"
+      "Microservices",
+      "Python",
+      "Teamwork",
+      "Testing"
     ],
     "missing skills":[
-      "Innovation",
-      "Automated security scanning",
-      "Virtual Desktop Infrastructure",
       "API Tests",
-      "TypeScript",
-      "End-to-End Tests",
-      "Test Automation",
-      "Automation",
-      "DevOps",
-      "Automated tests",
-      "Terraform",
-      "Software Development",
-      "High standards",
-      "Collaboration",
       "Agile software development",
-      "Technical leadership",
-      "JavaScript",
+      "Automated security scanning",
+      "Automated tests",
+      "Automation",
+      "Collaboration",
       "Creative Solutions",
-      "Node.js"
+      "DevOps",
+      "End-to-End Tests",
+      "High standards",
+      "Innovation",
+      "JavaScript",
+      "Node.js",
+      "Software Development",
+      "Technical leadership",
+      "Terraform",
+      "Test Automation",
+      "TypeScript",
+      "Virtual Desktop Infrastructure"
     ],
     "intersecting course skills":[
       [
-        "CS314",
-        [
-          "Integration Tests",
-          "Teamwork"
-        ]
-      ],
-      [
         "CS150",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
         [
           "Python"
         ]
@@ -3575,6 +3556,25 @@
         ]
       ],
       [
+        "CS314",
+        [
+          "Teamwork",
+          "Integration Tests"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
+        ]
+      ],
+      [
         "CS445",
         [
           "Python"
@@ -3586,58 +3586,50 @@
   {
     "job title":"HP_Software_Quality_Engineer",
     "covered skills":[
-      "Project Management",
-      "Testing",
-      "Quality Assurance",
+      "Communication",
       "Debugging",
+      "Project Management",
+      "Quality Assurance",
       "Teamwork",
-      "Communication"
+      "Testing"
     ],
     "missing skills":[
-      "Innovation",
-      "Agile methodology",
-      "Design Discussions",
-      "Mentorship",
-      "Design",
-      "Software Quality (SQA\/SQC)",
-      "Testing Strategies",
-      "Product validation",
-      "JIRA",
-      "TestRail",
-      "Software Engineering",
-      "Customer engagement",
-      "Manual Testing",
-      "Efficiency",
-      "Code Review",
-      "Building new solutions",
-      "Problem Solving Skills",
-      "Software Development",
-      "Collaboration",
-      "Software testing",
-      "CI\/CD",
       "Agile development",
-      "Coding skills",
-      "Leadership",
-      "Scripting",
+      "Agile methodology",
       "Analytical skills",
+      "Building new solutions",
+      "CI\/CD",
+      "Code Review",
+      "Coding skills",
+      "Collaboration",
+      "Customer engagement",
       "Customer needs",
-      "Test Planning"
+      "Design",
+      "Design Discussions",
+      "Efficiency",
+      "Innovation",
+      "JIRA",
+      "Leadership",
+      "Manual Testing",
+      "Mentorship",
+      "Problem Solving Skills",
+      "Product validation",
+      "Scripting",
+      "Software Development",
+      "Software Engineering",
+      "Software Quality (SQA\/SQC)",
+      "Software testing",
+      "Test Planning",
+      "TestRail",
+      "Testing Strategies"
     ],
     "intersecting course skills":[
       [
-        "CS314",
-        [
-          "Project Management",
-          "Teamwork",
-          "Communication"
-        ]
-      ],
-      [
         "CS164",
         [
-          "Debugging",
+          "Quality Assurance",
           "Testing",
-          "Quality Assurance"
+          "Debugging"
         ]
       ],
       [
@@ -3646,6 +3638,14 @@
           "Project Management",
           "Debugging"
         ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Project Management",
+          "Communication"
+        ]
       ]
     ],
     "gt label":0.1764705882
@@ -3653,51 +3653,72 @@
   {
     "job title":"Meta_Software_Engineer",
     "covered skills":[
-      "Python",
-      "Prototyping",
-      "Operating Systems",
-      "Testing",
       "C++",
       "Debugging",
+      "Documentation",
       "Hardware",
       "Java",
-      "Documentation",
-      "Quality Assurance"
+      "Operating Systems",
+      "Prototyping",
+      "Python",
+      "Quality Assurance",
+      "Testing"
     ],
     "missing skills":[
-      "mobile app development",
-      "Innovation",
-      "Software architecture",
-      "Game engine development",
-      "Software engineering quality",
-      "Design",
-      "Embedded systems",
-      "Augmented reality",
       "AR\/VR",
-      "Firmware Development",
-      "Programming",
-      "Mobile Software Experience",
+      "Analytical skills",
+      "Architectural tradeoffs",
+      "Artificial Intelligence (AI)",
+      "Augmented reality",
+      "Code Review",
+      "Collaboration",
+      "Design",
       "Development",
       "Efficiency",
-      "Code Review",
-      "Infrastructure",
-      "Virtual reality",
-      "Problem Solving Skills",
-      "Software Development",
-      "Artificial Intelligence (AI)",
-      "Collaboration",
-      "Hardware development",
-      "PHP",
-      "Technical leadership",
-      "Analytical skills",
-      "robotics",
+      "Embedded systems",
+      "Firmware Development",
+      "Game engine development",
       "Hardware design",
-      "Architectural tradeoffs"
+      "Hardware development",
+      "Infrastructure",
+      "Innovation",
+      "Mobile Software Experience",
+      "PHP",
+      "Problem Solving Skills",
+      "Programming",
+      "Software Development",
+      "Software architecture",
+      "Software engineering quality",
+      "Technical leadership",
+      "Virtual reality",
+      "mobile app development",
+      "robotics"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS110",
         [
+          "Hardware"
+        ]
+      ],
+      [
+        "CS150",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS162",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS164",
+        [
+          "Quality Assurance",
+          "Testing",
+          "Debugging",
           "Java"
         ]
       ],
@@ -3708,60 +3729,11 @@
         ]
       ],
       [
-        "CS370",
-        [
-          "Operating Systems"
-        ]
-      ],
-      [
-        "CS150",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS110",
-        [
-          "Hardware"
-        ]
-      ],
-      [
-        "CS162",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS270",
-        [
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS464",
-        [
-          "Prototyping"
-        ]
-      ],
-      [
-        "CS164",
+        "CS214",
         [
           "Debugging",
-          "Testing",
-          "Java",
-          "Quality Assurance"
+          "Documentation",
+          "Java"
         ]
       ],
       [
@@ -3771,17 +3743,45 @@
         ]
       ],
       [
-        "CS214",
+        "CS270",
         [
-          "Debugging",
-          "Java",
-          "Documentation"
+          "C++"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS370",
+        [
+          "Operating Systems"
         ]
       ],
       [
         "CS445",
         [
           "Python"
+        ]
+      ],
+      [
+        "CS464",
+        [
+          "Prototyping"
         ]
       ]
     ],
@@ -3794,35 +3794,35 @@
       "Quality Assurance"
     ],
     "missing skills":[
-      "Multithreading programming",
-      "Performance",
       "API design",
-      "Building complex applications targeting Android",
-      "Unit testing",
-      "Efficiency",
-      "Performance Debugging",
-      "User Interfaces (UI)",
-      "Software Development",
-      "Mobile memory management",
       "Analytical skills",
-      "Infrastructure",
       "Android Programming Techniques",
-      "Building Reusable Android Software Components",
       "Android native languages",
       "Benchmarking",
-      "Programming"
+      "Building Reusable Android Software Components",
+      "Building complex applications targeting Android",
+      "Efficiency",
+      "Infrastructure",
+      "Mobile memory management",
+      "Multithreading programming",
+      "Performance",
+      "Performance Debugging",
+      "Programming",
+      "Software Development",
+      "Unit testing",
+      "User Interfaces (UI)"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Optimization"
-        ]
-      ],
       [
         "CS164",
         [
           "Quality Assurance"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Optimization"
         ]
       ]
     ],
@@ -3831,50 +3831,41 @@
   {
     "job title":"Meta_Software_Engineer_Codesign",
     "covered skills":[
-      "Python",
       "C",
-      "Java",
       "C++",
-      "Networking",
+      "Communication",
       "Hardware",
-      "Teamwork",
-      "Communication"
+      "Java",
+      "Networking",
+      "Python",
+      "Teamwork"
     ],
     "missing skills":[
       "AI and ML accelerators",
-      "Publications",
-      "Storage Systems",
-      "workload architectural analysis",
-      "Full stack analysis",
-      "CPUs",
-      "Compute technologies",
-      "Programming",
-      "GPUs",
-      "Community Contribution",
-      "Problem Solving Skills",
-      "Collaboration",
-      "PHP",
-      "Technical leadership",
-      "Scripting",
       "Analytical skills",
-      "Hardware design",
+      "CPUs",
+      "Collaboration",
+      "Community Contribution",
+      "Compute technologies",
       "Distributed systems",
-      "Large-scale infrastructure"
+      "Full stack analysis",
+      "GPUs",
+      "Hardware design",
+      "Large-scale infrastructure",
+      "PHP",
+      "Problem Solving Skills",
+      "Programming",
+      "Publications",
+      "Scripting",
+      "Storage Systems",
+      "Technical leadership",
+      "workload architectural analysis"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS110",
         [
-          "Networking",
-          "Teamwork",
-          "Java",
-          "Communication"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java"
+          "Hardware"
         ]
       ],
       [
@@ -3884,38 +3875,25 @@
         ]
       ],
       [
-        "CS110",
-        [
-          "Hardware"
-        ]
-      ],
-      [
         "CS162",
         [
           "Java"
         ]
       ],
       [
-        "CS270",
-        [
-          "C",
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
         "CS164",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS214",
         [
           "Java"
         ]
@@ -3927,9 +3905,31 @@
         ]
       ],
       [
-        "CS214",
+        "CS270",
         [
-          "Java"
+          "C++",
+          "C"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Networking",
+          "Java",
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
         ]
       ],
       [
@@ -3944,52 +3944,34 @@
   {
     "job title":"Meta_Software_Engineer_Computer_Vision",
     "covered skills":[
-      "Python",
       "C++",
+      "Python",
       "Quality Assurance"
     ],
     "missing skills":[
-      "Innovation",
-      "Experience with distributed systems",
-      "Computer Vision",
-      "Mentorship",
       "AI system design",
-      "Machine learning",
-      "System Interaction",
-      "ML rigor",
       "AR\/VR",
+      "Architecture Design",
+      "Artificial Intelligence (AI)",
+      "Benchmarking",
+      "Computer Vision",
       "Deep learning",
+      "Experience with distributed systems",
+      "Innovation",
+      "Leadership",
+      "ML rigor",
+      "Machine learning",
+      "Mentorship",
       "Methodology Development",
       "Programming",
       "PyTorch",
-      "Artificial Intelligence (AI)",
-      "Vision Systems",
+      "System Interaction",
       "Technical leadership",
-      "Leadership",
-      "Architecture Design",
-      "Benchmarking"
+      "Vision Systems"
     ],
     "intersecting course skills":[
       [
         "CS150",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS270",
-        [
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
         [
           "Python"
         ]
@@ -4002,6 +3984,24 @@
       ],
       [
         "CS220",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS270",
+        [
+          "C++"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
         [
           "Python"
         ]
@@ -4018,39 +4018,33 @@
   {
     "job title":"Meta_Software_Engineer_Frontend",
     "covered skills":[
+      "Quality Assurance",
       "Teamwork",
-      "Web Applications",
-      "Quality Assurance"
+      "Web Applications"
     ],
     "missing skills":[
-      "Innovation",
-      "Performance and Scalability",
-      "Performance Debugging",
-      "Front-end Systems",
-      "Reusable",
-      "Designing Interfaces",
-      "Software Engineering",
-      "Large-Scale Product Development",
-      "User Interface Components",
-      "HTML",
-      "Front-end frameworks",
-      "Unit testing",
-      "CSS",
-      "Software Development",
-      "Collaboration",
-      "React.js",
-      "JavaScript",
       "API design",
+      "Architecture Design",
+      "CSS",
+      "Collaboration",
+      "Designing Interfaces",
+      "Front-end Systems",
+      "Front-end frameworks",
+      "HTML",
       "High performance",
-      "Architecture Design"
+      "Innovation",
+      "JavaScript",
+      "Large-Scale Product Development",
+      "Performance Debugging",
+      "Performance and Scalability",
+      "React.js",
+      "Reusable",
+      "Software Development",
+      "Software Engineering",
+      "Unit testing",
+      "User Interface Components"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Teamwork"
-        ]
-      ],
       [
         "CS164",
         [
@@ -4062,6 +4056,12 @@
         [
           "Web Applications"
         ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork"
+        ]
       ]
     ],
     "gt label":0.1304347826
@@ -4069,55 +4069,41 @@
   {
     "job title":"Meta_Software_Engineer_Infrastructure",
     "covered skills":[
-      "Python",
       "C",
-      "Java",
-      "Testing",
       "C++",
+      "Communication",
+      "Java",
+      "Python",
       "Quality Assurance",
       "Teamwork",
-      "Communication"
+      "Testing"
     ],
     "missing skills":[
-      "System Resources",
-      "Cross-functional collaboration",
-      "Large scale software applications",
-      "Design",
-      "Exposure to architectural patterns",
-      "Quality work",
-      "Compute technologies",
-      "Scalability",
-      "Software Engineering",
-      "Efficiency",
-      "Design Reviews",
+      "Analytical skills",
+      "Building large-scale infrastructure applications",
       "Code Review",
-      "Software Development",
       "Collaboration",
+      "Compute technologies",
+      "Cross-functional collaboration",
+      "Design",
+      "Design Reviews",
+      "Efficiency",
+      "Exposure to architectural patterns",
+      "JavaScript",
+      "Large scale software applications",
+      "Leadership",
+      "Monitoring",
       "PHP",
       "Quality improvement",
-      "Technical leadership",
-      "Building large-scale infrastructure applications",
-      "Leadership",
-      "JavaScript",
-      "Analytical skills",
+      "Quality work",
       "Reliability",
-      "Monitoring"
+      "Scalability",
+      "Software Development",
+      "Software Engineering",
+      "System Resources",
+      "Technical leadership"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Teamwork",
-          "Java",
-          "Communication"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java"
-        ]
-      ],
       [
         "CS150",
         [
@@ -4131,30 +4117,23 @@
         ]
       ],
       [
-        "CS270",
-        [
-          "C",
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
         "CS164",
         [
+          "Quality Assurance",
           "Testing",
-          "Java",
-          "Quality Assurance"
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS214",
+        [
+          "Java"
         ]
       ],
       [
@@ -4164,9 +4143,30 @@
         ]
       ],
       [
-        "CS214",
+        "CS270",
         [
-          "Java"
+          "C++",
+          "C"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Java",
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
         ]
       ],
       [
@@ -4181,58 +4181,44 @@
   {
     "job title":"Microsoft_Applied_Scientist",
     "covered skills":[
-      "Python",
-      "Teamwork",
-      "Research",
       "Communication",
-      "Quality Assurance"
+      "Python",
+      "Quality Assurance",
+      "Research",
+      "Teamwork"
     ],
     "missing skills":[
-      "LLMs",
+      "AI\/ML",
+      "Active learning",
+      "Artificial Intelligence (AI)",
+      "Bayesian networks",
+      "Collaboration",
+      "Compute technologies",
+      "Critical feedback",
+      "Data integrity",
+      "Data preparation",
+      "Data-driven Research",
+      "Deep learning",
+      "Extract",
       "Innovation",
+      "LLMs",
+      "Load (ETL)",
+      "Machine learning",
+      "Multi-modal models",
+      "Predictive Analytics",
+      "Probabilistic graphical models",
+      "Publications",
       "R",
+      "Reinforcement learning",
+      "SLMs",
+      "Scala",
       "Statistical Techniques",
       "Statistics",
-      "Publications",
-      "Multi-modal models",
-      "Machine learning",
-      "Critical feedback",
-      "Predictive Analytics",
-      "AI\/ML",
-      "Compute technologies",
-      "Deep learning",
-      "Scala",
-      "Data integrity",
-      "SLMs",
-      "Data-driven Research",
-      "Load (ETL)",
-      "Data preparation",
-      "Extract",
-      "Artificial Intelligence (AI)",
-      "Collaboration",
-      "Probabilistic graphical models",
       "Technical leadership",
-      "Reinforcement learning",
-      "Bayesian networks",
-      "Transform",
-      "Active learning",
-      "Time series"
+      "Time series",
+      "Transform"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Teamwork",
-          "Communication"
-        ]
-      ],
-      [
-        "CS150",
-        [
-          "Python",
-          "Research"
-        ]
-      ],
       [
         "CS110",
         [
@@ -4240,14 +4226,9 @@
         ]
       ],
       [
-        "CS345",
+        "CS150",
         [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
+          "Research",
           "Python"
         ]
       ],
@@ -4259,6 +4240,25 @@
       ],
       [
         "CS220",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
         [
           "Python"
         ]
@@ -4275,59 +4275,47 @@
   {
     "job title":"Microsoft_Fullstack",
     "covered skills":[
-      "Python",
-      "Privacy",
       "C",
       "C++",
-      "Security",
       "Java",
-      "Quality Assurance"
+      "Privacy",
+      "Python",
+      "Quality Assurance",
+      "Security"
     ],
     "missing skills":[
-      "Innovation",
+      "Accessibility",
       "Automation",
+      "C#",
+      "Collaboration",
+      "Compliance",
+      "Data analysis",
+      "Efficiency",
+      "Innovation",
+      "JavaScript",
       "Monitoring",
       "Performance",
-      "JavaScript",
-      "Software Development",
-      "Efficiency",
-      "Service level agreement",
-      "Reliability",
-      "Accessibility",
-      "Data analysis",
-      "C#",
-      "Compliance",
       "Problem Solving Skills",
-      "Safety",
       "Programming",
-      "Collaboration"
+      "Reliability",
+      "Safety",
+      "Service level agreement",
+      "Software Development"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS150",
-        [
-          "Python",
-          "Privacy",
-          "Security"
-        ]
-      ],
       [
         "CS110",
         [
           "Security",
           "Privacy"
+        ]
+      ],
+      [
+        "CS150",
+        [
+          "Security",
+          "Privacy",
+          "Python"
         ]
       ],
       [
@@ -4337,41 +4325,16 @@
         ]
       ],
       [
-        "CS270",
-        [
-          "C",
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS456",
-        [
-          "Privacy"
-        ]
-      ],
-      [
         "CS164",
         [
-          "Java",
-          "Quality Assurance"
+          "Quality Assurance",
+          "Java"
         ]
       ],
       [
-        "CS220",
+        "CS165",
         [
-          "Python"
+          "Java"
         ]
       ],
       [
@@ -4381,113 +4344,22 @@
         ]
       ],
       [
-        "CS445",
+        "CS220",
         [
           "Python"
         ]
-      ]
-    ],
-    "gt label":0.2916666667
-  },
-  {
-    "job title":"Microsoft_Security_Researcher",
-    "covered skills":[
-      "Python",
-      "Prototyping",
-      "Malware Analysis",
-      "Java",
-      "Project Management",
-      "Security",
-      "Research",
-      "Teamwork",
-      "Communication"
-    ],
-    "missing skills":[
-      "Strong Quantitative Skills",
-      "Innovation",
-      "Distributed computing",
-      "Penetration testing",
-      "Experimentation",
-      "Statistics",
-      "Cloud Identity TTPs",
-      "Threat Analysis",
-      "C#",
-      "Address Security Issues",
-      "Telemetry",
-      "Threat Hunts",
-      "Intelligence Requirements",
-      "Data-driven inference methods",
-      "Machine learning",
-      "Research Methodology",
-      "Protect tools",
-      "Apache Spark",
-      "Actionable Intelligence",
-      "Scala",
-      "Security Analysis",
-      "Programming",
-      "Analyze Threat Trends",
-      "Code Contribution",
-      "Product development",
-      "Automation",
-      "Regulatory Scrutiny",
-      "Security Domain",
-      "Operational Impact",
-      "Cloud architectures",
-      "Incident response",
-      "Malicious Activity Detection",
-      "Digital Technology Platforms",
-      "Problem Solving Skills",
-      "Technical leadership",
-      "Threat Reporting",
-      "Cloud computing",
-      "Architecture Design",
-      "Threat Actor TTPs",
-      "Data analysis",
-      "Systemic Security Issues",
-      "Signature Detection",
-      "Data Mining"
-    ],
-    "intersecting course skills":[
+      ],
+      [
+        "CS270",
+        [
+          "C++",
+          "C"
+        ]
+      ],
       [
         "CS314",
         [
-          "Project Management",
-          "Teamwork",
-          "Java",
-          "Communication"
-        ]
-      ],
-      [
-        "CS165",
-        [
           "Java"
-        ]
-      ],
-      [
-        "CS150",
-        [
-          "Python",
-          "Research",
-          "Security"
-        ]
-      ],
-      [
-        "CS110",
-        [
-          "Security",
-          "Research"
-        ]
-      ],
-      [
-        "CS162",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
         ]
       ],
       [
@@ -4497,9 +4369,156 @@
         ]
       ],
       [
-        "CS464",
+        "CS345",
         [
-          "Prototyping"
+          "Python"
+        ]
+      ],
+      [
+        "CS445",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS456",
+        [
+          "Privacy"
+        ]
+      ]
+    ],
+    "gt label":0.2916666667
+  },
+  {
+    "job title":"Microsoft_Security_Researcher",
+    "covered skills":[
+      "Communication",
+      "Java",
+      "Malware Analysis",
+      "Project Management",
+      "Prototyping",
+      "Python",
+      "Research",
+      "Security",
+      "Teamwork"
+    ],
+    "missing skills":[
+      "Actionable Intelligence",
+      "Address Security Issues",
+      "Analyze Threat Trends",
+      "Apache Spark",
+      "Architecture Design",
+      "Automation",
+      "C#",
+      "Cloud Identity TTPs",
+      "Cloud architectures",
+      "Cloud computing",
+      "Code Contribution",
+      "Data Mining",
+      "Data analysis",
+      "Data-driven inference methods",
+      "Digital Technology Platforms",
+      "Distributed computing",
+      "Experimentation",
+      "Incident response",
+      "Innovation",
+      "Intelligence Requirements",
+      "Machine learning",
+      "Malicious Activity Detection",
+      "Operational Impact",
+      "Penetration testing",
+      "Problem Solving Skills",
+      "Product development",
+      "Programming",
+      "Protect tools",
+      "Regulatory Scrutiny",
+      "Research Methodology",
+      "Scala",
+      "Security Analysis",
+      "Security Domain",
+      "Signature Detection",
+      "Statistics",
+      "Strong Quantitative Skills",
+      "Systemic Security Issues",
+      "Technical leadership",
+      "Telemetry",
+      "Threat Actor TTPs",
+      "Threat Analysis",
+      "Threat Hunts",
+      "Threat Reporting"
+    ],
+    "intersecting course skills":[
+      [
+        "CS110",
+        [
+          "Security",
+          "Research"
+        ]
+      ],
+      [
+        "CS150",
+        [
+          "Security",
+          "Research",
+          "Python"
+        ]
+      ],
+      [
+        "CS162",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS164",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS214",
+        [
+          "Project Management",
+          "Java"
+        ]
+      ],
+      [
+        "CS220",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Project Management",
+          "Java",
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS445",
+        [
+          "Python"
         ]
       ],
       [
@@ -4509,110 +4528,87 @@
         ]
       ],
       [
-        "CS164",
+        "CS464",
         [
-          "Java"
-        ]
-      ],
-      [
-        "CS220",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS214",
-        [
-          "Project Management",
-          "Java"
-        ]
-      ],
-      [
-        "CS445",
-        [
-          "Python"
+          "Prototyping"
         ]
       ]
     ],
     "gt label":0.1730769231
   },
   {
-    "job title":"Microsoft_Software_Engineering_Security",
+    "job title":"Microsoft_Software_Engineer_AI_ML",
     "covered skills":[
-      "Python",
-      "Debugging",
       "C",
-      "Testing",
       "C++",
+      "Debugging",
+      "Java",
+      "Privacy",
+      "Python",
       "Quality Assurance",
       "Security",
-      "Java",
-      "Communication"
+      "Testing"
     ],
     "missing skills":[
-      "Code building",
-      "Design Documentation",
-      "Security tools",
-      "Feedback",
-      "C#",
-      "Compliance",
-      "Telemetry",
-      "Time management",
-      "System behavior insights",
-      "Software Engineering",
-      "Business operations",
-      "Test Automation",
-      "Programming",
-      "Product Security",
-      "Secure coding standards",
+      "AI\/ML",
+      "Accessibility",
+      "Architecture Design",
+      "Artificial Intelligence (AI)",
       "Automation",
-      "Development",
-      "Estimations",
-      "Continuous improvement (CI)",
-      "Efficiency",
-      "Regulations",
-      "Problem Solving Skills",
-      "Safety",
-      "Logs",
-      "Software Development",
+      "C#",
+      "Code Creation",
+      "Coding skills",
       "Collaboration",
-      "Tooling",
-      "Identifying Dependencies",
-      "Performance",
-      "JavaScript",
-      "Deployment practices",
-      "Feedback Integration",
-      "Analytical skills",
-      "Reliability",
+      "Compliance",
+      "Compute technologies",
+      "Continuous improvement (CI)",
       "Customer needs",
       "Data analysis",
-      "Security Policies"
+      "Deployment practices",
+      "Design Documentation",
+      "Efficiency",
+      "Estimations",
+      "Feature Deployments",
+      "Feedback Integration",
+      "Identifying Dependencies",
+      "JavaScript",
+      "ML models",
+      "Machine learning",
+      "Monitoring",
+      "Orchestration patterns",
+      "Performance",
+      "Performance Debugging",
+      "Problem Solving Skills",
+      "Product development",
+      "Programming",
+      "Reliability",
+      "Responsible AI practices",
+      "Safety",
+      "Scalability",
+      "Service Impacts",
+      "Service level agreement",
+      "Software Engineering",
+      "System behavior insights",
+      "System functionality",
+      "Technical Validation",
+      "Telemetry",
+      "User Impacts",
+      "User experience (UX)"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS110",
         [
-          "Java",
-          "Communication"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java"
+          "Security",
+          "Privacy"
         ]
       ],
       [
         "CS150",
         [
-          "Python",
-          "Security"
-        ]
-      ],
-      [
-        "CS110",
-        [
-          "Security"
+          "Security",
+          "Privacy",
+          "Python"
         ]
       ],
       [
@@ -4622,31 +4618,25 @@
         ]
       ],
       [
-        "CS270",
-        [
-          "C",
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
         "CS164",
         [
-          "Debugging",
+          "Quality Assurance",
           "Testing",
-          "Java",
-          "Quality Assurance"
+          "Debugging",
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS214",
+        [
+          "Debugging",
+          "Java"
         ]
       ],
       [
@@ -4656,10 +4646,169 @@
         ]
       ],
       [
+        "CS270",
+        [
+          "C++",
+          "C"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS445",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS456",
+        [
+          "Privacy"
+        ]
+      ]
+    ],
+    "gt label":0.1698113208
+  },
+  {
+    "job title":"Microsoft_Software_Engineering_Security",
+    "covered skills":[
+      "C",
+      "C++",
+      "Communication",
+      "Debugging",
+      "Java",
+      "Python",
+      "Quality Assurance",
+      "Security",
+      "Testing"
+    ],
+    "missing skills":[
+      "Analytical skills",
+      "Automation",
+      "Business operations",
+      "C#",
+      "Code building",
+      "Collaboration",
+      "Compliance",
+      "Continuous improvement (CI)",
+      "Customer needs",
+      "Data analysis",
+      "Deployment practices",
+      "Design Documentation",
+      "Development",
+      "Efficiency",
+      "Estimations",
+      "Feedback",
+      "Feedback Integration",
+      "Identifying Dependencies",
+      "JavaScript",
+      "Logs",
+      "Performance",
+      "Problem Solving Skills",
+      "Product Security",
+      "Programming",
+      "Regulations",
+      "Reliability",
+      "Safety",
+      "Secure coding standards",
+      "Security Policies",
+      "Security tools",
+      "Software Development",
+      "Software Engineering",
+      "System behavior insights",
+      "Telemetry",
+      "Test Automation",
+      "Time management",
+      "Tooling"
+    ],
+    "intersecting course skills":[
+      [
+        "CS110",
+        [
+          "Security"
+        ]
+      ],
+      [
+        "CS150",
+        [
+          "Security",
+          "Python"
+        ]
+      ],
+      [
+        "CS162",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS164",
+        [
+          "Quality Assurance",
+          "Testing",
+          "Debugging",
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Java"
+        ]
+      ],
+      [
         "CS214",
         [
           "Debugging",
           "Java"
+        ]
+      ],
+      [
+        "CS220",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS270",
+        [
+          "C++",
+          "C"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Java",
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
         ]
       ],
       [
@@ -4672,67 +4821,53 @@
     "gt label":0.1956521739
   },
   {
-    "job title":"Microsoft_Software_Engineer_AI_ML",
+    "job title":"Netflix_Software_Engineer_Intern",
     "covered skills":[
-      "Python",
-      "Debugging",
-      "Privacy",
-      "C",
-      "Testing",
-      "C++",
-      "Security",
+      "Communication",
       "Java",
-      "Quality Assurance"
+      "Python",
+      "Teamwork"
     ],
     "missing skills":[
-      "Design Documentation",
-      "Technical Validation",
-      "Performance Debugging",
-      "C#",
-      "Compliance",
-      "Telemetry",
-      "ML models",
-      "Machine learning",
-      "System behavior insights",
-      "System functionality",
-      "AI\/ML",
-      "Compute technologies",
-      "Feature Deployments",
-      "Responsible AI practices",
-      "Scalability",
-      "Software Engineering",
-      "Programming",
-      "Automation",
-      "User experience (UX)",
-      "Estimations",
-      "Continuous improvement (CI)",
-      "Efficiency",
-      "Accessibility",
-      "Problem Solving Skills",
-      "Safety",
-      "Service Impacts",
+      "Building media apps",
       "Collaboration",
-      "Orchestration patterns",
-      "Artificial Intelligence (AI)",
-      "Coding skills",
-      "Identifying Dependencies",
-      "Performance",
-      "JavaScript",
-      "Deployment practices",
-      "Service level agreement",
-      "Architecture Design",
-      "Feedback Integration",
-      "Reliability",
-      "Customer needs",
-      "Data analysis",
-      "User Impacts",
-      "Monitoring",
-      "Product development",
-      "Code Creation"
+      "Content Engineering",
+      "Continual improvement",
+      "Contribution",
+      "Cross-functional collaboration",
+      "HTML",
+      "Innovation",
+      "Kotlin",
+      "Maintaining software applications",
+      "Media distribution workflows",
+      "Mentorship",
+      "Problem Solving Skills",
+      "Product reviews",
+      "React.js",
+      "Software Development",
+      "Software Engineering",
+      "System Design",
+      "Technical leadership",
+      "Tooling",
+      "TypeScript",
+      "User experience (UX)",
+      "User-centered design"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS150",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS162",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS164",
         [
           "Java"
         ]
@@ -4744,58 +4879,9 @@
         ]
       ],
       [
-        "CS150",
-        [
-          "Python",
-          "Privacy",
-          "Security"
-        ]
-      ],
-      [
-        "CS110",
-        [
-          "Security",
-          "Privacy"
-        ]
-      ],
-      [
-        "CS162",
+        "CS214",
         [
           "Java"
-        ]
-      ],
-      [
-        "CS270",
-        [
-          "C",
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS456",
-        [
-          "Privacy"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Debugging",
-          "Testing",
-          "Java",
-          "Quality Assurance"
         ]
       ],
       [
@@ -4804,56 +4890,6 @@
           "Python"
         ]
       ],
-      [
-        "CS214",
-        [
-          "Debugging",
-          "Java"
-        ]
-      ],
-      [
-        "CS445",
-        [
-          "Python"
-        ]
-      ]
-    ],
-    "gt label":0.1698113208
-  },
-  {
-    "job title":"Netflix_Software_Engineer_Intern",
-    "covered skills":[
-      "Python",
-      "Teamwork",
-      "Java",
-      "Communication"
-    ],
-    "missing skills":[
-      "Continual improvement",
-      "Innovation",
-      "Cross-functional collaboration",
-      "User-centered design",
-      "Media distribution workflows",
-      "System Design",
-      "Mentorship",
-      "Maintaining software applications",
-      "Content Engineering",
-      "TypeScript",
-      "Contribution",
-      "Software Engineering",
-      "HTML",
-      "User experience (UX)",
-      "Building media apps",
-      "Problem Solving Skills",
-      "Software Development",
-      "Tooling",
-      "Collaboration",
-      "Product reviews",
-      "React.js",
-      "Technical leadership",
-      "Kotlin"
-    ],
-    "intersecting course skills":[
       [
         "CS314",
         [
@@ -4863,51 +4899,15 @@
         ]
       ],
       [
-        "CS165",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS150",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS162",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
         "CS320",
         [
           "Python"
         ]
       ],
       [
-        "CS164",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS220",
+        "CS345",
         [
           "Python"
-        ]
-      ],
-      [
-        "CS214",
-        [
-          "Java"
         ]
       ],
       [
@@ -4920,56 +4920,127 @@
     "gt label":0.1481481481
   },
   {
-    "job title":"OpenAI_Software_Engineering_Applied_Engineering",
+    "job title":"OpenAI_Software_Engineer_Real_Time",
     "covered skills":[
-      "Python",
-      "Optimization",
-      "Quality Assurance"
+      "Communication",
+      "Configuration Management",
+      "Fault Tolerance",
+      "Microservices",
+      "Quality Assurance",
+      "Security",
+      "Teamwork"
     ],
     "missing skills":[
-      "Cross-functional collaboration",
-      "Deadlines",
-      "PostgreSQL",
-      "MySQL",
-      "Competing priorities",
-      "Speed",
-      "AI\/ML",
-      "Compute technologies",
-      "Scalability",
-      "Programming",
-      "Customer engagement",
-      "Relational databases",
-      "User experience (UX)",
-      "Efficiency",
-      "Cutting edge technology",
-      "Problem Solving Skills",
+      "Automation",
+      "Availability",
+      "Cloud computing",
+      "Cloud environments",
+      "Cloud infrastructure",
       "Collaboration",
-      "React.js",
-      "JavaScript",
-      "Customer needs",
-      "Product development"
+      "Containerization",
+      "Cross-functional collaboration",
+      "Design",
+      "Development",
+      "Efficiency",
+      "Feedback",
+      "Implementation",
+      "Infrastructure",
+      "Infrastructure as code (IaC)",
+      "Kubernetes",
+      "Monitoring",
+      "Observability Tools",
+      "Performance",
+      "Performance Improvement",
+      "Problem Solving Skills",
+      "Programming",
+      "Reliability",
+      "Resilient design patterns",
+      "Resilient systems",
+      "Scalability",
+      "Scripting",
+      "Service Level Indicators",
+      "Service Level Objectives",
+      "Service mesh technologies",
+      "System Design",
+      "System Optimization",
+      "Tooling",
+      "Troubleshooting"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS110",
         [
-          "Optimization"
+          "Security"
         ]
       ],
       [
         "CS150",
         [
-          "Python"
+          "Security"
         ]
       ],
       [
-        "CS345",
+        "CS164",
         [
-          "Python"
+          "Quality Assurance"
         ]
       ],
       [
-        "CS320",
+        "CS312",
+        [
+          "Microservices"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Configuration Management",
+          "Communication"
+        ]
+      ],
+      [
+        "CS458",
+        [
+          "Fault Tolerance"
+        ]
+      ]
+    ],
+    "gt label":0.1707317073
+  },
+  {
+    "job title":"OpenAI_Software_Engineering_Applied_Engineering",
+    "covered skills":[
+      "Optimization",
+      "Python",
+      "Quality Assurance"
+    ],
+    "missing skills":[
+      "AI\/ML",
+      "Collaboration",
+      "Competing priorities",
+      "Compute technologies",
+      "Cross-functional collaboration",
+      "Customer engagement",
+      "Customer needs",
+      "Cutting edge technology",
+      "Deadlines",
+      "Efficiency",
+      "JavaScript",
+      "MySQL",
+      "PostgreSQL",
+      "Problem Solving Skills",
+      "Product development",
+      "Programming",
+      "React.js",
+      "Relational databases",
+      "Scalability",
+      "Speed",
+      "User experience (UX)"
+    ],
+    "intersecting course skills":[
+      [
+        "CS150",
         [
           "Python"
         ]
@@ -4982,6 +5053,24 @@
       ],
       [
         "CS220",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Optimization"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
         [
           "Python"
         ]
@@ -4996,139 +5085,35 @@
     "gt label":0.125
   },
   {
-    "job title":"OpenAI_Software_Engineer_Real_Time",
-    "covered skills":[
-      "Microservices",
-      "Fault Tolerance",
-      "Configuration Management",
-      "Quality Assurance",
-      "Security",
-      "Teamwork",
-      "Communication"
-    ],
-    "missing skills":[
-      "Cloud environments",
-      "Service Level Objectives",
-      "Cross-functional collaboration",
-      "System Design",
-      "Kubernetes",
-      "Implementation",
-      "Feedback",
-      "Design",
-      "Resilient systems",
-      "Infrastructure as code (IaC)",
-      "Cloud infrastructure",
-      "Scalability",
-      "Programming",
-      "Observability Tools",
-      "Automation",
-      "Monitoring",
-      "Development",
-      "System Optimization",
-      "Efficiency",
-      "Service Level Indicators",
-      "Infrastructure",
-      "Problem Solving Skills",
-      "Tooling",
-      "Collaboration",
-      "Troubleshooting",
-      "Performance",
-      "Scripting",
-      "Availability",
-      "Cloud computing",
-      "Service mesh technologies",
-      "Reliability",
-      "Performance Improvement",
-      "Containerization",
-      "Resilient design patterns"
-    ],
-    "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Teamwork",
-          "Configuration Management",
-          "Communication"
-        ]
-      ],
-      [
-        "CS150",
-        [
-          "Security"
-        ]
-      ],
-      [
-        "CS110",
-        [
-          "Security"
-        ]
-      ],
-      [
-        "CS458",
-        [
-          "Fault Tolerance"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Quality Assurance"
-        ]
-      ],
-      [
-        "CS312",
-        [
-          "Microservices"
-        ]
-      ]
-    ],
-    "gt label":0.1707317073
-  },
-  {
     "job title":"Paypal_Android_Engineer",
     "covered skills":[
-      "Clean Code",
       "Application Development",
+      "Clean Code",
       "Git",
       "Java",
-      "Teamwork",
-      "Quality Assurance"
+      "Quality Assurance",
+      "Teamwork"
     ],
     "missing skills":[
-      "Customer engagement",
-      "Innovation",
       "Agile development",
-      "User experience (UX)",
-      "JSON",
-      "Programming",
-      "Mobile UI\/UX Design",
-      "Experience: mobile UI\/UX design",
-      "Development",
-      "Unit testing",
-      "Kotlin",
       "Code Review",
-      "REST APIs",
+      "Collaboration",
+      "Customer engagement",
+      "Development",
+      "Experience: mobile UI\/UX design",
+      "Innovation",
+      "JSON",
       "Java Frameworks",
+      "Kotlin",
+      "Mobile UI\/UX Design",
+      "Programming",
+      "REST APIs",
       "Software Development",
       "Software Development Lifecycle",
-      "Collaboration"
+      "Unit testing",
+      "User experience (UX)"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Clean Code",
-          "Git",
-          "Teamwork",
-          "Java"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java"
-        ]
-      ],
       [
         "CS162",
         [
@@ -5139,14 +5124,14 @@
         "CS164",
         [
           "Git",
-          "Java",
-          "Quality Assurance"
+          "Quality Assurance",
+          "Java"
         ]
       ],
       [
-        "CS430",
+        "CS165",
         [
-          "Application Development"
+          "Java"
         ]
       ],
       [
@@ -5154,6 +5139,21 @@
         [
           "Git",
           "Java"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Git",
+          "Clean Code",
+          "Java"
+        ]
+      ],
+      [
+        "CS430",
+        [
+          "Application Development"
         ]
       ]
     ],
@@ -5163,43 +5163,29 @@
     "job title":"Paypal_Fresh_Grad_SE",
     "covered skills":[
       "Git",
+      "Java",
       "Software Design",
-      "Teamwork",
-      "Java"
+      "Teamwork"
     ],
     "missing skills":[
       "Agile development",
-      "Rule Management Systems",
-      "Organization",
       "Agile methodology",
-      "JSON",
-      "Enterprise Application Monitoring",
-      "Development",
-      "Spring",
       "Code craftsmanship",
-      "SQL",
-      "NoSQL",
+      "Development",
+      "Enterprise Application Monitoring",
+      "JSON",
       "Maintaining software applications",
+      "NoSQL",
+      "Organization",
       "REST APIs",
+      "Rule Management Systems",
+      "SQL",
       "SVN",
-      "Version control",
-      "Software Development"
+      "Software Development",
+      "Spring",
+      "Version control"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Git",
-          "Teamwork",
-          "Java"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java"
-        ]
-      ],
       [
         "CS162",
         [
@@ -5214,10 +5200,24 @@
         ]
       ],
       [
+        "CS165",
+        [
+          "Java"
+        ]
+      ],
+      [
         "CS214",
         [
-          "Git",
           "Software Design",
+          "Git",
+          "Java"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Git",
           "Java"
         ]
       ]
@@ -5229,68 +5229,53 @@
     "covered skills":[
       "Git",
       "Java",
-      "Optimization",
-      "Maven"
+      "Maven",
+      "Optimization"
     ],
     "missing skills":[
-      "Requirements gathering",
-      "Innovation",
-      "JMS",
-      "Cross-functional collaboration",
-      "Design Discussions",
-      "Mentorship",
-      "Design",
-      "Oracle",
-      "Servlet containers",
-      "ORM tools",
-      "Team collaboration",
-      "Firestore",
-      "Payment Processing Industry Knowledge",
-      "Cloud infrastructure",
-      "Backend development",
-      "REST APIs",
-      "Scalability",
-      "Financial literacy",
-      "Business operations",
-      "Software Engineering",
-      "Database management",
-      "Development",
-      "High-quality systems",
-      "System Optimization",
-      "Continuous integration",
-      "NoSQL",
-      "Code Review",
       "App servers",
-      "Infrastructure",
-      "Regulations",
-      "Design and development methodologies",
-      "Problem Solving Skills",
-      "GCP",
-      "Financial infrastructure",
-      "Collaboration",
+      "Backend development",
       "BigQuery",
-      "Leadership",
-      "SQL",
+      "Business operations",
+      "Cloud infrastructure",
+      "Code Review",
+      "Collaboration",
+      "Continuous integration",
+      "Cross-functional collaboration",
+      "Database management",
+      "Design",
+      "Design Discussions",
+      "Design and development methodologies",
+      "Development",
+      "Experience with Systems",
+      "Financial infrastructure",
+      "Financial literacy",
+      "Firestore",
+      "GCP",
+      "High-quality systems",
+      "Infrastructure",
+      "Innovation",
       "JDBC\/ORM",
+      "JMS",
+      "Leadership",
+      "Mentorship",
+      "NoSQL",
+      "ORM tools",
+      "Oracle",
+      "Payment Processing Industry Knowledge",
+      "Problem Solving Skills",
+      "REST APIs",
+      "Regulations",
       "Reliability",
-      "Experience with Systems"
+      "Requirements gathering",
+      "SQL",
+      "Scalability",
+      "Servlet containers",
+      "Software Engineering",
+      "System Optimization",
+      "Team collaboration"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Git",
-          "Java",
-          "Optimization",
-          "Maven"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java"
-        ]
-      ],
       [
         "CS162",
         [
@@ -5305,9 +5290,24 @@
         ]
       ],
       [
+        "CS165",
+        [
+          "Java"
+        ]
+      ],
+      [
         "CS214",
         [
           "Git",
+          "Java"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Git",
+          "Maven",
+          "Optimization",
           "Java"
         ]
       ]
@@ -5322,35 +5322,47 @@
       "Quality Assurance"
     ],
     "missing skills":[
-      "Innovation",
-      "System Design",
-      "Oracle",
-      "Web Services",
-      "MySQL",
-      "Hibernate",
-      "J2EE",
-      "Web development",
       "Backend development",
-      "REST APIs",
-      "Financial literacy",
-      "Programming",
-      "Customer engagement",
-      "Object-oriented design",
-      "Unit testing",
-      "Efficiency",
-      "Software Development",
-      "Platform expansion",
       "Collaboration",
+      "Customer engagement",
+      "Efficiency",
+      "Financial literacy",
+      "Hibernate",
+      "Innovation",
+      "J2EE",
+      "MySQL",
       "New product development",
+      "Object-oriented design",
+      "Oracle",
+      "Platform expansion",
+      "Programming",
+      "REST APIs",
+      "Software Development",
       "Spring",
+      "Spring Boot",
+      "System Design",
+      "Unit testing",
       "User acquisition",
-      "Spring Boot"
+      "Web Services",
+      "Web development"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS110 - Modules",
         [
-          "Databases",
+          "Databases"
+        ]
+      ],
+      [
+        "CS162",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS164",
+        [
+          "Quality Assurance",
           "Java"
         ]
       ],
@@ -5361,7 +5373,7 @@
         ]
       ],
       [
-        "CS162",
+        "CS214",
         [
           "Java"
         ]
@@ -5373,28 +5385,16 @@
         ]
       ],
       [
-        "CS110 - Modules",
-        [
-          "Databases"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Java",
-          "Quality Assurance"
-        ]
-      ],
-      [
-        "CS214",
-        [
-          "Java"
-        ]
-      ],
-      [
         "CS312",
         [
           "Databases"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Databases",
+          "Java"
         ]
       ]
     ],
@@ -5403,40 +5403,66 @@
   {
     "job title":"Paypal_Software_Engineer",
     "covered skills":[
-      "Unix",
       "Hadoop",
-      "Testing",
       "Java",
-      "Quality Assurance"
+      "Quality Assurance",
+      "Testing",
+      "Unix"
     ],
     "missing skills":[
-      "Innovation",
-      "System Design",
-      "Compliance",
-      "Performance Analytics",
-      "Platform Governance",
-      "Statistical Analysis",
-      "Machine learning",
-      "System Layers",
-      "Scalability",
-      "Performance optimization",
-      "Risk management",
-      "Governance",
-      "Efficiency",
-      "Remediation",
-      "Database Access",
-      "Problem Solving Skills",
       "Code quality",
+      "Collaboration",
+      "Compliance",
+      "Database Access",
+      "Efficiency",
+      "Google BigQuery",
+      "Governance",
+      "Innovation",
+      "Machine learning",
+      "Modernization",
+      "Performance Analytics",
+      "Performance optimization",
+      "Platform Governance",
+      "Problem Solving Skills",
+      "Remediation",
+      "Risk management",
+      "SQL",
+      "Scalability",
       "Service Monitoring",
       "Software Development",
-      "Collaboration",
-      "Modernization",
-      "Troubleshooting",
-      "Google BigQuery",
-      "SQL",
-      "Spring Boot"
+      "Spring Boot",
+      "Statistical Analysis",
+      "System Design",
+      "System Layers",
+      "Troubleshooting"
     ],
     "intersecting course skills":[
+      [
+        "CS162",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS164",
+        [
+          "Quality Assurance",
+          "Testing",
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS214",
+        [
+          "Java"
+        ]
+      ],
       [
         "CS314",
         [
@@ -5445,35 +5471,9 @@
         ]
       ],
       [
-        "CS165",
-        [
-          "Java"
-        ]
-      ],
-      [
         "CS455",
         [
           "Hadoop"
-        ]
-      ],
-      [
-        "CS162",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Testing",
-          "Java",
-          "Quality Assurance"
-        ]
-      ],
-      [
-        "CS214",
-        [
-          "Java"
         ]
       ]
     ],
@@ -5482,79 +5482,70 @@
   {
     "job title":"Sony_Blockchain_Developer",
     "covered skills":[
-      "Python",
-      "Cryptocurrency",
+      "Algorithms",
       "Blockchain",
       "C",
-      "Java",
-      "Quality Assurance",
-      "Testing",
-      "Solidity",
-      "Hyperledger",
-      "Algorithms",
-      "Cryptography",
       "C++",
+      "Communication",
+      "Cryptocurrency",
+      "Cryptography",
+      "Hyperledger",
+      "Java",
+      "Python",
+      "Quality Assurance",
       "Research",
+      "Solidity",
       "Teamwork",
-      "Communication"
+      "Testing"
     ],
     "missing skills":[
-      "Innovation",
-      "Software architecture",
-      "Knowledge sharing",
+      "Asymmetric key",
+      "Blockchain\/Crypto",
+      "Crypto Techniques",
+      "Crypto algorithms",
+      "Crypto currencies",
+      "Cutting edge technology",
+      "Design",
+      "Development",
+      "Distributed consensus methodologies",
+      "Encryption",
+      "Erlang",
       "Ethereum",
+      "Golang",
+      "Hash functions",
+      "Haskell",
+      "Innovation",
+      "Knowledge sharing",
+      "Open source tools",
+      "Presentation skills",
       "Privacy-Preserving Features",
+      "Programming",
       "Quality orientation",
       "Rust",
-      "Golang",
-      "Encryption",
-      "Open source tools",
-      "Design",
-      "Crypto algorithms",
-      "Signatures",
       "Scala",
-      "Programming",
-      "Blockchain\/Crypto",
-      "Symmetric key",
-      "Development",
-      "Hash functions",
-      "Distributed consensus methodologies",
-      "Erlang",
-      "Haskell",
+      "Signatures",
+      "Software architecture",
       "Summarization Skills",
-      "Asymmetric key",
-      "Crypto Techniques",
-      "Crypto currencies",
-      "Presentation skills",
-      "Cutting edge technology"
+      "Symmetric key"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS110",
         [
-          "Teamwork",
-          "Java",
-          "Communication"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java",
-          "Algorithms"
+          "Research"
         ]
       ],
       [
         "CS150",
         [
-          "Python",
-          "Research"
+          "Research",
+          "Python"
         ]
       ],
       [
-        "CS110",
+        "CS152",
         [
-          "Research"
+          "Algorithms"
         ]
       ],
       [
@@ -5564,52 +5555,25 @@
         ]
       ],
       [
-        "CS270",
-        [
-          "C",
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS458",
-        [
-          "Cryptocurrency",
-          "Blockchain",
-          "Solidity",
-          "Hyperledger"
-        ]
-      ],
-      [
-        "CS457",
-        [
-          "Cryptography"
-        ]
-      ],
-      [
         "CS164",
         [
+          "Quality Assurance",
           "Testing",
-          "Java",
           "Algorithms",
-          "Quality Assurance"
+          "Java"
         ]
       ],
       [
-        "CS152",
+        "CS165",
         [
-          "Algorithms"
+          "Algorithms",
+          "Java"
+        ]
+      ],
+      [
+        "CS214",
+        [
+          "Java"
         ]
       ],
       [
@@ -5619,15 +5583,51 @@
         ]
       ],
       [
-        "CS214",
+        "CS270",
         [
-          "Java"
+          "C++",
+          "C"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Java",
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
         ]
       ],
       [
         "CS445",
         [
           "Python"
+        ]
+      ],
+      [
+        "CS457",
+        [
+          "Cryptography"
+        ]
+      ],
+      [
+        "CS458",
+        [
+          "Solidity",
+          "Blockchain",
+          "Hyperledger",
+          "Cryptocurrency"
         ]
       ]
     ],
@@ -5636,44 +5636,30 @@
   {
     "job title":"Sony_Software_Design_Engineer",
     "covered skills":[
-      "Application Development",
-      "Project Management",
-      "C++",
       "Algorithms",
-      "Teamwork",
-      "Communication"
+      "Application Development",
+      "C++",
+      "Communication",
+      "Project Management",
+      "Teamwork"
     ],
     "missing skills":[
-      "Innovation",
-      "Time management",
-      "Leadership",
-      "Image Processing",
-      "Computer Vision",
       "Algorithm Research",
-      "Deep learning",
+      "Computer Vision",
+      "Computer Vision Algorithms",
       "Creative Solutions",
+      "Deep learning",
+      "Image Processing",
+      "Innovation",
+      "Leadership",
       "Software Development",
-      "Computer Vision Algorithms"
+      "Time management"
     ],
     "intersecting course skills":[
       [
-        "CS314",
-        [
-          "Project Management",
-          "Teamwork",
-          "Communication"
-        ]
-      ],
-      [
-        "CS165",
+        "CS152",
         [
           "Algorithms"
-        ]
-      ],
-      [
-        "CS270",
-        [
-          "C++"
         ]
       ],
       [
@@ -5683,21 +5669,35 @@
         ]
       ],
       [
-        "CS152",
+        "CS165",
         [
           "Algorithms"
-        ]
-      ],
-      [
-        "CS430",
-        [
-          "Application Development"
         ]
       ],
       [
         "CS214",
         [
           "Project Management"
+        ]
+      ],
+      [
+        "CS270",
+        [
+          "C++"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Project Management",
+          "Communication"
+        ]
+      ],
+      [
+        "CS430",
+        [
+          "Application Development"
         ]
       ]
     ],
@@ -5706,53 +5706,89 @@
   {
     "job title":"Spotify_Backend_Engineer_Audiobooks",
     "covered skills":[
-      "Python",
       "Clean Code",
+      "Communication",
       "Docker",
       "Java",
-      "Communication"
+      "Python"
     ],
     "missing skills":[
-      "Innovation",
-      "Software architecture",
-      "System Design",
-      "Implementation",
-      "Mentorship",
-      "Maintaining software applications",
-      "Identifying bottlenecks",
       "Backend Standard Methodologies",
-      "Containerization",
-      "Scalable architectures",
-      "Query optimization",
-      "TypeScript",
       "Backend development",
       "Cloud platforms",
-      "Scalability",
-      "Database management",
-      "non-relational databases",
-      "Relational databases",
-      "User experience (UX)",
-      "Content Processing",
-      "High-quality systems",
-      "Efficiency",
-      "System uptime management",
-      "Problem Solving Skills",
-      "GCP",
-      "Tooling",
       "Collaboration",
-      "end-to-end design",
-      "React.js",
-      "Technical leadership",
-      "Leadership",
-      "Next.js",
-      "JavaScript",
-      "Performance at scale",
+      "Containerization",
+      "Content Processing",
+      "Database management",
+      "Distributed systems",
+      "Efficiency",
+      "GCP",
+      "High-quality systems",
+      "Identifying bottlenecks",
+      "Implementation",
       "Improvement",
-      "schema design",
+      "Innovation",
+      "JavaScript",
+      "Leadership",
+      "Maintaining software applications",
+      "Mentorship",
+      "Next.js",
+      "Performance at scale",
+      "Problem Solving Skills",
       "Product development",
-      "Distributed systems"
+      "Query optimization",
+      "React.js",
+      "Relational databases",
+      "Scalability",
+      "Scalable architectures",
+      "Software architecture",
+      "System Design",
+      "System uptime management",
+      "Technical leadership",
+      "Tooling",
+      "TypeScript",
+      "User experience (UX)",
+      "end-to-end design",
+      "non-relational databases",
+      "schema design"
     ],
     "intersecting course skills":[
+      [
+        "CS150",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS162",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS164",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS214",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS220",
+        [
+          "Python"
+        ]
+      ],
       [
         "CS314",
         [
@@ -5763,51 +5799,15 @@
         ]
       ],
       [
-        "CS165",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS150",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS162",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
         "CS320",
         [
           "Python"
         ]
       ],
       [
-        "CS164",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS220",
+        "CS345",
         [
           "Python"
-        ]
-      ],
-      [
-        "CS214",
-        [
-          "Java"
         ]
       ],
       [
@@ -5822,45 +5822,37 @@
   {
     "job title":"Spotify_Backend_Engineer_Data_Platform",
     "covered skills":[
-      "Teamwork",
+      "Algorithms",
       "Java",
-      "Algorithms"
+      "Teamwork"
     ],
     "missing skills":[
-      "Pipelines",
+      "Accommodations",
+      "Autonomy",
+      "Backend services",
+      "Collaboration",
+      "Customer needs",
+      "Data Engineering",
+      "Data Quality",
+      "Data structures",
       "Innovation",
       "Iteration",
-      "System Design",
-      "Team collaboration",
-      "data pipelines",
-      "User workflows",
       "Observability",
+      "Pipelines",
+      "Problem Solving Skills",
+      "Reliability",
       "Scala",
       "Scalability",
-      "Autonomy",
-      "Data structures",
-      "Data Quality",
-      "Accommodations",
-      "Backend services",
-      "Problem Solving Skills",
+      "System Design",
+      "Team collaboration",
       "Tooling",
-      "Collaboration",
-      "Data Engineering",
-      "Reliability",
-      "Customer needs"
+      "User workflows",
+      "data pipelines"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS152",
         [
-          "Teamwork",
-          "Java"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java",
           "Algorithms"
         ]
       ],
@@ -5873,19 +5865,27 @@
       [
         "CS164",
         [
-          "Java",
-          "Algorithms"
+          "Algorithms",
+          "Java"
         ]
       ],
       [
-        "CS152",
+        "CS165",
         [
-          "Algorithms"
+          "Algorithms",
+          "Java"
         ]
       ],
       [
         "CS214",
         [
+          "Java"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
           "Java"
         ]
       ]
@@ -5895,45 +5895,39 @@
   {
     "job title":"Spotify_Data_Scientist_Audiobooks",
     "covered skills":[
-      "Python",
-      "Communication"
+      "Communication",
+      "Python"
     ],
     "missing skills":[
-      "Data visualization",
-      "Innovation",
-      "Implementation",
-      "Statistics",
-      "Design",
-      "Excellent Communication Skills",
-      "Visual Dashboards",
-      "Statistical Knowledge",
-      "Machine learning",
-      "Forecasting",
-      "Compute technologies",
-      "Modeling",
-      "Feature engineering",
-      "Measurement techniques",
-      "Data exploration",
-      "Development",
       "A\/B testing",
-      "Tableau",
-      "Collaboration",
-      "SQL",
-      "Real-time Monitoring",
       "Analytical skills",
+      "Collaboration",
+      "Compute technologies",
       "Data analysis",
+      "Data exploration",
+      "Data visualization",
+      "Design",
+      "Development",
+      "Excellent Communication Skills",
+      "Feature engineering",
+      "Forecasting",
+      "Implementation",
+      "Innovation",
       "Key Performance Metrics",
-      "Quantitative analysis",
+      "Machine learning",
+      "Measurement techniques",
+      "Modeling",
       "Product development",
-      "Strategic planning"
+      "Quantitative analysis",
+      "Real-time Monitoring",
+      "SQL",
+      "Statistical Knowledge",
+      "Statistics",
+      "Strategic planning",
+      "Tableau",
+      "Visual Dashboards"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Communication"
-        ]
-      ],
       [
         "CS150",
         [
@@ -5941,9 +5935,15 @@
         ]
       ],
       [
-        "CS345",
+        "CS220",
         [
           "Python"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Communication"
         ]
       ],
       [
@@ -5953,7 +5953,7 @@
         ]
       ],
       [
-        "CS220",
+        "CS345",
         [
           "Python"
         ]
@@ -5970,64 +5970,53 @@
   {
     "job title":"Spotify_Junior_Backend_Engineer",
     "covered skills":[
-      "Python",
-      "Reasoning",
-      "Databases",
-      "Clean Code",
-      "Java",
       "Algorithms",
+      "Clean Code",
+      "Databases",
+      "Java",
+      "Linux",
+      "Python",
       "Quality Assurance",
-      "Teamwork",
-      "Linux"
+      "Reasoning",
+      "Teamwork"
     ],
     "missing skills":[
+      "Automated tests",
+      "Availability",
+      "Backend development",
+      "Backend services",
+      "Collaboration",
+      "Continuous Delivery (CD)",
+      "Continuous development",
+      "Data Engineering",
+      "Data structures",
+      "Defensive programming",
+      "Deployment Pipelines",
+      "Design",
       "Google Cloud Bigtable",
+      "Google Cloud SQL",
+      "Implementation",
+      "Infrastructure Building",
       "Innovation",
       "Knowledge sharing",
       "Low latency",
-      "Implementation",
-      "Continuous Delivery (CD)",
-      "Design",
-      "Deployment Pipelines",
-      "Quality focus",
       "Maintaining Systems",
-      "Continuous development",
-      "Backend development",
-      "Infrastructure Building",
+      "Modernization",
+      "NoSQL",
+      "Operational Responsibility",
+      "Programming",
+      "Quality focus",
+      "Reliability",
+      "SQL",
       "Scala",
       "Scalability",
-      "Programming",
-      "Google Cloud SQL",
-      "Data structures",
-      "Operational Responsibility",
-      "NoSQL",
-      "Automated tests",
-      "Backend services",
-      "Service Monitoring",
-      "Modernization",
-      "Collaboration",
-      "Defensive programming",
-      "Data Engineering",
-      "SQL",
-      "Availability",
-      "Reliability"
+      "Service Monitoring"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS110 - Modules",
         [
-          "Clean Code",
-          "Databases",
-          "Java",
-          "Teamwork",
-          "Linux"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java",
-          "Algorithms"
+          "Databases"
         ]
       ],
       [
@@ -6037,13 +6026,41 @@
         ]
       ],
       [
+        "CS152",
+        [
+          "Algorithms"
+        ]
+      ],
+      [
         "CS162",
         [
           "Java"
         ]
       ],
       [
-        "CS345",
+        "CS164",
+        [
+          "Quality Assurance",
+          "Linux",
+          "Algorithms",
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Algorithms",
+          "Java"
+        ]
+      ],
+      [
+        "CS214",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS220",
         [
           "Python"
         ]
@@ -6055,7 +6072,29 @@
         ]
       ],
       [
+        "CS312",
+        [
+          "Databases"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Clean Code",
+          "Databases",
+          "Linux",
+          "Java"
+        ]
+      ],
+      [
         "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
         [
           "Python"
         ]
@@ -6064,45 +6103,6 @@
         "CS440",
         [
           "Reasoning"
-        ]
-      ],
-      [
-        "CS110 - Modules",
-        [
-          "Databases"
-        ]
-      ],
-      [
-        "CS164",
-        [
-          "Java",
-          "Quality Assurance",
-          "Algorithms",
-          "Linux"
-        ]
-      ],
-      [
-        "CS152",
-        [
-          "Algorithms"
-        ]
-      ],
-      [
-        "CS220",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS214",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS312",
-        [
-          "Databases"
         ]
       ],
       [
@@ -6117,49 +6117,67 @@
   {
     "job title":"Tesla_Security_Engineer",
     "covered skills":[
-      "Python",
       "C",
-      "Java",
       "C++",
+      "Java",
+      "Python",
       "Security",
       "Teamwork"
     ],
     "missing skills":[
-      "Innovation",
-      "Security reviews",
-      "Penetration testing",
-      "Cybersecurity",
-      "Secure architecture design",
       "Auditing code",
-      "Rust",
-      "Golang",
-      "Threat modeling",
-      "Excellent Communication Skills",
-      "Risk analysis",
-      "Security solution design",
-      "Vulnerability",
-      "Modeling",
-      "Source code auditing",
-      "Timely resolution",
-      "Programming",
       "Automation",
-      "NoSQL",
-      "Remediation",
-      "Fuzzing",
       "Collaboration",
-      "Software testing",
-      "Sanitizers",
-      "SQL",
-      "Reliability",
-      "Vulnerability tracking",
+      "Cybersecurity",
       "Develop automated systems",
-      "Supply-chain validation"
+      "Excellent Communication Skills",
+      "Fuzzing",
+      "Golang",
+      "Innovation",
+      "Modeling",
+      "NoSQL",
+      "Penetration testing",
+      "Programming",
+      "Reliability",
+      "Remediation",
+      "Risk analysis",
+      "Rust",
+      "SQL",
+      "Sanitizers",
+      "Secure architecture design",
+      "Security reviews",
+      "Security solution design",
+      "Software testing",
+      "Source code auditing",
+      "Supply-chain validation",
+      "Threat modeling",
+      "Timely resolution",
+      "Vulnerability",
+      "Vulnerability tracking"
     ],
     "intersecting course skills":[
       [
-        "CS314",
+        "CS110",
         [
-          "Teamwork",
+          "Security"
+        ]
+      ],
+      [
+        "CS150",
+        [
+          "Security",
+          "Python"
+        ]
+      ],
+      [
+        "CS162",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS164",
+        [
           "Java"
         ]
       ],
@@ -6170,45 +6188,7 @@
         ]
       ],
       [
-        "CS150",
-        [
-          "Python",
-          "Security"
-        ]
-      ],
-      [
-        "CS110",
-        [
-          "Security"
-        ]
-      ],
-      [
-        "CS162",
-        [
-          "Java"
-        ]
-      ],
-      [
-        "CS270",
-        [
-          "C",
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS164",
+        "CS214",
         [
           "Java"
         ]
@@ -6220,9 +6200,29 @@
         ]
       ],
       [
-        "CS214",
+        "CS270",
         [
+          "C++",
+          "C"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
           "Java"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
         ]
       ],
       [
@@ -6237,61 +6237,48 @@
   {
     "job title":"Tesla_Software_Compliance_Engineer",
     "covered skills":[
-      "Python",
       "C",
-      "Testing",
       "C++",
+      "Communication",
       "Debugging",
       "Java",
-      "Communication"
+      "Python",
+      "Testing"
     ],
     "missing skills":[
-      "Innovation",
-      "Software architecture",
-      "SIL\/HIL\/Integration testing",
-      "System Design",
-      "Rust",
-      "Golang",
-      "Power system knowledge",
       "C#",
-      "Prioritization",
+      "Collaboration",
+      "Compute technologies",
+      "Data analysis",
+      "Development",
       "Embedded environments\/protocols",
-      "Web development",
+      "Firmware Development",
+      "Golang",
+      "Innovation",
+      "Interpersonal Skills",
+      "Matlab",
+      "Measurement techniques",
+      "Modeling",
+      "Modeling and simulation",
+      "NoSQL",
+      "Power quality knowledge",
+      "Power system knowledge",
+      "Prioritization",
+      "Programming",
+      "Rust",
+      "SIL\/HIL\/Integration testing",
+      "SQL",
+      "Simulation",
+      "Simulink",
+      "Software architecture",
+      "Stakeholder Management",
+      "Standards Implementation",
+      "System Design",
       "Test Engineering",
       "Validation",
-      "Matlab",
-      "Firmware Development",
-      "Simulation",
-      "Power quality knowledge",
-      "Modeling",
-      "Compute technologies",
-      "Programming",
-      "Standards Implementation",
-      "Measurement techniques",
-      "Development",
-      "NoSQL",
-      "Simulink",
-      "Collaboration",
-      "Interpersonal Skills",
-      "Modeling and simulation",
-      "Stakeholder Management",
-      "SQL",
-      "Data analysis"
+      "Web development"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Java",
-          "Communication"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java"
-        ]
-      ],
       [
         "CS150",
         [
@@ -6305,29 +6292,23 @@
         ]
       ],
       [
-        "CS270",
-        [
-          "C",
-          "C++"
-        ]
-      ],
-      [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
         "CS164",
         [
-          "Debugging",
           "Testing",
+          "Debugging",
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS214",
+        [
+          "Debugging",
           "Java"
         ]
       ],
@@ -6338,10 +6319,29 @@
         ]
       ],
       [
-        "CS214",
+        "CS270",
         [
-          "Debugging",
-          "Java"
+          "C++",
+          "C"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Java",
+          "Communication"
+        ]
+      ],
+      [
+        "CS320",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
         ]
       ],
       [
@@ -6357,60 +6357,42 @@
     "job title":"Tesla_Software_Engineer_Firmware",
     "covered skills":[
       "C",
-      "Software Design",
-      "Static Analysis",
+      "Communication",
       "Debugging",
-      "Communication"
+      "Software Design",
+      "Static Analysis"
     ],
     "missing skills":[
-      "Innovation",
-      "System debugging",
-      "Knowledge sharing",
-      "Embedded Development",
-      "Implementation",
-      "Embedded Software Development",
+      "Algorithm Development",
+      "Analytical skills",
+      "Assembly Language",
+      "Automated tests",
+      "Code optimization",
+      "Collaboration",
       "Design",
+      "Embedded Development",
+      "Embedded Software Development",
       "Embedded microprocessor",
       "Embedded systems",
-      "Test-driven Development",
-      "Assembly Language",
-      "Programming",
-      "Real-time embedded environment",
-      "Automated tests",
-      "Software Systems",
       "Fuzzing",
-      "Problem Solving Skills",
-      "Software Development Tools",
-      "Software Development",
-      "Collaboration",
-      "Performance and optimization trade-offs",
-      "Analytical skills",
       "Hardware design",
+      "Implementation",
+      "Innovation",
+      "Knowledge sharing",
+      "Performance and optimization trade-offs",
+      "Problem Solving Skills",
+      "Programming",
+      "Real-time Controls",
+      "Real-time embedded environment",
+      "Software Development",
+      "Software Development Tools",
+      "Software Systems",
+      "System debugging",
+      "Test-driven Development",
       "Testing\/Verification Tools",
-      "robotics",
-      "Code optimization",
-      "Algorithm Development",
-      "Real-time Controls"
+      "robotics"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Communication"
-        ]
-      ],
-      [
-        "CS270",
-        [
-          "C"
-        ]
-      ],
-      [
-        "CS415",
-        [
-          "Static Analysis"
-        ]
-      ],
       [
         "CS164",
         [
@@ -6420,8 +6402,26 @@
       [
         "CS214",
         [
-          "Debugging",
-          "Software Design"
+          "Software Design",
+          "Debugging"
+        ]
+      ],
+      [
+        "CS270",
+        [
+          "C"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Communication"
+        ]
+      ],
+      [
+        "CS415",
+        [
+          "Static Analysis"
         ]
       ]
     ],
@@ -6430,29 +6430,35 @@
   {
     "job title":"Tesla_Software_Engineer_Recruiting",
     "covered skills":[
-      "Web Applications",
+      "Design Patterns",
       "Optimization",
-      "Design Patterns"
+      "Web Applications"
     ],
     "missing skills":[
-      "Web development",
-      "Performance",
+      "Code quality",
+      "Collaboration",
+      "Compute technologies",
+      "Creative Solutions",
+      "Design",
+      "Enhancing existing functionality",
+      "Golang",
+      "JavaScript",
       "Leadership",
+      "Maintaining software applications",
+      "Performance",
+      "Problem Solving Skills",
       "SQL",
       "TypeScript",
-      "JavaScript",
       "Vue",
-      "Maintaining software applications",
-      "Creative Solutions",
-      "Golang",
-      "Design",
-      "Compute technologies",
-      "Enhancing existing functionality",
-      "Problem Solving Skills",
-      "Code quality",
-      "Collaboration"
+      "Web development"
     ],
     "intersecting course skills":[
+      [
+        "CS312",
+        [
+          "Web Applications"
+        ]
+      ],
       [
         "CS314",
         [
@@ -6464,12 +6470,6 @@
         [
           "Design Patterns"
         ]
-      ],
-      [
-        "CS312",
-        [
-          "Web Applications"
-        ]
       ]
     ],
     "gt label":0.1578947368
@@ -6477,61 +6477,48 @@
   {
     "job title":"Yahoo_Frontend_Software_Dev_Engineer",
     "covered skills":[
-      "Python",
       "Java",
-      "Web Applications",
+      "Python",
       "Regression Testing",
-      "Teamwork"
+      "Teamwork",
+      "Web Applications"
     ],
     "missing skills":[
+      "Ad hoc analyses",
+      "Analytical skills",
+      "Business operations",
+      "CSS",
+      "Code Review",
+      "Collaboration",
+      "Continuous integration",
+      "Cross-functional collaboration",
+      "Data analysis",
+      "Data processing",
+      "Design",
+      "Development",
+      "Efficiency",
+      "HTML",
       "Innovation",
       "Knowledge sharing",
       "Large-scale systems",
-      "Cross-functional collaboration",
-      "Product Management",
-      "Design",
-      "Support Applications",
-      "Web Services",
-      "Quality focus",
-      "Team collaboration",
-      "Web development",
-      "Yaml",
-      "TypeScript",
-      "REST APIs",
-      "Business operations",
-      "HTML",
-      "Development",
-      "Unit testing",
-      "Efficiency",
-      "Continuous integration",
-      "CSS",
-      "Code Review",
-      "Software Systems",
-      "Data processing",
-      "Problem Solving Skills",
-      "Collaboration",
+      "Node.js",
       "PHP",
+      "Problem Solving Skills",
+      "Product Management",
+      "Quality focus",
+      "REST APIs",
       "React.js",
-      "Ad hoc analyses",
-      "Analytical skills",
-      "Data analysis",
+      "Software Systems",
+      "Support Applications",
       "System Development",
-      "Node.js"
+      "Team collaboration",
+      "TypeScript",
+      "Unit testing",
+      "Web Services",
+      "Web development",
+      "Yaml"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Teamwork",
-          "Java"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java"
-        ]
-      ],
       [
         "CS150",
         [
@@ -6545,25 +6532,19 @@
         ]
       ],
       [
-        "CS345",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS320",
-        [
-          "Python"
-        ]
-      ],
-      [
-        "CS415",
-        [
-          "Regression Testing"
-        ]
-      ],
-      [
         "CS164",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS165",
+        [
+          "Java"
+        ]
+      ],
+      [
+        "CS214",
         [
           "Java"
         ]
@@ -6575,15 +6556,34 @@
         ]
       ],
       [
-        "CS214",
+        "CS312",
         [
+          "Web Applications"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
           "Java"
         ]
       ],
       [
-        "CS312",
+        "CS320",
         [
-          "Web Applications"
+          "Python"
+        ]
+      ],
+      [
+        "CS345",
+        [
+          "Python"
+        ]
+      ],
+      [
+        "CS415",
+        [
+          "Regression Testing"
         ]
       ],
       [
@@ -6599,73 +6599,51 @@
     "job title":"Yahoo_Software_Dev_Engineer",
     "covered skills":[
       "Clean Code",
-      "Microservices",
+      "Communication",
       "Java",
-      "Teamwork",
+      "Microservices",
       "Refactoring",
-      "Communication"
+      "Teamwork"
     ],
     "missing skills":[
-      "Innovation",
-      "Large-scale systems",
-      "Kubernetes",
-      "Product Decisions",
-      "RabbitMQ",
-      "Apache Druid",
-      "MongoDB",
-      "System architecture",
-      "Public clouds",
-      "Reporting",
-      "Scala",
-      "Database management",
-      "Performance optimization",
-      "Production code",
-      "Development",
-      "Unit testing",
-      "Efficiency",
-      "NoSQL",
-      "Code Review",
-      "Elasticsearch",
-      "Problem Solving Skills",
-      "Software Development",
-      "Collaboration",
-      "Interpersonal Skills",
-      "Coding skills",
-      "React.js",
-      "Technical leadership",
-      "JavaScript",
-      "SQL",
-      "Cloud computing",
       "Analytical skills",
-      "Spring Boot"
+      "Apache Druid",
+      "Cloud computing",
+      "Code Review",
+      "Coding skills",
+      "Collaboration",
+      "Database management",
+      "Development",
+      "Efficiency",
+      "Elasticsearch",
+      "Innovation",
+      "Interpersonal Skills",
+      "JavaScript",
+      "Kubernetes",
+      "Large-scale systems",
+      "MongoDB",
+      "NoSQL",
+      "Performance optimization",
+      "Problem Solving Skills",
+      "Product Decisions",
+      "Production code",
+      "Public clouds",
+      "RabbitMQ",
+      "React.js",
+      "Reporting",
+      "SQL",
+      "Scala",
+      "Software Development",
+      "Spring Boot",
+      "System architecture",
+      "Technical leadership",
+      "Unit testing"
     ],
     "intersecting course skills":[
-      [
-        "CS314",
-        [
-          "Clean Code",
-          "Java",
-          "Teamwork",
-          "Refactoring",
-          "Communication"
-        ]
-      ],
-      [
-        "CS165",
-        [
-          "Java"
-        ]
-      ],
       [
         "CS162",
         [
           "Java"
-        ]
-      ],
-      [
-        "CS414",
-        [
-          "Refactoring"
         ]
       ],
       [
@@ -6675,16 +6653,38 @@
         ]
       ],
       [
+        "CS165",
+        [
+          "Java"
+        ]
+      ],
+      [
         "CS214",
         [
-          "Java",
-          "Refactoring"
+          "Refactoring",
+          "Java"
         ]
       ],
       [
         "CS312",
         [
           "Microservices"
+        ]
+      ],
+      [
+        "CS314",
+        [
+          "Teamwork",
+          "Clean Code",
+          "Refactoring",
+          "Communication",
+          "Java"
+        ]
+      ],
+      [
+        "CS414",
+        [
+          "Refactoring"
         ]
       ]
     ],
