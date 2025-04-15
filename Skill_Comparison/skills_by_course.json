@@ -1,4 +1,18 @@
 {
+    "Apple_Software_Engineer_WatchOS": {
+        "required_skills": {
+            "Collaboration": "None",
+            "Innovation": "None",
+            "Creative Solutions": "None",
+            "SwiftUI": "None",
+            "Experience Optimization": "None",
+            "Inter-process Communication": "None",
+            "Knowledge Sharing": "None",
+            "Profiling Application": "None",
+            "System Design": "None",
+            "User Experince (UX)": "None"
+        }
+    },
     "Adobe_AI_ML_Engineer": {
         "required_skills": {
             "Analytical skills": "None",
@@ -773,9 +787,6 @@
             "CircleCI": "None",
             "NoSQL": "None"
         }
-    },
-    "Apple_Software_Engineer_WatchOS": {
-        "status": "None of the required skills are taught in any course"
     },
     "Apple_SWE_Internal_Tools": {
         "required_skills": {
@@ -3107,20 +3118,20 @@
     },
     "Yahoo_Software_Dev_Engineer": {
         "required_skills": {
-            "Analytical skills": "None",
-            "Public clouds": "None",
+            "Analytical skills": ["CS165"],
+            "Public clouds": ["CS455"],
             "Reporting": "None",
             "Kubernetes": "None",
-            "Collaboration": "None",
-            "Interpersonal Skills": "None",
-            "React.js": "None",
-            "JavaScript": "None",
-            "Performance optimization": "None",
-            "Cloud computing": "None",
-            "Code Review": "None",
+            "Collaboration": ["CS314"],
+            "Interpersonal Skills": ["CS164"],
+            "React.js": ["CS314"],
+            "JavaScript": ["CS314"],
+            "Performance optimization": ["CS314"],
+            "Cloud computing": ["CS455"],
+            "Code Review": ["CS415"],
             "MongoDB": "None",
-            "Communication": "CS314",
-            "Development": "None",
+            "Communication": ["CS164"],
+            "Development": ["CS314"],
             "Efficiency": "None",
             "Elasticsearch": "None",
             "Spring Boot": "None",
