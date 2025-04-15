@@ -46,9 +46,9 @@
       [
         "CS164",
         [
+          "Debugging",
           "Quality Assurance",
-          "Testing",
-          "Debugging"
+          "Testing"
         ]
       ],
       [
@@ -66,8 +66,8 @@
       [
         "CS314",
         [
-          "Communication",
-          "Teamwork"
+          "Teamwork",
+          "Communication"
         ]
       ],
       [
@@ -267,10 +267,10 @@
       [
         "CS314",
         [
-          "Networking",
-          "Communication",
           "Teamwork",
-          "Java"
+          "Communication",
+          "Java",
+          "Networking"
         ]
       ],
       [
@@ -414,9 +414,9 @@
       [
         "CS314",
         [
-          "Optimization",
+          "Teamwork",
           "Communication",
-          "Teamwork"
+          "Optimization"
         ]
       ]
     ],
@@ -482,8 +482,8 @@
       [
         "CS164",
         [
-          "Quality Assurance",
-          "Java"
+          "Java",
+          "Quality Assurance"
         ]
       ],
       [
@@ -507,8 +507,8 @@
       [
         "CS314",
         [
-          "Networking",
-          "Java"
+          "Java",
+          "Networking"
         ]
       ],
       [
@@ -627,9 +627,9 @@
       [
         "CS314",
         [
-          "Optimization",
-          "Communication",
           "Teamwork",
+          "Communication",
+          "Optimization",
           "Java"
         ]
       ],
@@ -849,8 +849,8 @@
       [
         "CS164",
         [
-          "Quality Assurance",
-          "Java"
+          "Java",
+          "Quality Assurance"
         ]
       ],
       [
@@ -880,9 +880,9 @@
       [
         "CS314",
         [
-          "Networking",
           "Optimization",
-          "Java"
+          "Java",
+          "Networking"
         ]
       ],
       [
@@ -1002,8 +1002,8 @@
       [
         "CS314",
         [
-          "Databases",
           "Teamwork",
+          "Databases",
           "Java"
         ]
       ],
@@ -1078,9 +1078,9 @@
       [
         "CS164",
         [
+          "Algorithms",
           "Java",
-          "Quality Assurance",
-          "Algorithms"
+          "Quality Assurance"
         ]
       ],
       [
@@ -1105,8 +1105,8 @@
       [
         "CS314",
         [
-          "Optimization",
           "Communication",
+          "Optimization",
           "Java"
         ]
       ],
@@ -1226,8 +1226,8 @@
       [
         "CS314",
         [
-          "Optimization",
           "Teamwork",
+          "Optimization",
           "Java"
         ]
       ],
@@ -1332,11 +1332,11 @@
       [
         "CS314",
         [
-          "Maven",
-          "Communication",
+          "Teamwork",
           "Java",
           "Docker",
-          "Teamwork"
+          "Communication",
+          "Maven"
         ]
       ]
     ],
@@ -1433,8 +1433,8 @@
       [
         "CS214",
         [
-          "Java",
-          "Documentation"
+          "Documentation",
+          "Java"
         ]
       ],
       [
@@ -1452,8 +1452,8 @@
       [
         "CS314",
         [
-          "Communication",
           "Teamwork",
+          "Communication",
           "Java"
         ]
       ],
@@ -1566,8 +1566,8 @@
       [
         "CS164",
         [
-          "Java",
-          "Git"
+          "Git",
+          "Java"
         ]
       ],
       [
@@ -1579,8 +1579,8 @@
       [
         "CS214",
         [
-          "Java",
-          "Git"
+          "Git",
+          "Java"
         ]
       ],
       [
@@ -1611,11 +1611,11 @@
       [
         "CS314",
         [
-          "Databases",
-          "Communication",
-          "Java",
+          "Git",
           "Teamwork",
-          "Git"
+          "Java",
+          "Communication",
+          "Databases"
         ]
       ],
       [
@@ -1711,9 +1711,9 @@
       [
         "CS314",
         [
-          "Unix",
+          "Teamwork",
           "Communication",
-          "Teamwork"
+          "Unix"
         ]
       ],
       [
@@ -1867,8 +1867,8 @@
       [
         "CS164",
         [
-          "Quality Assurance",
-          "Java"
+          "Java",
+          "Quality Assurance"
         ]
       ],
       [
@@ -1880,8 +1880,8 @@
       [
         "CS214",
         [
-          "Project Management",
-          "Java"
+          "Java",
+          "Project Management"
         ]
       ],
       [
@@ -1899,10 +1899,10 @@
       [
         "CS314",
         [
-          "Networking",
-          "Project Management",
           "Teamwork",
-          "Java"
+          "Java",
+          "Networking",
+          "Project Management"
         ]
       ],
       [
@@ -1974,8 +1974,8 @@
       [
         "CS314",
         [
-          "Communication",
-          "Teamwork"
+          "Teamwork",
+          "Communication"
         ]
       ],
       [
@@ -2066,8 +2066,8 @@
       [
         "CS164",
         [
-          "Quality Assurance",
-          "Debugging"
+          "Debugging",
+          "Quality Assurance"
         ]
       ],
       [
@@ -2079,8 +2079,8 @@
       [
         "CS314",
         [
-          "Optimization",
-          "Teamwork"
+          "Teamwork",
+          "Optimization"
         ]
       ]
     ],
@@ -2155,9 +2155,9 @@
       [
         "CS164",
         [
+          "Git",
           "Java",
-          "Testing",
-          "Git"
+          "Testing"
         ]
       ],
       [
@@ -2169,8 +2169,8 @@
       [
         "CS214",
         [
-          "Java",
-          "Git"
+          "Git",
+          "Java"
         ]
       ],
       [
@@ -2189,10 +2189,10 @@
       [
         "CS314",
         [
-          "Java",
+          "Git",
           "Communication",
           "Teamwork",
-          "Git"
+          "Java"
         ]
       ],
       [
@@ -2292,10 +2292,10 @@
       [
         "CS164",
         [
+          "Git",
           "Java",
           "Quality Assurance",
-          "Testing",
-          "Git"
+          "Testing"
         ]
       ],
       [
@@ -2307,8 +2307,8 @@
       [
         "CS214",
         [
-          "Java",
-          "Git"
+          "Git",
+          "Java"
         ]
       ],
       [
@@ -2327,10 +2327,10 @@
       [
         "CS314",
         [
-          "Java",
+          "Git",
           "Communication",
           "Teamwork",
-          "Git"
+          "Java"
         ]
       ],
       [
@@ -2438,9 +2438,9 @@
       [
         "CS314",
         [
-          "Project Management",
+          "Teamwork",
           "Communication",
-          "Teamwork"
+          "Project Management"
         ]
       ],
       [
@@ -2625,9 +2625,9 @@
       [
         "CS164",
         [
+          "Java",
           "Quality Assurance",
-          "Testing",
-          "Java"
+          "Testing"
         ]
       ],
       [
@@ -2639,8 +2639,8 @@
       [
         "CS214",
         [
-          "Java",
-          "Documentation"
+          "Documentation",
+          "Java"
         ]
       ],
       [
@@ -2659,9 +2659,9 @@
       [
         "CS314",
         [
-          "Networking",
           "Communication",
-          "Java"
+          "Java",
+          "Networking"
         ]
       ],
       [
@@ -2778,9 +2778,9 @@
       [
         "CS164",
         [
-          "Testing",
           "Debugging",
-          "Algorithms"
+          "Algorithms",
+          "Testing"
         ]
       ],
       [
@@ -2798,8 +2798,8 @@
       [
         "CS314",
         [
-          "Optimization",
-          "Teamwork"
+          "Teamwork",
+          "Optimization"
         ]
       ]
     ],
@@ -2937,8 +2937,8 @@
       [
         "CS314",
         [
-          "Communication",
-          "Teamwork"
+          "Teamwork",
+          "Communication"
         ]
       ]
     ],
@@ -3000,16 +3000,16 @@
       [
         "CS214",
         [
-          "Project Management",
-          "Documentation"
+          "Documentation",
+          "Project Management"
         ]
       ],
       [
         "CS314",
         [
-          "Project Management",
+          "Teamwork",
           "Communication",
-          "Teamwork"
+          "Project Management"
         ]
       ]
     ],
@@ -3033,8 +3033,8 @@
       [
         "CS314",
         [
-          "Communication",
-          "Teamwork"
+          "Teamwork",
+          "Communication"
         ]
       ]
     ],
@@ -3152,8 +3152,8 @@
       [
         "CS314",
         [
-          "Project Management",
-          "Teamwork"
+          "Teamwork",
+          "Project Management"
         ]
       ]
     ],
@@ -3221,8 +3221,8 @@
       [
         "CS314",
         [
-          "Communication",
-          "Teamwork"
+          "Teamwork",
+          "Communication"
         ]
       ]
     ],
@@ -3310,8 +3310,8 @@
       [
         "CS314",
         [
-          "Communication",
-          "Teamwork"
+          "Teamwork",
+          "Communication"
         ]
       ],
       [
@@ -3355,16 +3355,16 @@
       [
         "CS214",
         [
+          "Documentation",
           "Debugging",
-          "Software Design",
-          "Documentation"
+          "Software Design"
         ]
       ],
       [
         "CS314",
         [
-          "Communication",
-          "Teamwork"
+          "Teamwork",
+          "Communication"
         ]
       ]
     ],
@@ -3416,9 +3416,9 @@
       [
         "CS314",
         [
-          "Networking",
+          "Teamwork",
           "Databases",
-          "Teamwork"
+          "Networking"
         ]
       ],
       [
@@ -3447,8 +3447,8 @@
       [
         "CS314",
         [
-          "Communication",
-          "Teamwork"
+          "Teamwork",
+          "Communication"
         ]
       ]
     ],
@@ -3558,8 +3558,8 @@
       [
         "CS314",
         [
-          "Integration Tests",
-          "Teamwork"
+          "Teamwork",
+          "Integration Tests"
         ]
       ],
       [
@@ -3627,9 +3627,9 @@
       [
         "CS164",
         [
+          "Debugging",
           "Quality Assurance",
-          "Testing",
-          "Debugging"
+          "Testing"
         ]
       ],
       [
@@ -3642,9 +3642,9 @@
       [
         "CS314",
         [
-          "Project Management",
+          "Teamwork",
           "Communication",
-          "Teamwork"
+          "Project Management"
         ]
       ]
     ],
@@ -3716,10 +3716,10 @@
       [
         "CS164",
         [
-          "Quality Assurance",
-          "Testing",
+          "Java",
           "Debugging",
-          "Java"
+          "Quality Assurance",
+          "Testing"
         ]
       ],
       [
@@ -3731,9 +3731,9 @@
       [
         "CS214",
         [
-          "Debugging",
+          "Documentation",
           "Java",
-          "Documentation"
+          "Debugging"
         ]
       ],
       [
@@ -3914,10 +3914,10 @@
       [
         "CS314",
         [
-          "Networking",
-          "Communication",
           "Teamwork",
-          "Java"
+          "Communication",
+          "Java",
+          "Networking"
         ]
       ],
       [
@@ -4119,9 +4119,9 @@
       [
         "CS164",
         [
+          "Java",
           "Quality Assurance",
-          "Testing",
-          "Java"
+          "Testing"
         ]
       ],
       [
@@ -4152,8 +4152,8 @@
       [
         "CS314",
         [
-          "Communication",
           "Teamwork",
+          "Communication",
           "Java"
         ]
       ],
@@ -4247,8 +4247,8 @@
       [
         "CS314",
         [
-          "Communication",
-          "Teamwork"
+          "Teamwork",
+          "Communication"
         ]
       ],
       [
@@ -4327,8 +4327,8 @@
       [
         "CS164",
         [
-          "Quality Assurance",
-          "Java"
+          "Java",
+          "Quality Assurance"
         ]
       ],
       [
@@ -4484,8 +4484,8 @@
       [
         "CS214",
         [
-          "Project Management",
-          "Java"
+          "Java",
+          "Project Management"
         ]
       ],
       [
@@ -4497,10 +4497,10 @@
       [
         "CS314",
         [
-          "Project Management",
-          "Communication",
           "Teamwork",
-          "Java"
+          "Communication",
+          "Java",
+          "Project Management"
         ]
       ],
       [
@@ -4620,10 +4620,10 @@
       [
         "CS164",
         [
-          "Quality Assurance",
-          "Testing",
+          "Java",
           "Debugging",
-          "Java"
+          "Quality Assurance",
+          "Testing"
         ]
       ],
       [
@@ -4635,8 +4635,8 @@
       [
         "CS214",
         [
-          "Debugging",
-          "Java"
+          "Java",
+          "Debugging"
         ]
       ],
       [
@@ -4760,10 +4760,10 @@
       [
         "CS164",
         [
-          "Quality Assurance",
-          "Testing",
+          "Java",
           "Debugging",
-          "Java"
+          "Quality Assurance",
+          "Testing"
         ]
       ],
       [
@@ -4775,8 +4775,8 @@
       [
         "CS214",
         [
-          "Debugging",
-          "Java"
+          "Java",
+          "Debugging"
         ]
       ],
       [
@@ -4893,8 +4893,8 @@
       [
         "CS314",
         [
-          "Communication",
           "Teamwork",
+          "Communication",
           "Java"
         ]
       ],
@@ -4994,9 +4994,9 @@
       [
         "CS314",
         [
+          "Teamwork",
           "Communication",
-          "Configuration Management",
-          "Teamwork"
+          "Configuration Management"
         ]
       ],
       [
@@ -5123,9 +5123,9 @@
       [
         "CS164",
         [
+          "Git",
           "Java",
-          "Quality Assurance",
-          "Git"
+          "Quality Assurance"
         ]
       ],
       [
@@ -5137,17 +5137,17 @@
       [
         "CS214",
         [
-          "Java",
-          "Git"
+          "Git",
+          "Java"
         ]
       ],
       [
         "CS314",
         [
-          "Java",
-          "Clean Code",
+          "Git",
           "Teamwork",
-          "Git"
+          "Clean Code",
+          "Java"
         ]
       ],
       [
@@ -5195,8 +5195,8 @@
       [
         "CS164",
         [
-          "Java",
-          "Git"
+          "Git",
+          "Java"
         ]
       ],
       [
@@ -5208,17 +5208,17 @@
       [
         "CS214",
         [
-          "Java",
           "Git",
+          "Java",
           "Software Design"
         ]
       ],
       [
         "CS314",
         [
-          "Java",
+          "Git",
           "Teamwork",
-          "Git"
+          "Java"
         ]
       ]
     ],
@@ -5285,8 +5285,8 @@
       [
         "CS164",
         [
-          "Java",
-          "Git"
+          "Git",
+          "Java"
         ]
       ],
       [
@@ -5298,17 +5298,17 @@
       [
         "CS214",
         [
-          "Java",
-          "Git"
+          "Git",
+          "Java"
         ]
       ],
       [
         "CS314",
         [
-          "Java",
+          "Git",
           "Optimization",
-          "Maven",
-          "Git"
+          "Java",
+          "Maven"
         ]
       ]
     ],
@@ -5362,8 +5362,8 @@
       [
         "CS164",
         [
-          "Quality Assurance",
-          "Java"
+          "Java",
+          "Quality Assurance"
         ]
       ],
       [
@@ -5446,9 +5446,9 @@
       [
         "CS164",
         [
+          "Java",
           "Quality Assurance",
-          "Testing",
-          "Java"
+          "Testing"
         ]
       ],
       [
@@ -5557,10 +5557,10 @@
       [
         "CS164",
         [
+          "Algorithms",
           "Java",
           "Quality Assurance",
-          "Testing",
-          "Algorithms"
+          "Testing"
         ]
       ],
       [
@@ -5592,8 +5592,8 @@
       [
         "CS314",
         [
-          "Communication",
           "Teamwork",
+          "Communication",
           "Java"
         ]
       ],
@@ -5625,9 +5625,9 @@
         "CS458",
         [
           "Cryptocurrency",
+          "Solidity",
           "Hyperledger",
-          "Blockchain",
-          "Solidity"
+          "Blockchain"
         ]
       ]
     ],
@@ -5689,9 +5689,9 @@
       [
         "CS314",
         [
-          "Project Management",
+          "Teamwork",
           "Communication",
-          "Teamwork"
+          "Project Management"
         ]
       ],
       [
@@ -5793,9 +5793,9 @@
         "CS314",
         [
           "Communication",
+          "Clean Code",
           "Docker",
-          "Java",
-          "Clean Code"
+          "Java"
         ]
       ],
       [
@@ -6040,10 +6040,10 @@
       [
         "CS164",
         [
+          "Algorithms",
           "Java",
-          "Linux",
           "Quality Assurance",
-          "Algorithms"
+          "Linux"
         ]
       ],
       [
@@ -6080,11 +6080,11 @@
       [
         "CS314",
         [
-          "Linux",
-          "Databases",
+          "Teamwork",
           "Clean Code",
           "Java",
-          "Teamwork"
+          "Databases",
+          "Linux"
         ]
       ],
       [
@@ -6294,9 +6294,9 @@
       [
         "CS164",
         [
-          "Testing",
+          "Java",
           "Debugging",
-          "Java"
+          "Testing"
         ]
       ],
       [
@@ -6308,8 +6308,8 @@
       [
         "CS214",
         [
-          "Debugging",
-          "Java"
+          "Java",
+          "Debugging"
         ]
       ],
       [
@@ -6674,11 +6674,11 @@
       [
         "CS314",
         [
-          "Communication",
+          "Teamwork",
           "Clean Code",
-          "Refactoring",
           "Java",
-          "Teamwork"
+          "Communication",
+          "Refactoring"
         ]
       ],
       [
