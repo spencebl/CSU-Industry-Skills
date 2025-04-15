@@ -253,3 +253,4 @@ bert-model/wandb/run-20250408_190326-jotd9l54/files/wandb-metadata.json
 bert-model/wandb/run-20250408_190326-jotd9l54/files/wandb-summary.json
 bert-model/wandb/run-20250408_190326-jotd9l54/logs/debug-internal.log
 bert-model/wandb/run-20250408_190326-jotd9l54/logs/debug.log
+__pycache__

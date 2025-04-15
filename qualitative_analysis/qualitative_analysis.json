@@ -1,0 +1,3969 @@
+{
+    "Apple_Software_Engineer_WatchOS": {
+        "required_skills": {
+            "Collaboration": "CS415",
+            "Innovation": "CS165",
+            "Creative Solutions": "CS320",
+            "SwiftUI": "None",
+            "Experience Optimization": "None",
+            "Inter-process Communication": "CS370",
+            "Knowledge Sharing": "None",
+            "Profiling Application": "None",
+            "System Design": "CS455",
+            "User Experince (UX)": "None"
+        }
+    },
+    "Adobe_AI_ML_Engineer": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Strong communication skills": "CS164",
+            "Design": "CS314",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Ruby": "None",
+            "Collaboration": "CS415",
+            "Debugging": [
+                "CS214",
+                "CS164"
+            ],
+            "DevOps": "None",
+            "React.js": "CS314",
+            "JavaScript": "CS314",
+            "Knowledge sharing": "None",
+            "Bug fixing": "CS314",
+            "Customer needs": "CS314",
+            "Code Review": "CS415",
+            "High performance": "CS455",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Programming": "CS250",
+            "Maintaining software applications": "None",
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Development": "CS464",
+            "Efficiency": "CS320",
+            "Code/API documentation": "CS314",
+            "Reliability": "CS455",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Problem Solving Skills": "CS165",
+            "Front-end frameworks": "CS414",
+            "Feedback": "None",
+            "Angular": "None",
+            "Vue": "None",
+            "Planning": "None"
+        }
+    },
+    "Adobe_Junior_SDE": {
+        "required_skills": {
+            "Automated tests": "CS415",
+            "SaaS Design Principles": "None",
+            "Adobe Commerce": "None",
+            "Magento": "None",
+            "Performance": "CS320",
+            "Security": [
+                "CS110",
+                "CS150",
+                "CS356"
+            ],
+            "DevOps": "None",
+            "Monitoring": "None",
+            "Shift Quality": "None",
+            "Knowledge sharing": "None",
+            "Quality Insights": "None",
+            "Cloud computing": "CS455",
+            "Quality control": "CS214",
+            "Compliance": "CS456",
+            "Product development": "None",
+            "Programming": "CS250",
+            "Scalability": "CS455",
+            "Observability": "CS250",
+            "Development": "CS464",
+            "Improvement": "CS314",
+            "Efficiency": "CS320",
+            "Architecture Design": "CS455",
+            "Spring Boot": "None",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Software Development": "CS314",
+            "Cloud Technology": "CS455",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Designing Features": "CS314",
+            "Innovation": "CS165",
+            "CI systems": "None",
+            "Terraform": "None",
+            "Decision making": "CS414",
+            "Distributed systems": "CS455",
+            "Lean-Agile environment": "CS314",
+            "Agile development": "CS214",
+            "PHP": "CS312",
+            "Containerization": "CS370",
+            "CI/CD methodologies": "None",
+            "SQL": "CS430",
+            "Clusters": "None",
+            "Infrastructure Development": "None",
+            "Metrics": "CS356"
+        }
+    },
+    "Adobe_Software_Engineering_Intern": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Cloud Engineering": "CS455",
+            "Design": "CS314",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "OOP/Func Paradigms": "None",
+            "Interpersonal Skills": "CS220",
+            "JavaScript": "CS314",
+            "Adobe Experience Manager": "None",
+            "Programming": "CS250",
+            "Algorithms": [
+                "CS152",
+                "CS320",
+                "CS164",
+                "CS165"
+            ],
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Backend development": "CS314",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Cloud Technology": "CS455",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Machine learning": "CS445",
+            "Artificial Intelligence (AI)": "CS445",
+            "Data structures": "CS165",
+            "Networking": [
+                "CS457",
+                "CS314"
+            ],
+            "Node.js": "None"
+        }
+    },
+    "Adobe_Software_Quality_Engineer": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Implementation": "None",
+            "Collaboration": "CS415",
+            "React.js": "CS314",
+            "JavaScript": "CS314",
+            "High performance": "CS455",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Testing Workflows": "CS165",
+            "Programming": "CS250",
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Open source tools": "None",
+            "Problem Solving Skills": "CS165",
+            "Deployment": "None",
+            "Time management": "CS454",
+            "TypeScript": "None",
+            "Scripting": "None",
+            "Web Debugging Tools": "None",
+            "HTML": "CS312",
+            "Testing Methodologies": "CS415"
+        }
+    },
+    "Adobe_Software_Solutions_Architect": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Email systems": "None",
+            "Adobe Cloud Solutions": "None",
+            "Resolution Drive": "CS164",
+            "Data Management Platforms (DMPs)": "None",
+            "Strategic planning": "CS164",
+            "Automation": "CS320",
+            "Demand-side Platforms (DSPs)": "None",
+            "Security": [
+                "CS110",
+                "CS150",
+                "CS356"
+            ],
+            "Performance": "CS320",
+            "Implementation": "None",
+            "Collaboration": "CS415",
+            "Interpersonal Skills": "CS220",
+            "Recommendation Systems": "None",
+            "Product adoption": "None",
+            "Enterprise Architecture": "None",
+            "JavaScript": "CS314",
+            "Product Advancements": "None",
+            "Customer needs": "CS314",
+            "Continuous improvement (CI)": "None",
+            "Product Management": "None",
+            "Tooling": "None",
+            "Product development": "None",
+            "Programming": "CS250",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Research": [
+                "CS110",
+                "CS150"
+            ],
+            "Architecture Design": "CS455",
+            "Team collaboration": "CS415",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Optimization": [
+                "CS320",
+                "CS314"
+            ],
+            "Web development": "CS312",
+            "Problem Solving Skills": "CS165",
+            "Technical leadership": "CS314",
+            "REST APIs": "CS314",
+            "Feedback": "None",
+            "Innovation": "CS165",
+            "Actionable Insights": "None",
+            "Data management": "CS345",
+            "CRM systems": "None",
+            "Architecture Solutions": "CS455",
+            "Customer engagement": "None",
+            "Cross-Device Tracking platforms": "None",
+            "Effective Communication": "CS165",
+            "Creative Solutions": "CS320",
+            "HTML": "CS312",
+            "Adobe Marketo": "None",
+            "Mobile technologies": "None",
+            "Data storage": "CS430",
+            "Data Retention": "None",
+            "Progress Management": "CS314",
+            "Data Mining": "CS435",
+            "Leadership": "CS314",
+            "Solution architecture": "CS455"
+        }
+    },
+    "Amazon_Cloud_Support_Engineer_ETL": {
+        "required_skills": {
+            "Shell": "None",
+            "Advanced Troubleshooting Techniques": "CS415",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Apache Hive": "None",
+            "Automation": "CS320",
+            "Pig": "None",
+            "Collaboration": "CS415",
+            "HBASE": "None",
+            "Knowledge sharing": "None",
+            "Operational efficiency": "CS420",
+            "Cloud computing": "CS455",
+            "Customer needs": "CS314",
+            "Continuous improvement (CI)": "None",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "HDFS": "CS455",
+            "Programming": "CS250",
+            "Efficiency": "CS320",
+            "Data analysis": "CS445",
+            "Software Development": "CS314",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "Technical leadership": "CS314",
+            "Innovation": "CS165",
+            "Mentorship": "None",
+            "Hadoop ecosystems": "CS435",
+            "Scala": "CS435",
+            "Load (ETL)": "None",
+            "Customer engagement": "None",
+            "Operating Systems": [
+                "CS370"
+            ],
+            "Big data": "CS435",
+            "Networking": [
+                "CS457",
+                "CS314"
+            ],
+            "Extract": "None",
+            "SQL": "CS430",
+            "Transform": "None",
+            "Data lake architecture": "None",
+            "Apache Spark": "CS435",
+            "Troubleshooting": "CS220",
+            "NoSQL": "None"
+        }
+    },
+    "Amazon_Graduate_Software_Engineer": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Technical articulation": "None",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Designing and building innovative technologies": "None",
+            "Collaboration": "CS415",
+            "Abstraction": [
+                "CS165",
+                "CS162",
+                "CS455"
+            ],
+            "Fault Tolerance": [
+                "CS458",
+                "CS455"
+            ],
+            "Algorithms": [
+                "CS152",
+                "CS320",
+                "CS164",
+                "CS165"
+            ],
+            "Creating solutions for distributed systems": "CS455",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Scalability": "CS455",
+            "Algorithm design": "CS320",
+            "Object-oriented design": "CS164",
+            "Efficiency": "CS320",
+            "Complexity analysis": "CS320",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Optimization": [
+                "CS320",
+                "CS314"
+            ],
+            "Distributed storage": "CS435",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Innovation": "CS165",
+            "Customer engagement": "None",
+            "Distributed systems": "CS455",
+            "Data structures": "CS165",
+            "Agile environment": "CS314",
+            "Relational databases": "CS430",
+            "Leadership": "CS314"
+        }
+    },
+    "Amazon_SDE_AI_ML": {
+        "required_skills": {
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Amazon Web Services (AWS)": "None",
+            "Automation": "CS320",
+            "Security": [
+                "CS110",
+                "CS150",
+                "CS356"
+            ],
+            "Collaboration": "CS415",
+            "Cloud computing": "CS455",
+            "Algorithms": [
+                "CS152",
+                "CS320",
+                "CS164",
+                "CS165"
+            ],
+            "Scalability": "CS455",
+            "Object-oriented design": "CS164",
+            "Research": [
+                "CS110",
+                "CS150"
+            ],
+            "Complexity analysis": "CS320",
+            "Optimization": [
+                "CS320",
+                "CS314"
+            ],
+            "System Design": "CS455",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Innovation": "CS165",
+            "Machine learning": "CS445",
+            "Generative AI": "CS430",
+            "Artificial Intelligence (AI)": "CS445",
+            "Distributed systems": "CS455",
+            "Operating Systems": [
+                "CS370"
+            ],
+            "Data structures": "CS165",
+            "Transformative AI Solutions": "CS445",
+            "Coding skills": "CS164",
+            "Relational databases": "CS430",
+            "C#": "CS462",
+            "Data Mining": "CS435"
+        }
+    },
+    "Amazon_SDE_Cloud": {
+        "required_skills": {
+            "Innovative technologies": "CS415",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Amazon Web Services (AWS)": "None",
+            "Compute technologies": "CS320",
+            "Automation": "CS320",
+            "Security": [
+                "CS110",
+                "CS150",
+                "CS356"
+            ],
+            "Collaboration": "CS415",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Programming": "CS250",
+            "Object-oriented design": "CS164",
+            "Scalability": "CS455",
+            "Algorithm design": "CS320",
+            "Complexity analysis": "CS320",
+            "Software Development": "CS314",
+            "Optimization": [
+                "CS320",
+                "CS314"
+            ],
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Innovation": "CS165",
+            "Customer engagement": "None",
+            "Distributed systems": "CS455",
+            "Data structures": "CS165",
+            "Networking": [
+                "CS457",
+                "CS314"
+            ],
+            "C#": "CS462",
+            "Data Mining": "CS435",
+            "Leadership": "CS314"
+        }
+    },
+    "Amazon_SDE_Embedded_Dev": {
+        "required_skills": {
+            "Compute technologies": "CS320",
+            "Abstraction": [
+                "CS165",
+                "CS162",
+                "CS455"
+            ],
+            "Fault Tolerance": [
+                "CS458",
+                "CS455"
+            ],
+            "Disaster Recovery": "None",
+            "Programming": "CS250",
+            "Algorithms": [
+                "CS152",
+                "CS320",
+                "CS164",
+                "CS165"
+            ],
+            "Databases": [
+                "CS250",
+                "CS110 - Modules",
+                "CS314",
+                "CS312",
+                "CS430"
+            ],
+            "Scalability": "CS455",
+            "Efficiency": "CS320",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Transactional Systems": "CS430",
+            "Distributed storage": "CS435",
+            "Nonlinear Optimization": "CS420",
+            "Problem Solving Skills": "CS165",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Rust": "None",
+            "Innovation": "CS165",
+            "Availability": "CS455",
+            "Large Scale Databases": "CS430",
+            "Kernel": "CS370",
+            "Multi-tenant Systems": "None",
+            "Distributed systems": "CS455",
+            "Operating Systems": [
+                "CS370"
+            ],
+            "Linear Programming": "CS420",
+            "Creative Solutions": "CS320",
+            "Creating new products": "None",
+            "C": [
+                "CT301",
+                "CS270"
+            ],
+            "Agile environment": "CS314",
+            "Relational databases": "CS430"
+        }
+    },
+    "Amazon_SDE_I": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Ambiguity Management": "None",
+            "Collaboration": "CS415",
+            "Abstraction": [
+                "CS165",
+                "CS162",
+                "CS455"
+            ],
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Programming": "CS250",
+            "Algorithms": [
+                "CS152",
+                "CS320",
+                "CS164",
+                "CS165"
+            ],
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Object-oriented design": "CS164",
+            "Articulation": "CS314",
+            "Optimization": [
+                "CS320",
+                "CS314"
+            ],
+            "System Design": "CS455",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Innovation": "CS165",
+            "Kernel": "CS370",
+            "File systems": "CS370",
+            "Job scheduling": "CS370",
+            "Distributed systems": "CS455",
+            "Operating Systems": [
+                "CS370"
+            ],
+            "Resource management": "CS320",
+            "Agile development": "CS214",
+            "Performance engineering": "None",
+            "Agile environment": "CS314",
+            "Relational databases": "CS430",
+            "C#": "CS462"
+        }
+    },
+    "Amazon_SDE_Query_Optimization": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Innovative Engineers": "CS164",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Performance": "CS320",
+            "Collaboration": "CS415",
+            "Requirements gathering": "CS415",
+            "Cloud computing": "CS455",
+            "multi-tiered systems": "CS455",
+            "Programming": "CS250",
+            "Algorithms": [
+                "CS152",
+                "CS320",
+                "CS164",
+                "CS165"
+            ],
+            "Query Analysis": "CS430",
+            "Object-oriented design": "CS164",
+            "Research": [
+                "CS110",
+                "CS150"
+            ],
+            "Complexity analysis": "CS320",
+            "Deep learning": "CS430",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Optimization": [
+                "CS320",
+                "CS314"
+            ],
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Query optimization": "CS430",
+            "Innovation": "CS165",
+            "Cloud Data Warehouse": "None",
+            "Amazon Redshift": "None",
+            "Perl": "None",
+            "Distributed": "CS455",
+            "Operating Systems": [
+                "CS370"
+            ],
+            "Data structures": "CS165",
+            "Algorithmic Expertise": "CS320",
+            "Coding skills": "CS164",
+            "Database management": "CS430",
+            "Relational databases": "CS430",
+            "C#": "CS462",
+            "Parallel Execution Engine": "None"
+        }
+    },
+    "Amex_Backend_Engineer": {
+        "required_skills": {
+            "Vert.x": "None",
+            "Application Design": "CS415",
+            "Design": "CS314",
+            "Trend Identification": "None",
+            "Docker": [
+                "CS370",
+                "CS314"
+            ],
+            "Kubernetes": "None",
+            "Jenkins": "None",
+            "Maven": [
+                "CS314"
+            ],
+            "React.js": "CS314",
+            "JavaScript": "CS314",
+            "Knowledge sharing": "None",
+            "Spring Webflux": "None",
+            "Cutting edge technology": "CS455",
+            "Programming": "CS250",
+            "Contribution": "CS314",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Object-oriented design": "CS164",
+            "Continuous Delivery (CD)": "None",
+            "Performance Monitoring Tools": "CS356",
+            "Spring Boot": "None",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Software Development": "CS314",
+            "Open source tools": "None",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Web development": "CS312",
+            "User Interfaces (UI)": "CS314",
+            "Microservices": "CS312",
+            "Cloud infrastructure": "CS455",
+            "Agile development": "CS214",
+            "Event driven micro services architecture": "None",
+            "Coding skills": "CS164",
+            "Database management": "CS430",
+            "Relational databases": "CS430",
+            "NoSQL": "None"
+        }
+    },
+    "Amex_Engineer_Java": {
+        "required_skills": {
+            "Consistency": [
+                "CS455"
+            ],
+            "Analytical skills": "CS420",
+            "Application Design": "CS415",
+            "Automated tests": "CS415",
+            "Design": "CS314",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Software architecture": "CS414",
+            "Analyzing Workflow": "None",
+            "Web Services": "CS370",
+            "Requirements gathering": "CS415",
+            "Monitoring": "None",
+            "React.js": "CS314",
+            "Continuous improvement (CI)": "None",
+            "Cross-channel Communications": "None",
+            "Programming": "CS250",
+            "Consistent Development Practices": "None",
+            "Algorithms": [
+                "CS152",
+                "CS320",
+                "CS164",
+                "CS165"
+            ],
+            "Innovative ideas": "CS314",
+            "JSON": "CS314",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Documentation": [
+                "CS314",
+                "CS214"
+            ],
+            "Object-oriented design": "CS164",
+            "Backend development": "CS314",
+            "Support Applications": "None",
+            "Efficiency": "CS320",
+            "Team collaboration": "CS415",
+            "XML": "CS430",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Software Development": "CS314",
+            "Accountability": "CS457",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "User Interfaces (UI)": "CS314",
+            "Deployment": "None",
+            "Oracle": "CS430",
+            "Mentorship": "None",
+            "Multithreading programming": "CS370",
+            "Agile methodology": "CS415",
+            "Customer engagement": "None",
+            "Distributed systems": "CS455",
+            "Data structures": "CS165",
+            "Reusable": "CS164",
+            "Coding skills": "CS164",
+            "Node.js": "None",
+            "PostgreSQL": "None",
+            "Relational databases": "CS430",
+            "Leadership": "CS314",
+            "NoSQL": "None"
+        }
+    },
+    "Amex_Software_Engineer": {
+        "required_skills": {
+            "Git": [
+                "CS314",
+                "CS214",
+                "CS164"
+            ],
+            "Analytical skills": "CS420",
+            "Golang": "None",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "OOP/Func Paradigms": "None",
+            "Kubernetes": "None",
+            "Collaboration": "CS415",
+            "DevOps": "None",
+            "Jenkins": "None",
+            "Software Engineering": "CS314",
+            "Controller (mvc)": "None",
+            "JavaScript": "CS314",
+            "Cloud computing": "CS455",
+            "Kotlin": "None",
+            "Runtimes": "CS250",
+            "Programming": "CS250",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Databases": [
+                "CS250",
+                "CS110 - Modules",
+                "CS314",
+                "CS312",
+                "CS430"
+            ],
+            "async/event-based": "None",
+            "GitHub Actions": "CS314",
+            "SoC": "None",
+            "ECS": "None",
+            "TDD": "CS314",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Software Development": "CS314",
+            "data pipelines": "CS445",
+            "Cloud Technology": "CS455",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Technical leadership": "CS314",
+            "Microservices": "CS312",
+            "Model": "CS445",
+            "Innovation": "CS165",
+            "Quality Commitment": "None",
+            "Caching Strategies": "CS370",
+            "SecOps": "None",
+            "Data management": "CS345",
+            "Strong analytical skills": "CS165",
+            "EKS": "None",
+            "MySQL": "CS430",
+            "Load (ETL)": "None",
+            "MemSQL": "None",
+            "Site Reliability Engineering (SRE)": "None",
+            "Extract": "None",
+            "Containerization": "CS370",
+            "SQL": "CS430",
+            "Database management": "CS430",
+            "CICD pipelines": "None",
+            "View": "None",
+            "PostgreSQL": "None",
+            "Transform": "None",
+            "CloudOps": "None",
+            "CircleCI": "None",
+            "NoSQL": "None"
+        }
+    },
+    "Apple_SWE_Internal_Tools": {
+        "required_skills": {
+            "macOS": "NONR",
+            "Critical thinking": "CS165",
+            "Design": "CS314",
+            "Multitasking": "CS370",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Compute technologies": "CS320",
+            "software debugging skills": "CS314",
+            "Implementation": "None",
+            "Collaboration": "CS415",
+            "Debugging": [
+                "CS214",
+                "CS164"
+            ],
+            "Monitoring": "None",
+            "Packaging Software": "None",
+            "Software Compilation": "CS214",
+            "Bash": "None",
+            "Build dependencies": "None",
+            "Programming": "CS250",
+            "Maintaining software applications": "None",
+            "Build Systems": "CS455",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "SwiftUI": "None",
+            "Infrastructure as code (IaC)": "None",
+            "Strong software development skills": "CS314",
+            "UNIX system administration": "None",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Software Development": "CS314",
+            "Problem Solving Skills": "CS165",
+            "Technical leadership": "CS314",
+            "Unix": [
+                "CS370",
+                "CS314"
+            ],
+            "Logging": "CS214",
+            "Innovation": "CS165",
+            "Objective-C": "None",
+            "Scripting": "None",
+            "Software Solutions": "None",
+            "Software Design": "CS214",
+            "Build infrastructure": "None",
+            "system monitoring tools": "CS456",
+            "Profiling": "None"
+        }
+    },
+    "Apple_Webkit_Engineer": {
+        "required_skills": {
+            "Inter-process Communication": "CS370",
+            "Collaboration": "CS415",
+            "Compatibility": "None",
+            "JavaScript": "CS314",
+            "Performance optimization": "CS420",
+            "Bug fixing": "CS314",
+            "UIKit": "None",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Programming": "CS250",
+            "Development": "CS464",
+            "Test cases": "CS314",
+            "Web development": "CS312",
+            "Problem Solving Skills": "CS165",
+            "Systems programming": "None",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "AppKit": "None",
+            "Innovation": "CS165",
+            "Objective-C": "None",
+            "Web Standards": "None",
+            "Compatibility Testing": "CS415",
+            "CFNetwork": "None",
+            "HTML": "CS312",
+            "C": [
+                "CT301",
+                "CS270"
+            ],
+            "CSS": "CS415"
+        }
+    },
+    "Comcast_Software_Engineer_Coop": {
+        "required_skills": {
+            "Software Engineering Practices": "CS314",
+            "Business Skills": "None",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Automation": "CS320",
+            "Security": [
+                "CS110",
+                "CS150",
+                "CS356"
+            ],
+            "Interpersonal Skills": "CS220",
+            "Project Management": [
+                "CS314",
+                "CS214"
+            ],
+            "Software Engineering": "CS314",
+            "Knowledge sharing": "None",
+            "Cloud computing": "CS455",
+            "Test and Deployment automation": "CS415",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "AI/ML": "CS445",
+            "Product development": "None",
+            "Data analysis": "CS445",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Software Development": "CS314",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Innovation": "CS165",
+            "Oracle": "CS430",
+            "Version control": "CS214",
+            "Mentorship": "None",
+            "Data management": "CS345",
+            "Encryption": "CS356",
+            "Security Protocols": "None",
+            "MySQL": "CS430",
+            "Networking": [
+                "CS457",
+                "CS314"
+            ],
+            "Solution Creation": "None",
+            "Business operations": "None",
+            "PostgreSQL": "None",
+            "MongoDB": "None"
+        }
+    },
+    "Figma_Data_Scientist_Early_Career": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Strong communication skills": "CS164",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "User behavior prediction": "None",
+            "Collaboration": "CS415",
+            "Knowledge sharing": "None",
+            "Cross-functional collaboration": "None",
+            "Statistical methods and models": "None",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Documentation": [
+                "CS314",
+                "CS214"
+            ],
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Problem Solving Skills": "CS165",
+            "Data Science": [
+                "CS456",
+                "CS345"
+            ],
+            "Machine learning": "CS445",
+            "Statistics": "CS345",
+            "Modeling": "None",
+            "Data structures": "CS165",
+            "Coding skills": "CS164",
+            "Data Engineering": "CS445",
+            "Evaluate Experiments": "None"
+        }
+    },
+    "Figma_Web_Developer": {
+        "required_skills": {
+            "CI/CD": "None",
+            "Performance": "CS320",
+            "Security": [
+                "CS110",
+                "CS150",
+                "CS356"
+            ],
+            "Accessibility": "None",
+            "Collaboration": "CS415",
+            "Debugging": [
+                "CS214",
+                "CS164"
+            ],
+            "React.js": "CS314",
+            "Next.js": "None",
+            "JavaScript": "CS314",
+            "Visual QA": "None",
+            "Cross-functional collaboration": "None",
+            "Express": "None",
+            "Code Review": "CS415",
+            "Software Frameworks": "CS164",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "User experience (UX)": "None",
+            "Programming": "CS250",
+            "Backend development": "CS314",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "OKR planning": "None",
+            "Deployment practices": "None",
+            "Optimization": [
+                "CS320",
+                "CS314"
+            ],
+            "Web development": "CS312",
+            "CI/CD strategy": "None",
+            "Gatsby": "None",
+            "Cloud infrastructure": "CS455",
+            "TypeScript": "None",
+            "User interface development": "None",
+            "A/B testing": "CS415",
+            "Agile development": "CS214",
+            "GraphQL": "None",
+            "Database management": "CS430",
+            "roadmapping": "None",
+            "HTML": "CS312",
+            "Node.js": "None",
+            "Infrastructure Development": "None",
+            "Conversion rate optimization": "None",
+            "CSS": "CS415",
+            "Troubleshooting": "CS220"
+        }
+    },
+    "Github_Software_Engineer": {
+        "required_skills": {
+            "Git": [
+                "CS314",
+                "CS214",
+                "CS164"
+            ],
+            "Strong communication skills": "CS164",
+            "Design": "CS314",
+            "Prototyping": "CS464",
+            "Golang": "None",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Compute technologies": "CS320",
+            "Ruby": "None",
+            "Automation": "CS320",
+            "Implementation": "None",
+            "Collaboration": "CS415",
+            "DevOps": "None",
+            "Software Engineering": "CS314",
+            "React.js": "CS314",
+            "Creative Problem Solving": "CS165",
+            "JavaScript": "CS314",
+            "GitHub": "CS214",
+            "High performance": "CS455",
+            "Code Review": "CS415",
+            "Exploration": "CS164",
+            "User experience (UX)": "None",
+            "Programming": "CS250",
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "APIs": "CS314",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Support Applications": "None",
+            "Development": "CS464",
+            "Efficiency": "CS320",
+            "Architecture Design": "CS455",
+            "Azure technologies": "None",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Web development": "CS312",
+            "Problem Solving Skills": "CS165",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Technical leadership": "CS314",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Rust": "None",
+            "Feedback": "None",
+            "Innovation": "CS165",
+            "Mentorship": "None",
+            "High-quality systems": "CS455",
+            "Modeling": "None",
+            "Maintainable code": "CS314",
+            "C": [
+                "CT301",
+                "CS270"
+            ],
+            "Agile environment": "CS314",
+            "C#": "CS462",
+            "Leadership": "CS314"
+        }
+    },
+    "Github_Software_Engineer_2": {
+        "required_skills": {
+            "Git": [
+                "CS314",
+                "CS214",
+                "CS164"
+            ],
+            "Autonomy": "CS220",
+            "Prototyping": "CS464",
+            "Design": "CS314",
+            "Golang": "None",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Compute technologies": "CS320",
+            "Ruby": "None",
+            "Automation": "CS320",
+            "Implementation": "None",
+            "Collaboration": "CS415",
+            "Requirements gathering": "CS415",
+            "DevOps": "None",
+            "Software Engineering": "CS314",
+            "React.js": "CS314",
+            "Creative Problem Solving": "CS165",
+            "JavaScript": "CS314",
+            "GitHub": "CS214",
+            "Code Review": "CS415",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "User experience (UX)": "None",
+            "Programming": "CS250",
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "APIs": "CS314",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Support Applications": "None",
+            "Backend development": "CS314",
+            "Development": "CS464",
+            "Architecture Design": "CS455",
+            "Azure technologies": "None",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Software Development": "CS314",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Rust": "None",
+            "Front-end frameworks": "CS414",
+            "Technical leadership": "CS314",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Feedback": "None",
+            "Innovation": "CS165",
+            "Mentorship": "None",
+            "High-quality systems": "CS455",
+            "Maintainable code": "CS314",
+            "Creative Solutions": "CS320",
+            "C": [
+                "CT301",
+                "CS270"
+            ],
+            "Agile environment": "CS314",
+            "Frontend development": "CS314",
+            "C#": "CS462",
+            "Leadership": "CS314"
+        }
+    },
+    "Google_ML_Analyst": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Trend Identification": "None",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Security": [
+                "CS110",
+                "CS150",
+                "CS356"
+            ],
+            "User insights": "CS314",
+            "Project Management": [
+                "CS314",
+                "CS214"
+            ],
+            "Cross-functional collaboration": "None",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Programming": "CS250",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Safety": "None",
+            "Efficiency": "CS320",
+            "Data visualization": "CS345",
+            "Data analysis": "CS445",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Presentation skills": "CS457",
+            "Problem Solving Skills": "CS165",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Technical leadership": "CS314",
+            "User safety": "None",
+            "Fraud Prevention": "CS356",
+            "Machine learning": "CS445",
+            "Decision making": "CS414",
+            "Modeling": "None",
+            "Statistics Generation": "None",
+            "R": "None",
+            "SQL": "CS430",
+            "Feature engineering": "None",
+            "Data exploration": "CS440",
+            "Protection": "CS356",
+            "Insights Drawing": "CS165"
+        }
+    },
+    "Google_ML_Engineer_Silicon": {
+        "required_skills": {
+            "Compilers": "CS250",
+            "Design": "CS314",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "AI and ML accelerators": "CS430",
+            "Compute technologies": "CS320",
+            "Performance": "CS320",
+            "Implementation": "None",
+            "Collaboration": "CS415",
+            "Software Engineering": "CS314",
+            "AI/ML": "CS445",
+            "Verification": "CS314",
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Simulation": "CS345",
+            "Improvement": "CS314",
+            "Development": "CS464",
+            "Research": [
+                "CS110",
+                "CS150"
+            ],
+            "Efficiency": "CS320",
+            "SoC": "None",
+            "Software Development": "CS314",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Hardware design": "CS370",
+            "Innovation": "CS165",
+            "Machine learning": "CS445",
+            "C": [
+                "CT301",
+                "CS270"
+            ]
+        }
+    },
+    "Google_Software_Engineer_Youtube_Design": {
+        "required_skills": {
+            "Design": "CS314",
+            "Distributed computing": "CS455",
+            "Golang": "None",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Compute technologies": "CS320",
+            "Experience with data structures": "CS165",
+            "Security": [
+                "CS110",
+                "CS150",
+                "CS356"
+            ],
+            "Implementation": "None",
+            "Collaboration": "CS415",
+            "JavaScript": "CS314",
+            "Cross-functional collaboration": "None",
+            "Information retrieval": "None",
+            "Code Review": "CS415",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Experience with algorithms": "CS320",
+            "Programming": "CS250",
+            "Maintaining software applications": "None",
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Documentation": [
+                "CS314",
+                "CS214"
+            ],
+            "Backend development": "CS314",
+            "Large-scale system design": "None",
+            "Software Development": "CS314",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "User Interfaces (UI)": "CS314",
+            "Deployment": "None",
+            "Natural language processing (NLP)": "CS430",
+            "Innovation": "CS165",
+            "TypeScript": "None",
+            "Artificial Intelligence (AI)": "CS445",
+            "Full stack development": "CS415",
+            "Networking": [
+                "CS457",
+                "CS314"
+            ],
+            "Creative Solutions": "CS320",
+            "HTML": "CS312",
+            "C": [
+                "CT301",
+                "CS270"
+            ],
+            "Data storage": "CS430",
+            "Frontend development": "CS314",
+            "Quality Experiences": "None",
+            "CSS": "CS415"
+        }
+    },
+    "Google_UX_Designer": {
+        "required_skills": {
+            "Prototyping": "CS464",
+            "Usability Evaluation": "CS314",
+            "Collaboration": "CS415",
+            "Designing across multiple platforms": "None",
+            "Wireframes": "CS456",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "User experience (UX)": "None",
+            "Product development": "None",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Research": [
+                "CS110",
+                "CS150"
+            ],
+            "User workflows": "CS314",
+            "Web development": "CS312",
+            "User Interfaces (UI)": "CS314",
+            "Innovation": "CS165",
+            "User interface mockups": "CS415",
+            "Content Strategy": "None",
+            "Experience with design tools": "None",
+            "Creative Solutions": "CS320",
+            "User-centered design": "None",
+            "Leadership": "CS314"
+        }
+    },
+    "HPE_AI_ML_Engineer": {
+        "required_skills": {
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Optimization": [
+                "CS320",
+                "CS314"
+            ],
+            "Software Frameworks": "CS164",
+            "System Design": "CS455",
+            "Structured Data": "CS430",
+            "Statistical Modeling": "CS445",
+            "Algorithms": [
+                "CS152",
+                "CS320",
+                "CS164",
+                "CS165"
+            ],
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "Large Scale Computing": "CS455",
+            "Unstructured Data": "None",
+            "Debugging": [
+                "CS214",
+                "CS164"
+            ],
+            "Data Quality": "CS445",
+            "Data visualization": "CS345",
+            "Machine learning": "CS445",
+            "Deep learning": "CS430",
+            "Data analysis": "CS445",
+            "Modeling": "None"
+        }
+    },
+    "HPE_Cloud_Developer": {
+        "required_skills": {
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Cloud Technology": "CS455",
+            "Problem Solving Skills": "CS165",
+            "Design": "CS314",
+            "Prototyping": "CS464",
+            "Deployment": "None",
+            "Innovation": "CS165",
+            "DevOps": "None",
+            "Monitoring": "None",
+            "Efficiency": "CS320",
+            "Continuous Delivery (CD)": "None"
+        }
+    },
+    "HPE_Data_Scientist": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Exploratory Data Analysis (EDA)": "None",
+            "Collaboration": "CS415",
+            "SPSS": "None",
+            "User experience (UX)": "None",
+            "Data loading": "CS345",
+            "Data Validation": "None",
+            "Data visualization": "CS345",
+            "Statistical Analysis System (SAS)": "None",
+            "Data analysis": "CS445",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Data preparation": "CS445",
+            "Problem Solving Skills": "CS165",
+            "Predictive Analytics": "None",
+            "Data management": "CS345",
+            "Hypothesis Matrix": "CS445",
+            "Machine learning": "CS445",
+            "Statistics": "CS345",
+            "Decision making": "CS414",
+            "Data Integration": "None",
+            "Modeling": "None",
+            "Load (ETL)": "None",
+            "R": "None",
+            "Extract": "None",
+            "Business operations": "None",
+            "Transform": "None"
+        }
+    },
+    "HPE_Electrical_Hardware_Engineer": {
+        "required_skills": {
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Analytical skills": "CS420",
+            "Design": "CS314",
+            "Problem Solving Skills": "CS165",
+            "Product development": "None",
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "Evaluation": "None",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Development": "CS464",
+            "Reliability": "CS455"
+        }
+    },
+    "HPE_Engineer": {
+        "required_skills": {
+            "Software Development": "CS314",
+            "Validation": "CS356",
+            "Design": "CS314",
+            "Technical leadership": "CS314",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Debugging": [
+                "CS214",
+                "CS164"
+            ]
+        }
+    },
+    "HPE_Engineering_Program_Manager": {
+        "required_skills": {
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Analytical skills": "CS420",
+            "Reporting": "None",
+            "Autonomy": "CS220",
+            "Problem Solving Skills": "CS165",
+            "Organization": "CS164",
+            "Documentation": [
+                "CS314",
+                "CS214"
+            ],
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Collaboration": "CS415",
+            "Project Management": [
+                "CS314",
+                "CS214"
+            ],
+            "Efficiency": "CS320",
+            "Leadership": "CS314"
+        }
+    },
+    "HPE_Experience_Design_Engineer": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Autonomy": "CS220",
+            "Problem Solving Skills": "CS165",
+            "User experience (UX)": "None",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Collaboration": "CS415",
+            "Data analysis": "CS445"
+        }
+    },
+    "HPE_Industrial_Engineer": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Decision making": "CS414",
+            "Problem Solving Skills": "CS165"
+        }
+    },
+    "HPE_Mechanical_Engineer": {
+        "required_skills": {
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Analytical skills": "CS420",
+            "CAD Software": "None",
+            "Design": "CS314",
+            "Problem Solving Skills": "CS165",
+            "Prototyping": "CS464",
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "Evaluation": "None",
+            "Leadership": "CS314",
+            "Reliability": "CS455"
+        }
+    },
+    "HPE_Product_Engineer": {
+        "required_skills": {
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Analytical skills": "CS420",
+            "Quality control": "CS214",
+            "Problem Solving Skills": "CS165",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Product development": "None",
+            "Process improvement": "CS314"
+        }
+    },
+    "HPE_Product_Manager": {
+        "required_skills": {
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Analytical skills": "CS420",
+            "Forecasting": "None",
+            "Autonomy": "CS220",
+            "Problem Solving Skills": "CS165",
+            "Product development": "None",
+            "Innovation": "CS165",
+            "Financial literacy": "None",
+            "Project Management": [
+                "CS314",
+                "CS214"
+            ]
+        }
+    },
+    "HPE_Quality_Assurance_Engineer": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Problem Solving Skills": "CS165",
+            "Documentation": [
+                "CS314",
+                "CS214"
+            ],
+            "Collaboration": "CS415",
+            "Efficiency": "CS320"
+        }
+    },
+    "HPE_Quality_Engineer": {
+        "required_skills": {
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Lean Sigma": "None",
+            "Analytical skills": "CS420",
+            "Quality control": "CS214",
+            "Problem Solving Skills": "CS165",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "Six Sigma": "None",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Data analysis": "CS445"
+        }
+    },
+    "HPE_Research_Engineer": {
+        "required_skills": {
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Analytical skills": "CS420",
+            "Problem Solving Skills": "CS165",
+            "Scientific research": "None",
+            "Publications": "None",
+            "Innovation": "CS165",
+            "Development": "CS464",
+            "Implementation": "None",
+            "Collaboration": "CS415",
+            "Research": [
+                "CS110",
+                "CS150"
+            ],
+            "Data analysis": "CS445"
+        }
+    },
+    "HPE_Software_Designer": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Software Development": "CS314",
+            "Code Review": "CS415",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Problem Solving Skills": "CS165",
+            "Software Design": "CS214",
+            "Application Design": "CS415",
+            "Software testing": "CS415",
+            "Logging": "CS214",
+            "Programming": "CS250",
+            "Maintaining software applications": "None",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Documentation": [
+                "CS314",
+                "CS214"
+            ],
+            "Requirements gathering": "CS415",
+            "Debugging": [
+                "CS214",
+                "CS164"
+            ],
+            "Collaboration": "CS415"
+        }
+    },
+    "HPE_SW_Engineer_Firmware": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Operating Systems": [
+                "CS370"
+            ],
+            "Assembly Language": "None",
+            "Problem Solving Skills": "CS165",
+            "Design": "CS314",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Logging": "CS214",
+            "Hardware design": "CS370",
+            "C": [
+                "CT301",
+                "CS270"
+            ],
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Debugging": [
+                "CS214",
+                "CS164"
+            ],
+            "Firmware Development": "None",
+            "Efficiency": "CS320"
+        }
+    },
+    "HPE_Systems_Software_Engineer": {
+        "required_skills": {
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Analytical skills": "CS420",
+            "Operating Systems": [
+                "CS370"
+            ],
+            "Compilers": "CS250",
+            "Software Design": "CS214",
+            "Problem Solving Skills": "CS165",
+            "Networking": [
+                "CS457",
+                "CS314"
+            ],
+            "Routers": "None",
+            "Coding skills": "CS164",
+            "Programming": "CS250",
+            "Hardware design": "CS370",
+            "Databases": [
+                "CS250",
+                "CS110 - Modules",
+                "CS314",
+                "CS312",
+                "CS430"
+            ]
+        }
+    },
+    "HPE_Test_Engineer": {
+        "required_skills": {
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Scheduling": "CS370",
+            "Analytical skills": "CS420",
+            "System Design": "CS455",
+            "Problem Solving Skills": "CS165",
+            "Test Planning": "CS415",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ]
+        }
+    },
+    "HPE_VLSI_Engineer": {
+        "required_skills": {
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Analytical skills": "CS420",
+            "Design": "CS314",
+            "Problem Solving Skills": "CS165",
+            "Scripting": "None",
+            "Programming": "CS250",
+            "Algorithms": [
+                "CS152",
+                "CS320",
+                "CS164",
+                "CS165"
+            ],
+            "Hardware design": "CS370",
+            "Electronic Design": "None",
+            "Automation": "CS320",
+            "Efficiency": "CS320",
+            "Decision making": "CS414"
+        }
+    },
+    "HP_Associate_Software_Developer": {
+        "required_skills": {
+            "Automated tests": "CS415",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Automation": "CS320",
+            "DevOps": "None",
+            "Collaboration": "CS415",
+            "JavaScript": "CS314",
+            "Agile software development": "CS314",
+            "Integration Tests": [
+                "CS314",
+                "CS415"
+            ],
+            "Automated security scanning": "CS356",
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "Software Development": "CS314",
+            "Virtual Desktop Infrastructure": "CS370",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Technical leadership": "CS314",
+            "Microservices": "CS312",
+            "Innovation": "CS165",
+            "API Tests": "CS415",
+            "Terraform": "None",
+            "TypeScript": "None",
+            "End-to-End Tests": "CS415",
+            "High standards": "CS455",
+            "Creative Solutions": "CS320",
+            "Node.js": "None",
+            "Test Automation": "CS415"
+        }
+    },
+    "HP_Software_Quality_Engineer": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "JIRA": "None",
+            "Design": "CS314",
+            "CI/CD": "None",
+            "Test Planning": "CS415",
+            "Collaboration": "CS415",
+            "Debugging": [
+                "CS214",
+                "CS164"
+            ],
+            "Product validation": "None",
+            "Software Engineering": "CS314",
+            "Project Management": [
+                "CS314",
+                "CS214"
+            ],
+            "Customer needs": "CS314",
+            "Code Review": "CS415",
+            "Testing Strategies": "CS415",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Manual Testing": "CS415",
+            "Efficiency": "CS320",
+            "Building new solutions": "CS214",
+            "Software Development": "CS314",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Problem Solving Skills": "CS165",
+            "Software Quality (SQA/SQC)": "None",
+            "Design Discussions": "None",
+            "Innovation": "CS165",
+            "Mentorship": "None",
+            "Scripting": "None",
+            "Agile methodology": "CS415",
+            "Customer engagement": "None",
+            "Agile development": "CS214",
+            "TestRail": "CS415",
+            "Software testing": "CS415",
+            "Coding skills": "CS164",
+            "Leadership": "CS314"
+        }
+    },
+    "Meta_Software_Engineer": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Design": "CS314",
+            "Prototyping": "CS464",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Software architecture": "CS414",
+            "AR/VR": "CS462",
+            "Collaboration": "CS415",
+            "Debugging": [
+                "CS214",
+                "CS164"
+            ],
+            "Firmware Development": "None",
+            "Code Review": "CS415",
+            "Embedded systems": "None",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Programming": "CS250",
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "Documentation": [
+                "CS314",
+                "CS214"
+            ],
+            "Infrastructure": "CS455",
+            "Game engine development": "CS462",
+            "Development": "CS464",
+            "Efficiency": "CS320",
+            "Augmented reality": "CS462",
+            "Software Development": "CS314",
+            "Virtual reality": "CS462",
+            "Mobile Software Experience": "None",
+            "Problem Solving Skills": "CS165",
+            "mobile app development": "None",
+            "Technical leadership": "CS314",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Hardware design": "CS370",
+            "Innovation": "CS165",
+            "robotics": "None",
+            "Hardware": [
+                "CS110",
+                "CS350"
+            ],
+            "Artificial Intelligence (AI)": "CS445",
+            "Operating Systems": [
+                "CS370"
+            ],
+            "Architectural tradeoffs": "None",
+            "PHP": "CS312",
+            "Hardware development": "CS370",
+            "Software engineering quality": "None"
+        }
+    },
+    "Meta_Software_Engineer_Android": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Performance": "CS320",
+            "Benchmarking": "CS314",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Mobile memory management": "None",
+            "Programming": "CS250",
+            "API design": "CS314",
+            "Infrastructure": "CS455",
+            "Efficiency": "CS320",
+            "Android native languages": "None",
+            "Software Development": "CS314",
+            "Optimization": [
+                "CS320",
+                "CS314"
+            ],
+            "User Interfaces (UI)": "CS314",
+            "Performance Debugging": "None",
+            "Multithreading programming": "CS370",
+            "Building complex applications targeting Android": "None",
+            "Android Programming Techniques": "None",
+            "Unit testing": "CS415",
+            "Building Reusable Android Software Components": "None"
+        }
+    },
+    "Meta_Software_Engineer_Codesign": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "GPUs": "CS250",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "AI and ML accelerators": "CS430",
+            "Compute technologies": "CS320",
+            "Collaboration": "CS415",
+            "Programming": "CS250",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "workload architectural analysis": "None",
+            "Large-scale infrastructure": "CS455",
+            "Storage Systems": "CS370",
+            "Full stack analysis": "CS414",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "Technical leadership": "CS314",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Hardware design": "CS370",
+            "Hardware": [
+                "CS110",
+                "CS350"
+            ],
+            "Scripting": "None",
+            "Distributed systems": "CS455",
+            "CPUs": "CS370",
+            "Networking": [
+                "CS457",
+                "CS314"
+            ],
+            "PHP": "CS312",
+            "Publications": "None",
+            "C": [
+                "CT301",
+                "CS270"
+            ],
+            "Community Contribution": "None"
+        }
+    },
+    "Meta_Software_Engineer_Computer_Vision": {
+        "required_skills": {
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "AR/VR": "CS462",
+            "Benchmarking": "CS314",
+            "PyTorch": "CS445",
+            "Computer Vision": "CS410",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Methodology Development": "CS415",
+            "Programming": "CS250",
+            "Architecture Design": "CS455",
+            "Deep learning": "CS430",
+            "Experience with distributed systems": "CS455",
+            "ML rigor": "None",
+            "Technical leadership": "CS314",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Innovation": "CS165",
+            "Mentorship": "None",
+            "Vision Systems": "CS410",
+            "Machine learning": "CS445",
+            "Artificial Intelligence (AI)": "CS445",
+            "System Interaction": "CS455",
+            "AI system design": "CS455",
+            "Leadership": "CS314"
+        }
+    },
+    "Meta_Software_Engineer_Frontend": {
+        "required_skills": {
+            "Performance and Scalability": "None",
+            "User Interface Components": "None",
+            "Designing Interfaces": "CS410",
+            "Web Applications": [
+                "CS312",
+                "CS314"
+            ],
+            "Collaboration": "CS415",
+            "Software Engineering": "CS314",
+            "React.js": "CS314",
+            "JavaScript": "CS314",
+            "High performance": "CS455",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Large-Scale Product Development": "None",
+            "API design": "CS314",
+            "Architecture Design": "CS455",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Software Development": "CS314",
+            "Front-end frameworks": "CS414",
+            "Innovation": "CS165",
+            "Front-end Systems": "CS415",
+            "Performance Debugging": "None",
+            "Reusable": "CS164",
+            "HTML": "CS312",
+            "Unit testing": "CS415",
+            "CSS": "CS415"
+        }
+    },
+    "Meta_Software_Engineer_Infrastructure": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "System Resources": "CS250",
+            "Design": "CS314",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Compute technologies": "CS320",
+            "Building large-scale infrastructure applications": "None",
+            "Collaboration": "CS415",
+            "Software Engineering": "CS314",
+            "Monitoring": "None",
+            "JavaScript": "CS314",
+            "Cross-functional collaboration": "None",
+            "Code Review": "CS415",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Scalability": "CS455",
+            "Efficiency": "CS320",
+            "Quality improvement": "CS415",
+            "Reliability": "CS455",
+            "Software Development": "CS314",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Technical leadership": "CS314",
+            "Design Reviews": "None",
+            "Quality work": "None",
+            "Exposure to architectural patterns": "None",
+            "PHP": "CS312",
+            "C": [
+                "CT301",
+                "CS270"
+            ],
+            "Large scale software applications": "None",
+            "Leadership": "CS314"
+        }
+    },
+    "Microsoft_Applied_Scientist": {
+        "required_skills": {
+            "Bayesian networks": "CS445",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Compute technologies": "CS320",
+            "Data-driven Research": "CS430",
+            "Collaboration": "CS415",
+            "LLMs": "CS430",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "AI/ML": "CS445",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Research": [
+                "CS110",
+                "CS150"
+            ],
+            "Active learning": "CS164",
+            "Deep learning": "CS430",
+            "SLMs": "None",
+            "Statistical Techniques": "None",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Data integrity": "CS345",
+            "Data preparation": "CS445",
+            "Predictive Analytics": "None",
+            "Technical leadership": "CS314",
+            "Innovation": "CS165",
+            "Multi-modal models": "None",
+            "Machine learning": "CS445",
+            "Statistics": "CS345",
+            "Scala": "CS435",
+            "Artificial Intelligence (AI)": "CS445",
+            "Load (ETL)": "None",
+            "Time series": "CS445",
+            "Extract": "None",
+            "R": "None",
+            "Reinforcement learning": "CS445",
+            "Publications": "None",
+            "Transform": "None",
+            "Probabilistic graphical models": "None",
+            "Critical feedback": "None"
+        }
+    },
+    "Microsoft_Fullstack": {
+        "required_skills": {
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Automation": "CS320",
+            "Performance": "CS320",
+            "Security": [
+                "CS110",
+                "CS150",
+                "CS356"
+            ],
+            "Accessibility": "None",
+            "Collaboration": "CS415",
+            "Monitoring": "None",
+            "JavaScript": "CS314",
+            "Service level agreement": "None",
+            "Compliance": "CS456",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Programming": "CS250",
+            "Safety": "None",
+            "Efficiency": "CS320",
+            "Data analysis": "CS445",
+            "Reliability": "CS455",
+            "Software Development": "CS314",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Privacy": [
+                "CS110",
+                "CS150",
+                "CS456"
+            ],
+            "Innovation": "CS165",
+            "C": [
+                "CT301",
+                "CS270"
+            ],
+            "C#": "CS462"
+        }
+    },
+    "Microsoft_Security_Researcher": {
+        "required_skills": {
+            "Threat Actor TTPs": "CS456",
+            "Malware Analysis": "CS456",
+            "Distributed computing": "CS455",
+            "Prototyping": "CS464",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Incident response": "None",
+            "Actionable Intelligence": "None",
+            "Automation": "CS320",
+            "Intelligence Requirements": "CS314",
+            "Security": [
+                "CS110",
+                "CS150",
+                "CS356"
+            ],
+            "Address Security Issues": "None",
+            "Project Management": [
+                "CS314",
+                "CS214"
+            ],
+            "Cloud computing": "CS455",
+            "Cloud architectures": "CS455",
+            "Analyze Threat Trends": "CS356",
+            "Threat Hunts": "CS356",
+            "Threat Analysis": "CS456",
+            "Cloud Identity TTPs": "None",
+            "Product development": "None",
+            "Programming": "CS250",
+            "Protect tools": "CS456",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Security Analysis": "CS356",
+            "Research": [
+                "CS110",
+                "CS150"
+            ],
+            "Architecture Design": "CS455",
+            "Threat Reporting": "CS356",
+            "Data analysis": "CS445",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Regulatory Scrutiny": "None",
+            "Security Domain": "None",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "Telemetry": "None",
+            "Technical leadership": "CS314",
+            "Penetration testing": "CS456",
+            "Systemic Security Issues": "CS356",
+            "Innovation": "CS165",
+            "Malicious Activity Detection": "None",
+            "Machine learning": "CS445",
+            "Scala": "CS435",
+            "Statistics": "CS345",
+            "Strong Quantitative Skills": "CS445",
+            "Signature Detection": "CS456",
+            "Data-driven inference methods": "None",
+            "Research Methodology": "CS435",
+            "Operational Impact": "None",
+            "Digital Technology Platforms": "None",
+            "Code Contribution": "CS314",
+            "C#": "CS462",
+            "Apache Spark": "CS435",
+            "Data Mining": "CS435",
+            "Experimentation": "CS314"
+        }
+    },
+    "Microsoft_Software_Engineering_Security": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Secure coding standards": "CS356",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Automation": "CS320",
+            "Performance": "CS320",
+            "Security": [
+                "CS110",
+                "CS150",
+                "CS356"
+            ],
+            "Collaboration": "CS415",
+            "Debugging": [
+                "CS214",
+                "CS164"
+            ],
+            "Software Engineering": "CS314",
+            "Identifying Dependencies": "None",
+            "Design Documentation": "CS314",
+            "JavaScript": "CS314",
+            "Customer needs": "CS314",
+            "Security Policies": "CS456",
+            "Feedback Integration": "None",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Compliance": "CS456",
+            "Continuous improvement (CI)": "None",
+            "Tooling": "None",
+            "Programming": "CS250",
+            "Code building": "CS314",
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Safety": "None",
+            "Development": "CS464",
+            "Efficiency": "CS320",
+            "Data analysis": "CS445",
+            "Reliability": "CS455",
+            "Software Development": "CS314",
+            "Deployment practices": "None",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "Telemetry": "None",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Feedback": "None",
+            "Security tools": "CS356",
+            "Time management": "CS454",
+            "Estimations": "None",
+            "Logs": "CS214",
+            "Regulations": "None",
+            "System behavior insights": "None",
+            "Business operations": "None",
+            "C": [
+                "CT301",
+                "CS270"
+            ],
+            "Test Automation": "CS415",
+            "Product Security": "CS356",
+            "C#": "CS462"
+        }
+    },
+    "Microsoft_Software_Engineer_AI_ML": {
+        "required_skills": {
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Code Creation": "CS314",
+            "Compute technologies": "CS320",
+            "ML models": "CS445",
+            "Automation": "CS320",
+            "Performance": "CS320",
+            "Security": [
+                "CS110",
+                "CS150",
+                "CS356"
+            ],
+            "Accessibility": "None",
+            "Collaboration": "CS415",
+            "Debugging": [
+                "CS214",
+                "CS164"
+            ],
+            "Design Documentation": "CS314",
+            "Identifying Dependencies": "None",
+            "Monitoring": "None",
+            "JavaScript": "CS314",
+            "Software Engineering": "CS314",
+            "Customer needs": "CS314",
+            "Service level agreement": "None",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Compliance": "CS456",
+            "User experience (UX)": "None",
+            "System functionality": "CS455",
+            "Feature Deployments": "CS314",
+            "Feedback Integration": "None",
+            "Product development": "None",
+            "Programming": "CS250",
+            "Continuous improvement (CI)": "None",
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "AI/ML": "CS445",
+            "Safety": "None",
+            "Scalability": "CS455",
+            "Efficiency": "CS320",
+            "Architecture Design": "CS455",
+            "Data analysis": "CS445",
+            "Service Impacts": "None",
+            "Reliability": "CS455",
+            "User Impacts": "CS314",
+            "Deployment practices": "None",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "Telemetry": "None",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Privacy": [
+                "CS110",
+                "CS150",
+                "CS456"
+            ],
+            "Technical Validation": "None",
+            "Performance Debugging": "None",
+            "Orchestration patterns": "None",
+            "Machine learning": "CS445",
+            "Estimations": "None",
+            "Responsible AI practices": "CS345",
+            "Artificial Intelligence (AI)": "CS445",
+            "System behavior insights": "None",
+            "Coding skills": "CS164",
+            "C": [
+                "CT301",
+                "CS270"
+            ],
+            "C#": "CS462"
+        }
+    },
+    "Netflix_Software_Engineer_Intern": {
+        "required_skills": {
+            "Media distribution workflows": "None",
+            "Content Engineering": "None",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Collaboration": "CS415",
+            "Software Engineering": "CS314",
+            "React.js": "CS314",
+            "Kotlin": "None",
+            "Cross-functional collaboration": "None",
+            "Product reviews": "None",
+            "User experience (UX)": "None",
+            "Tooling": "None",
+            "Contribution": "CS314",
+            "Maintaining software applications": "None",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Software Development": "CS314",
+            "System Design": "CS455",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "Technical leadership": "CS314",
+            "Innovation": "CS165",
+            "Mentorship": "None",
+            "Building media apps": "None",
+            "TypeScript": "None",
+            "HTML": "CS312",
+            "User-centered design": "None",
+            "Continual improvement": "None"
+        }
+    },
+    "OpenAI_Software_Engineering_Applied_Engineering": {
+        "required_skills": {
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Compute technologies": "CS320",
+            "Collaboration": "CS415",
+            "React.js": "CS314",
+            "JavaScript": "CS314",
+            "Cross-functional collaboration": "None",
+            "Customer needs": "CS314",
+            "Competing priorities": "CS415",
+            "Cutting edge technology": "CS455",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "AI/ML": "CS445",
+            "User experience (UX)": "None",
+            "Product development": "None",
+            "Programming": "CS250",
+            "Scalability": "CS455",
+            "Efficiency": "CS320",
+            "Optimization": [
+                "CS320",
+                "CS314"
+            ],
+            "Problem Solving Skills": "CS165",
+            "Deadlines": "CS314",
+            "MySQL": "CS430",
+            "Customer engagement": "None",
+            "PostgreSQL": "None",
+            "Speed": "CS165",
+            "Relational databases": "CS430"
+        }
+    },
+    "OpenAI_Software_Engineer_Real_Time": {
+        "required_skills": {
+            "Resilient systems": "CS455",
+            "Design": "CS314",
+            "Automation": "CS320",
+            "Performance": "CS320",
+            "Security": [
+                "CS110",
+                "CS150",
+                "CS356"
+            ],
+            "Performance Improvement": "CS320",
+            "Kubernetes": "None",
+            "Collaboration": "CS415",
+            "Configuration Management": "CS314",
+            "Implementation": "None",
+            "Monitoring": "None",
+            "Fault Tolerance": [
+                "CS458",
+                "CS455"
+            ],
+            "Cloud computing": "CS455",
+            "Cross-functional collaboration": "None",
+            "Service Level Indicators": "None",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Tooling": "None",
+            "Programming": "CS250",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Infrastructure as code (IaC)": "None",
+            "Infrastructure": "CS455",
+            "Scalability": "CS455",
+            "Development": "CS464",
+            "Efficiency": "CS320",
+            "Cloud environments": "CS455",
+            "Reliability": "CS455",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Resilient design patterns": "CS455",
+            "System Design": "CS455",
+            "Problem Solving Skills": "CS165",
+            "Feedback": "None",
+            "Microservices": "CS312",
+            "Availability": "CS455",
+            "Cloud infrastructure": "CS455",
+            "Scripting": "None",
+            "Observability Tools": "CS456",
+            "System Optimization": "CS320",
+            "Service Level Objectives": "None",
+            "Containerization": "CS370",
+            "Service mesh technologies": "None",
+            "Troubleshooting": "CS220"
+        }
+    },
+    "Paypal_Android_Engineer": {
+        "required_skills": {
+            "Git": [
+                "CS314",
+                "CS214",
+                "CS164"
+            ],
+            "Software Development Lifecycle": "CS314",
+            "Collaboration": "CS415",
+            "Experience: mobile UI/UX design": "None",
+            "Kotlin": "None",
+            "Code Review": "CS415",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "User experience (UX)": "None",
+            "Programming": "CS250",
+            "JSON": "CS314",
+            "Development": "CS464",
+            "Application Development": [
+                "CS314",
+                "CS430"
+            ],
+            "Mobile UI/UX Design": "None",
+            "Software Development": "CS314",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Clean Code": [
+                "CS314"
+            ],
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "REST APIs": "CS314",
+            "Java Frameworks": "CS314",
+            "Innovation": "CS165",
+            "Customer engagement": "None",
+            "Agile development": "CS214",
+            "Unit testing": "CS415"
+        }
+    },
+    "Paypal_Fresh_Grad_SE": {
+        "required_skills": {
+            "Git": [
+                "CS314",
+                "CS214",
+                "CS164"
+            ],
+            "Spring": "None",
+            "Organization": "CS164",
+            "Maintaining software applications": "None",
+            "JSON": "CS314",
+            "Enterprise Application Monitoring": "None",
+            "Development": "CS464",
+            "Software Development": "CS314",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "REST APIs": "CS314",
+            "Version control": "CS214",
+            "Code craftsmanship": "CS415",
+            "Rule Management Systems": "None",
+            "SVN": "None",
+            "Agile methodology": "CS415",
+            "Agile development": "CS214",
+            "Software Design": "CS214",
+            "SQL": "CS430",
+            "NoSQL": "None"
+        }
+    },
+    "Paypal_Platforms_Engineering": {
+        "required_skills": {
+            "Git": [
+                "CS314",
+                "CS214",
+                "CS164"
+            ],
+            "Design": "CS314",
+            "JMS": "None",
+            "Requirements gathering": "CS415",
+            "Collaboration": "CS415",
+            "GCP": "CS455",
+            "Maven": [
+                "CS314"
+            ],
+            "Software Engineering": "CS314",
+            "Cross-functional collaboration": "None",
+            "ORM tools": "None",
+            "Code Review": "CS415",
+            "Financial infrastructure": "None",
+            "Financial literacy": "None",
+            "Servlet containers": "None",
+            "Infrastructure": "CS455",
+            "Scalability": "CS455",
+            "Development": "CS464",
+            "Firestore": "None",
+            "App servers": "CS314",
+            "BigQuery": "None",
+            "Backend development": "CS314",
+            "Team collaboration": "CS415",
+            "Reliability": "CS455",
+            "Optimization": [
+                "CS320",
+                "CS314"
+            ],
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "REST APIs": "CS314",
+            "Design Discussions": "None",
+            "Innovation": "CS165",
+            "Continuous integration": "None",
+            "Oracle": "CS430",
+            "Mentorship": "None",
+            "Cloud infrastructure": "CS455",
+            "Design and development methodologies": "CS455",
+            "High-quality systems": "CS455",
+            "Regulations": "None",
+            "System Optimization": "CS320",
+            "Experience with Systems": "CS455",
+            "SQL": "CS430",
+            "Database management": "CS430",
+            "Business operations": "None",
+            "JDBC/ORM": "CS314",
+            "Payment Processing Industry Knowledge": "None",
+            "Leadership": "CS314",
+            "NoSQL": "None"
+        }
+    },
+    "Paypal_SE_Growths_Market": {
+        "required_skills": {
+            "Web Services": "CS370",
+            "Hibernate": "None",
+            "Collaboration": "CS415",
+            "Spring": "None",
+            "Platform expansion": "None",
+            "New product development": "CS415",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "User acquisition": "None",
+            "Programming": "CS250",
+            "Financial literacy": "None",
+            "Databases": [
+                "CS250",
+                "CS110 - Modules",
+                "CS314",
+                "CS312",
+                "CS430"
+            ],
+            "Object-oriented design": "CS164",
+            "Backend development": "CS314",
+            "Efficiency": "CS320",
+            "Spring Boot": "None",
+            "Software Development": "CS314",
+            "System Design": "CS455",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Web development": "CS312",
+            "REST APIs": "CS314",
+            "J2EE": "None",
+            "Innovation": "CS165",
+            "Oracle": "CS430",
+            "MySQL": "CS430",
+            "Customer engagement": "None",
+            "Unit testing": "CS415"
+        }
+    },
+    "Paypal_Software_Engineer": {
+        "required_skills": {
+            "Modernization": "None",
+            "Governance": "CS456",
+            "Collaboration": "CS415",
+            "Performance optimization": "CS420",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Compliance": "CS456",
+            "Platform Governance": "None",
+            "Code quality": "CS314",
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "Scalability": "CS455",
+            "Efficiency": "CS320",
+            "Spring Boot": "None",
+            "Software Development": "CS314",
+            "System Design": "CS455",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "Risk management": "CS314",
+            "Unix": [
+                "CS370",
+                "CS314"
+            ],
+            "Google BigQuery": "None",
+            "Innovation": "CS165",
+            "Machine learning": "CS445",
+            "Hadoop": [
+                "CS435",
+                "CS455"
+            ],
+            "System Layers": "CS370",
+            "Remediation": "None",
+            "SQL": "CS430",
+            "Service Monitoring": "None",
+            "Database Access": "CS430",
+            "Performance Analytics": "CS320",
+            "Troubleshooting": "CS220",
+            "Statistical Analysis": "CS345"
+        }
+    },
+    "Sony_Blockchain_Developer": {
+        "required_skills": {
+            "Signatures": "CS456",
+            "Design": "CS314",
+            "Crypto algorithms": "CS458",
+            "Golang": "None",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Solidity": "CS458",
+            "Software architecture": "CS414",
+            "Blockchain/Crypto": "CS458",
+            "Quality orientation": "None",
+            "Ethereum": "CS458",
+            "Knowledge sharing": "None",
+            "Cryptocurrency": [
+                "CS458"
+            ],
+            "Cutting edge technology": "CS455",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Summarization Skills": "None",
+            "Crypto currencies": "CS458",
+            "Programming": "CS250",
+            "Hyperledger": "CS458",
+            "Algorithms": [
+                "CS152",
+                "CS320",
+                "CS164",
+                "CS165"
+            ],
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Symmetric key": "CS356",
+            "Research": [
+                "CS110",
+                "CS150"
+            ],
+            "Development": "CS464",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Open source tools": "None",
+            "Haskell": "None",
+            "Erlang": "None",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Rust": "None",
+            "Presentation skills": "CS457",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Innovation": "CS165",
+            "Hash functions": "CS165",
+            "Distributed consensus methodologies": "CS455",
+            "Asymmetric key": "CS356",
+            "Crypto Techniques": "CS458",
+            "Scala": "CS435",
+            "Encryption": "CS356",
+            "Cryptography": [
+                "CS457",
+                "CS458"
+            ],
+            "C": [
+                "CT301",
+                "CS270"
+            ],
+            "Privacy-Preserving Features": "None",
+            "Blockchain": [
+                "CS458"
+            ]
+        }
+    },
+    "Sony_Software_Design_Engineer": {
+        "required_skills": {
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Software Development": "CS314",
+            "Image Processing": "CS410",
+            "Computer Vision": "CS410",
+            "Algorithm Research": "CS320",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Application Development": [
+                "CS314",
+                "CS430"
+            ],
+            "Creative Solutions": "CS320",
+            "Algorithms": [
+                "CS152",
+                "CS320",
+                "CS164",
+                "CS165"
+            ],
+            "Innovation": "CS165",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Time management": "CS454",
+            "Project Management": [
+                "CS314",
+                "CS214"
+            ],
+            "Computer Vision Algorithms": "CS410",
+            "Deep learning": "CS430",
+            "Leadership": "CS314"
+        }
+    },
+    "Spotify_Backend_Engineer_Audiobooks": {
+        "required_skills": {
+            "Scalable architectures": "CS455",
+            "non-relational databases": "None",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Software architecture": "CS414",
+            "Docker": [
+                "CS370",
+                "CS314"
+            ],
+            "Implementation": "None",
+            "GCP": "CS455",
+            "Collaboration": "CS415",
+            "React.js": "CS314",
+            "Next.js": "None",
+            "JavaScript": "CS314",
+            "User experience (UX)": "None",
+            "Tooling": "None",
+            "Product development": "None",
+            "Maintaining software applications": "None",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Identifying bottlenecks": "None",
+            "Scalability": "CS455",
+            "Backend development": "CS314",
+            "Improvement": "CS314",
+            "Content Processing": "None",
+            "Efficiency": "CS320",
+            "System uptime management": "None",
+            "System Design": "CS455",
+            "Clean Code": [
+                "CS314"
+            ],
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "Performance at scale": "None",
+            "Technical leadership": "CS314",
+            "Cloud platforms": "CS455",
+            "Query optimization": "CS430",
+            "Innovation": "CS165",
+            "Mentorship": "None",
+            "TypeScript": "None",
+            "High-quality systems": "CS455",
+            "Backend Standard Methodologies": "None",
+            "Distributed systems": "CS455",
+            "Containerization": "CS370",
+            "Database management": "CS430",
+            "end-to-end design": "None",
+            "Relational databases": "CS430",
+            "schema design": "None",
+            "Leadership": "CS314"
+        }
+    },
+    "Spotify_Backend_Engineer_Data_Platform": {
+        "required_skills": {
+            "Autonomy": "CS220",
+            "Collaboration": "CS415",
+            "Data Quality": "CS445",
+            "Customer needs": "CS314",
+            "Tooling": "None",
+            "Algorithms": [
+                "CS152",
+                "CS320",
+                "CS164",
+                "CS165"
+            ],
+            "Observability": "CS250",
+            "Scalability": "CS455",
+            "Team collaboration": "CS415",
+            "Reliability": "CS455",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "data pipelines": "CS445",
+            "System Design": "CS455",
+            "User workflows": "CS314",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "Accommodations": "None",
+            "Innovation": "CS165",
+            "Pipelines": "CS345",
+            "Iteration": "CS165",
+            "Scala": "CS435",
+            "Data structures": "CS165",
+            "Backend services": "CS314",
+            "Data Engineering": "CS445"
+        }
+    },
+    "Spotify_Data_Scientist_Audiobooks": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Design": "CS314",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Strategic planning": "CS164",
+            "Compute technologies": "CS320",
+            "Real-time Monitoring": "None",
+            "Visual Dashboards": "None",
+            "Implementation": "None",
+            "Collaboration": "CS415",
+            "Forecasting": "None",
+            "Product development": "None",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Tableau": "None",
+            "Development": "CS464",
+            "Data visualization": "CS345",
+            "Statistical Knowledge": "None",
+            "Data analysis": "CS445",
+            "Key Performance Metrics": "None",
+            "Measurement techniques": "None",
+            "Innovation": "CS165",
+            "Machine learning": "CS445",
+            "Statistics": "CS345",
+            "Modeling": "None",
+            "A/B testing": "CS415",
+            "Quantitative analysis": "CS345",
+            "SQL": "CS430",
+            "Excellent Communication Skills": "CS314",
+            "Feature engineering": "None",
+            "Data exploration": "CS440"
+        }
+    },
+    "Spotify_Junior_Backend_Engineer": {
+        "required_skills": {
+            "Automated tests": "CS415",
+            "Google Cloud Bigtable": "None",
+            "Design": "CS314",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Modernization": "None",
+            "Maintaining Systems": "None",
+            "Implementation": "None",
+            "Collaboration": "CS415",
+            "Knowledge sharing": "None",
+            "Quality focus": "CS165",
+            "Quality Assurance": [
+                "CS414",
+                "CS164"
+            ],
+            "Deployment Pipelines": "None",
+            "Programming": "CS250",
+            "Algorithms": [
+                "CS152",
+                "CS320",
+                "CS164",
+                "CS165"
+            ],
+            "Databases": [
+                "CS250",
+                "CS110 - Modules",
+                "CS314",
+                "CS312",
+                "CS430"
+            ],
+            "Low latency": "CS455",
+            "Scalability": "CS455",
+            "Backend development": "CS314",
+            "Continuous Delivery (CD)": "None",
+            "Operational Responsibility": "None",
+            "Infrastructure Building": "CS455",
+            "Reliability": "CS455",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Clean Code": [
+                "CS314"
+            ],
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Google Cloud SQL": "None",
+            "Innovation": "CS165",
+            "Availability": "CS455",
+            "Defensive programming": "CS356",
+            "Scala": "CS435",
+            "Data structures": "CS165",
+            "Backend services": "CS314",
+            "SQL": "CS430",
+            "Continuous development": "None",
+            "Service Monitoring": "None",
+            "Reasoning": [
+                "CS440",
+                "CS165"
+            ],
+            "Data Engineering": "CS445",
+            "Linux": [
+                "CS370",
+                "CS314",
+                "CS164"
+            ],
+            "NoSQL": "None"
+        }
+    },
+    "Tesla_Security_Engineer": {
+        "required_skills": {
+            "Supply-chain validation": "None",
+            "Secure architecture design": "None",
+            "Risk analysis": "None",
+            "Golang": "None",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Automation": "CS320",
+            "Security": [
+                "CS110",
+                "CS150",
+                "CS356"
+            ],
+            "Collaboration": "CS415",
+            "Source code auditing": "None",
+            "Vulnerability": "CS356",
+            "Programming": "CS250",
+            "Cybersecurity": "CS456",
+            "Reliability": "CS455",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Sanitizers": "CS456",
+            "Auditing code": "None",
+            "Timely resolution": "CS314",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Fuzzing": "None",
+            "Rust": "None",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Penetration testing": "CS456",
+            "Vulnerability tracking": "CS456",
+            "Develop automated systems": "None",
+            "Innovation": "CS165",
+            "Threat modeling": "CS356",
+            "Modeling": "None",
+            "Remediation": "None",
+            "Software testing": "CS415",
+            "SQL": "CS430",
+            "Security reviews": "CS456",
+            "Security solution design": "CS356",
+            "Excellent Communication Skills": "CS314",
+            "C": [
+                "CT301",
+                "CS270"
+            ],
+            "NoSQL": "None"
+        }
+    },
+    "Tesla_Software_Compliance_Engineer": {
+        "required_skills": {
+            "Test Engineering": "CS415",
+            "Stakeholder Management": "None",
+            "Golang": "None",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Software architecture": "CS414",
+            "Compute technologies": "CS320",
+            "Interpersonal Skills": "CS220",
+            "Collaboration": "CS415",
+            "Debugging": [
+                "CS214",
+                "CS164"
+            ],
+            "SIL/HIL/Integration testing": "None",
+            "Firmware Development": "None",
+            "Power quality knowledge": "None",
+            "Standards Implementation": "None",
+            "Embedded environments/protocols": "None",
+            "Programming": "CS250",
+            "Testing": [
+                "CS164",
+                "CS415"
+            ],
+            "Simulation": "CS345",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Development": "CS464",
+            "Data analysis": "CS445",
+            "Measurement techniques": "None",
+            "Validation": "CS356",
+            "System Design": "CS455",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Rust": "None",
+            "Web development": "CS312",
+            "C++": [
+                "CT301",
+                "CS270"
+            ],
+            "Innovation": "CS165",
+            "Prioritization": "CS314",
+            "Power system knowledge": "None",
+            "Modeling and simulation": "None",
+            "Matlab": "None",
+            "Modeling": "None",
+            "SQL": "CS430",
+            "C": [
+                "CT301",
+                "CS270"
+            ],
+            "Simulink": "None",
+            "C#": "CS462",
+            "NoSQL": "None"
+        }
+    },
+    "Tesla_Software_Engineer_Firmware": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Code optimization": "CS420",
+            "Design": "CS314",
+            "Test-driven Development": "CS314",
+            "Automated tests": "CS415",
+            "Software Systems": "CS415",
+            "Real-time embedded environment": "None",
+            "Implementation": "None",
+            "Embedded Software Development": "None",
+            "Debugging": [
+                "CS214",
+                "CS164"
+            ],
+            "System debugging": "None",
+            "Collaboration": "CS415",
+            "Knowledge sharing": "None",
+            "Performance and optimization trade-offs": "CS320",
+            "Embedded systems": "None",
+            "Software Development Tools": "CS214",
+            "Testing/Verification Tools": "CS415",
+            "Programming": "CS250",
+            "Communication": [
+                "CS164",
+                "CS314"
+            ],
+            "Software Development": "CS314",
+            "Assembly Language": "None",
+            "Problem Solving Skills": "CS165",
+            "Fuzzing": "None",
+            "Static Analysis": [
+                "CS314",
+                "CS415"
+            ],
+            "Hardware design": "CS370",
+            "Innovation": "CS165",
+            "robotics": "None",
+            "Algorithm Development": "CS320",
+            "Real-time Controls": "None",
+            "Embedded microprocessor": "None",
+            "Embedded Development": "None",
+            "Software Design": "CS214",
+            "C": [
+                "CT301",
+                "CS270"
+            ]
+        }
+    },
+    "Tesla_Software_Engineer_Recruiting": {
+        "required_skills": {
+            "Design": "CS314",
+            "Golang": "None",
+            "Compute technologies": "CS320",
+            "Performance": "CS320",
+            "Web Applications": [
+                "CS312",
+                "CS314"
+            ],
+            "Collaboration": "CS415",
+            "JavaScript": "CS314",
+            "Code quality": "CS314",
+            "Maintaining software applications": "None",
+            "Optimization": [
+                "CS320",
+                "CS314"
+            ],
+            "Web development": "CS312",
+            "Problem Solving Skills": "CS165",
+            "Vue": "None",
+            "TypeScript": "None",
+            "Design Patterns": [
+                "CS414",
+                "CS314"
+            ],
+            "Creative Solutions": "CS320",
+            "SQL": "CS430",
+            "Enhancing existing functionality": "CS314",
+            "Leadership": "CS314"
+        }
+    },
+    "Yahoo_Frontend_Software_Dev_Engineer": {
+        "required_skills": {
+            "Analytical skills": "CS420",
+            "Design": "CS314",
+            "Python": [
+                "CS220",
+                "CS445",
+                "CS345",
+                "CS320",
+                "CS150"
+            ],
+            "Software Systems": "CS415",
+            "Web Services": "CS370",
+            "Web Applications": [
+                "CS312",
+                "CS314"
+            ],
+            "Collaboration": "CS415",
+            "React.js": "CS314",
+            "Quality focus": "CS165",
+            "Knowledge sharing": "None",
+            "Cross-functional collaboration": "None",
+            "Code Review": "CS415",
+            "Product Management": "None",
+            "System Development": "CS455",
+            "Support Applications": "None",
+            "Development": "CS464",
+            "Efficiency": "CS320",
+            "Data analysis": "CS445",
+            "Team collaboration": "CS415",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Regression Testing": [
+                "CS415"
+            ],
+            "Web development": "CS312",
+            "Problem Solving Skills": "CS165",
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "REST APIs": "CS314",
+            "Innovation": "CS165",
+            "Continuous integration": "None",
+            "Yaml": "None",
+            "TypeScript": "None",
+            "Ad hoc analyses": "None",
+            "Data processing": "CS345",
+            "PHP": "CS312",
+            "HTML": "CS312",
+            "Business operations": "None",
+            "Node.js": "None",
+            "Unit testing": "CS415",
+            "Large-scale systems": "CS435",
+            "CSS": "CS415"
+        }
+    },
+    "Yahoo_Software_Dev_Engineer": {
+        "required_skills": {
+            "Analytical skills": [
+                "CS420",
+                "CS165"
+            ],
+            "Public clouds": [
+                "CS455"
+            ],
+            "Reporting": "None",
+            "Kubernetes": "None",
+            "Collaboration": [
+                "CS314",
+                "CS415"
+            ],
+            "Interpersonal Skills": [
+                "CS164",
+                "CS220"
+            ],
+            "React.js": [
+                "CS314"
+            ],
+            "JavaScript": [
+                "CS314"
+            ],
+            "Performance optimization": [
+                "CS314",
+                "CS420"
+            ],
+            "Cloud computing": [
+                "CS455"
+            ],
+            "Code Review": [
+                "CS415"
+            ],
+            "MongoDB": "None",
+            "Communication": [
+                "CS164"
+            ],
+            "Development": [
+                "CS464",
+                "CS314"
+            ],
+            "Efficiency": "CS320",
+            "Elasticsearch": "None",
+            "Spring Boot": "None",
+            "Teamwork": [
+                "CS440",
+                "CS314"
+            ],
+            "Software Development": "CS314",
+            "Clean Code": [
+                "CS314"
+            ],
+            "Java": [
+                "CS214",
+                "CS164",
+                "CS314",
+                "CS162",
+                "CS165"
+            ],
+            "Problem Solving Skills": "CS165",
+            "Technical leadership": "CS314",
+            "Microservices": "CS312",
+            "Innovation": "CS165",
+            "System architecture": "CS455",
+            "Scala": "CS435",
+            "Coding skills": "CS164",
+            "Database management": "CS430",
+            "Production code": "None",
+            "SQL": "CS430",
+            "Unit testing": "CS415",
+            "Product Decisions": "None",
+            "Apache Druid": "None",
+            "Refactoring": [
+                "CS414",
+                "CS314",
+                "CS214"
+            ],
+            "Large-scale systems": "CS435",
+            "RabbitMQ": "None",
+            "NoSQL": "None"
+        }
+    }
+}
