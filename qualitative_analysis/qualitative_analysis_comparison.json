@@ -1,0 +1,318 @@
+[
+  {
+    "job title": "Amazon_SDE_Cloud",
+    "gt label": 0.6538461538461539
+  },
+  {
+    "job title": "HPE_Research_Engineer",
+    "gt label": 0.5454545454545454
+  },
+  {
+    "job title": "HPE_SW_Engineer_Firmware",
+    "gt label": 0.42857142857142855
+  },
+  {
+    "job title": "Sony_Software_Design_Engineer",
+    "gt label": 0.625
+  },
+  {
+    "job title": "Spotify_Data_Scientist_Audiobooks",
+    "gt label": 0.5517241379310345
+  },
+  {
+    "job title": "Figma_Data_Scientist_Early_Career",
+    "gt label": 0.45
+  },
+  {
+    "job title": "HPE_Cloud_Developer",
+    "gt label": 0.5454545454545454
+  },
+  {
+    "job title": "Adobe_AI_ML_Engineer",
+    "gt label": 0.5483870967741935
+  },
+  {
+    "job title": "Microsoft_Fullstack",
+    "gt label": 0.5416666666666666
+  },
+  {
+    "job title": "Paypal_Platforms_Engineering",
+    "gt label": 0.5777777777777777
+  },
+  {
+    "job title": "Adobe_Software_Solutions_Architect",
+    "gt label": 0.5094339622641509
+  },
+  {
+    "job title": "HPE_Industrial_Engineer",
+    "gt label": 0.75
+  },
+  {
+    "job title": "Meta_Software_Engineer_Frontend",
+    "gt label": 0.6956521739130435
+  },
+  {
+    "job title": "Microsoft_Software_Engineering_Security",
+    "gt label": 0.5434782608695652
+  },
+  {
+    "job title": "Spotify_Backend_Engineer_Data_Platform",
+    "gt label": 0.7916666666666666
+  },
+  {
+    "job title": "Yahoo_Frontend_Software_Dev_Engineer",
+    "gt label": 0.6052631578947368
+  },
+  {
+    "job title": "Apple_SWE_Internal_Tools",
+    "gt label": 0.4864864864864865
+  },
+  {
+    "job title": "HPE_Data_Scientist",
+    "gt label": 0.4444444444444444
+  },
+  {
+    "job title": "HPE_Software_Designer",
+    "gt label": 0.6875
+  },
+  {
+    "job title": "HP_Associate_Software_Developer",
+    "gt label": 0.6666666666666666
+  },
+  {
+    "job title": "OpenAI_Software_Engineering_Applied_Engineering",
+    "gt label": 0.6666666666666666
+  },
+  {
+    "job title": "OpenAI_Software_Engineer_Real_Time",
+    "gt label": 0.6097560975609756
+  },
+  {
+    "job title": "Tesla_Software_Engineer_Recruiting",
+    "gt label": 0.631578947368421
+  },
+  {
+    "job title": "HPE_Experience_Design_Engineer",
+    "gt label": 0.625
+  },
+  {
+    "job title": "HPE_Quality_Assurance_Engineer",
+    "gt label": 0.5714285714285714
+  },
+  {
+    "job title": "HPE_Quality_Engineer",
+    "gt label": 0.4
+  },
+  {
+    "job title": "Meta_Software_Engineer_Android",
+    "gt label": 0.5789473684210527
+  },
+  {
+    "job title": "Paypal_SE_Growths_Market",
+    "gt label": 0.5769230769230769
+  },
+  {
+    "job title": "Spotify_Junior_Backend_Engineer",
+    "gt label": 0.46153846153846156
+  },
+  {
+    "job title": "Tesla_Software_Compliance_Engineer",
+    "gt label": 0.42105263157894735
+  },
+  {
+    "job title": "Adobe_Software_Quality_Engineer",
+    "gt label": 0.55
+  },
+  {
+    "job title": "Amazon_Cloud_Support_Engineer_ETL",
+    "gt label": 0.5263157894736842
+  },
+  {
+    "job title": "Comcast_Software_Engineer_Coop",
+    "gt label": 0.46875
+  },
+  {
+    "job title": "HPE_Electrical_Hardware_Engineer",
+    "gt label": 0.5
+  },
+  {
+    "job title": "HPE_Systems_Software_Engineer",
+    "gt label": 0.5833333333333334
+  },
+  {
+    "job title": "HPE_Test_Engineer",
+    "gt label": 0.7142857142857143
+  },
+  {
+    "job title": "Microsoft_Software_Engineer_AI_ML",
+    "gt label": 0.5094339622641509
+  },
+  {
+    "job title": "Amazon_SDE_AI_ML",
+    "gt label": 0.6785714285714286
+  },
+  {
+    "job title": "Amazon_SDE_Embedded_Dev",
+    "gt label": 0.5862068965517241
+  },
+  {
+    "job title": "Amazon_SDE_I",
+    "gt label": 0.6296296296296297
+  },
+  {
+    "job title": "Google_Software_Engineer_Youtube_Design",
+    "gt label": 0.525
+  },
+  {
+    "job title": "Meta_Software_Engineer",
+    "gt label": 0.5789473684210527
+  },
+  {
+    "job title": "Meta_Software_Engineer_Infrastructure",
+    "gt label": 0.5161290322580645
+  },
+  {
+    "job title": "Apple_Webkit_Engineer",
+    "gt label": 0.5833333333333334
+  },
+  {
+    "job title": "Paypal_Fresh_Grad_SE",
+    "gt label": 0.55
+  },
+  {
+    "job title": "Paypal_Software_Engineer",
+    "gt label": 0.6333333333333333
+  },
+  {
+    "job title": "Adobe_Junior_SDE",
+    "gt label": 0.5714285714285714
+  },
+  {
+    "job title": "Google_UX_Designer",
+    "gt label": 0.55
+  },
+  {
+    "job title": "HPE_Engineering_Program_Manager",
+    "gt label": 0.5833333333333334
+  },
+  {
+    "job title": "Paypal_Android_Engineer",
+    "gt label": 0.5217391304347826
+  },
+  {
+    "job title": "Spotify_Backend_Engineer_Audiobooks",
+    "gt label": 0.5116279069767442
+  },
+  {
+    "job title": "Apple_Software_Engineer_WatchOS",
+    "gt label": 0.5
+  },
+  {
+    "job title": "Figma_Web_Developer",
+    "gt label": 0.41025641025641024
+  },
+  {
+    "job title": "Google_ML_Analyst",
+    "gt label": 0.5161290322580645
+  },
+  {
+    "job title": "Microsoft_Security_Researcher",
+    "gt label": 0.6346153846153846
+  },
+  {
+    "job title": "Netflix_Software_Engineer_Intern",
+    "gt label": 0.37037037037037035
+  },
+  {
+    "job title": "Adobe_Software_Engineering_Intern",
+    "gt label": 0.5238095238095238
+  },
+  {
+    "job title": "HPE_Mechanical_Engineer",
+    "gt label": 0.6
+  },
+  {
+    "job title": "HP_Software_Quality_Engineer",
+    "gt label": 0.5882352941176471
+  },
+  {
+    "job title": "Sony_Blockchain_Developer",
+    "gt label": 0.4883720930232558
+  },
+  {
+    "job title": "Tesla_Software_Engineer_Firmware",
+    "gt label": 0.5151515151515151
+  },
+  {
+    "job title": "HPE_AI_ML_Engineer",
+    "gt label": 0.5882352941176471
+  },
+  {
+    "job title": "HPE_Product_Manager",
+    "gt label": 0.4444444444444444
+  },
+  {
+    "job title": "HPE_VLSI_Engineer",
+    "gt label": 0.6666666666666666
+  },
+  {
+    "job title": "Meta_Software_Engineer_Codesign",
+    "gt label": 0.5555555555555556
+  },
+  {
+    "job title": "Microsoft_Applied_Scientist",
+    "gt label": 0.5294117647058824
+  },
+  {
+    "job title": "Amazon_SDE_Query_Optimization",
+    "gt label": 0.6470588235294118
+  },
+  {
+    "job title": "HPE_Engineer",
+    "gt label": 0.6666666666666666
+  },
+  {
+    "job title": "Amazon_Graduate_Software_Engineer",
+    "gt label": 0.5714285714285714
+  },
+  {
+    "job title": "Amex_Backend_Engineer",
+    "gt label": 0.5294117647058824
+  },
+  {
+    "job title": "Github_Software_Engineer",
+    "gt label": 0.5957446808510638
+  },
+  {
+    "job title": "Github_Software_Engineer_2",
+    "gt label": 0.6041666666666666
+  },
+  {
+    "job title": "HPE_Product_Engineer",
+    "gt label": 0.5714285714285714
+  },
+  {
+    "job title": "Yahoo_Software_Dev_Engineer",
+    "gt label": 0.34210526315789475
+  },
+  {
+    "job title": "Amex_Engineer_Java",
+    "gt label": 0.5918367346938775
+  },
+  {
+    "job title": "Amex_Software_Engineer",
+    "gt label": 0.42592592592592593
+  },
+  {
+    "job title": "Google_ML_Engineer_Silicon",
+    "gt label": 0.68
+  },
+  {
+    "job title": "Meta_Software_Engineer_Computer_Vision",
+    "gt label": 0.7727272727272727
+  },
+  {
+    "job title": "Tesla_Security_Engineer",
+    "gt label": 0.4857142857142857
+  }
+]
