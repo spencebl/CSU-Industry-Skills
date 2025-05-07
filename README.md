@@ -19,14 +19,12 @@ If you don't have the file `.\bert-model\data\bert_training_data.csv`, uncomment
 
 ### Package Installationspip install pandas
 
-Install necessary packages: 
+Install necessary packages:
 
-`pip`: 
+`pip`:
 
-- `transformers`
 - `wandb`
 - `pandas`
-- `datasets`
 - `sentence-transformers`
 
 `conda`:
@@ -37,6 +35,6 @@ Install necessary packages:
 ### Weights and Biases Set-up
 
 Create or log into an account with [Weights & Biases](wandb.ai), to retrieve an API key.
- - Place API key in a txt file named `WANDB_API_KEY.txt`, located at `./dpr-model/WANDB_API_KEY.txt`.
- - Change the `entity` parameter of wandb.init(), within the training function to match your wandb account entity name.
 
+- Place API key in a txt file named `WANDB_API_KEY.txt`, located at `./dpr-model/WANDB_API_KEY.txt`.
+- Change the `entity` parameter of wandb.init(), within the training function to match your wandb account entity name.
