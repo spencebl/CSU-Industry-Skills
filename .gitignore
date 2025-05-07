@@ -387,3 +387,5 @@ bert-model/wandb/run-20250505_151110-uxbd3x10/files/requirements.txt
 bert-model/wandb/run-20250505_151110-uxbd3x10/files/wandb-metadata.json
 bert-model/wandb/run-20250505_151110-uxbd3x10/files/wandb-summary.json
 bert-model/wandb/run-20250505_151110-uxbd3x10/logs/debug-internal.log
+=======
+__pycache__

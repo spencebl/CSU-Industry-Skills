@@ -1,0 +1,698 @@
+Data visualization:CS345
+Resilient systems:CS455
+Benchmarking:CS314
+Estimations:NONE
+C:CT301
+High standards:CS455
+Algorithms:CS320
+Scala:CS435
+Embedded systems:NONE
+Threat Hunts:CS356
+Blockchain:CS458
+Express:NONE
+Microservices:NONE
+Python:CS345
+CircleCI:NONE
+Solution architecture:CS455
+Vulnerability tracking:CS456
+Caching Strategies:CS370
+Iteration:CS165
+Perl:NONE
+Build Systems:CS455
+Performance Improvement:CS320
+Excellent Communication Skills:CS314
+Simulation:CS345
+Exploration:CS164
+Automation:CS320
+Vue:NONE
+Big data:CS435
+Agile methodology:CS415
+Signatures:CS456
+Regression Testing:CS415
+Vulnerability:CS356
+Security tools:CS356
+Real-time Controls:NONE
+Data loading:CS345
+User interface mockups:CS415
+Intelligence Requirements:CS314
+Deadlines:CS314
+Feature Deployments:CS314
+Google Cloud Bigtable:NONE
+Resolution Drive:CS164
+JSON:CS314
+Linux:CS370
+DevOps:NONE
+CAD Software:NONE
+TestRail:CS415
+Automated tests:CS415
+User workflows:CS314
+Enhancing existing functionality:CS314
+Protection:CS356
+Architecture Solutions:CS455
+Efficiency:CS320
+Strong software development skills:CS314
+Next.js:NONE
+Computer Vision Algorithms:CS410
+Service mesh technologies:NONE
+App servers:CS314
+Enterprise Application Monitoring:NONE
+Virtual Desktop Infrastructure:CS370
+multi-tiered systems:CS455
+Artificial Intelligence (AI):CS445
+Test and Deployment automation:CS415
+CI/CD strategy:NONE
+Risk management:CS314
+Reasoning:CS165
+API design:CS314
+Data Engineering:CS445
+Hypothesis Matrix:CS445
+Six Sigma:NONE
+Test Engineering:CS415
+Full stack analysis:CS414
+Android Programming Techniques:NONE
+Wireframes:CS456
+Secure coding standards:CS356
+System uptime management:NONE
+Embedded Software Development:NONE
+Enterprise Architecture:NONE
+Project Management:CS314
+Static Analysis:CS314
+Unix:CS370
+Hash functions:CS165
+Distributed systems:CS455
+data pipelines:CS445
+CloudOps:NONE
+Articulation:CS314
+Process improvement:CS314
+BigQuery:NONE
+workload architectural analysis:NONE
+Research Methodology:CS435
+Methodology Development:CS415
+Quality Experiences:NONE
+non-relational databases:NONE
+Knowledge sharing:NONE
+Product Security:CS356
+Test-driven Development:CS314
+Code building:CS314
+Observability Tools:CS456
+Large scale software applications:NONE
+Encryption:CS356
+Compatibility Testing:CS415
+Servlet containers:NONE
+New product development:CS415
+System Layers:CS370
+Maintainable code:CS314
+Backend Standard Methodologies:NONE
+Google Cloud SQL:NONE
+System architecture:CS455
+Designing Features:CS314
+Governance:CS456
+Data integrity:CS345
+Progress Management:CS314
+Haskell:NONE
+Erlang:NONE
+Logging:CS214
+Crypto currencies:CS458
+Transformative AI Solutions:CS445
+Profiling:NONE
+Analyze Threat Trends:CS356
+Performance and optimization trade-offs:CS320
+Docker:CS370
+Reinforcement learning:CS445
+J2EE:NONE
+Image Processing:CS410
+Strong communication skills:CS164
+Build dependencies:NONE
+Oracle:CS430
+GCP:CS455
+Building Reusable Android Software Components:NONE
+Metrics:CS356
+Regulations:NONE
+Experimentation:CS314
+User Impacts:CS314
+Database Access:CS430
+Critical thinking:CS165
+Designing and building innovative technologies:NONE
+Publications:NONE
+Community Contribution:NONE
+Apache Hive:NONE
+Team collaboration:CS415
+Cloud Technology:CS455
+Analytical skills:CS420
+Embedded environments/protocols:NONE
+Designing Interfaces:CS410
+JavaScript:CS314
+Low latency:CS455
+Pig:NONE
+Quality improvement:CS415
+Compliance:CS456
+ORM tools:NONE
+Agile development:CS214
+XML:CS430
+Adobe Marketo:NONE
+Firmware Development:NONE
+Vision Systems:CS410
+Teamwork:CS440
+Performance Analytics:CS320
+Test cases:CS314
+MySQL:CS430
+JMS:NONE
+Virtual reality:CS462
+Storage Systems:CS370
+Structured Data:CS430
+Web Applications:CS314
+Coding skills:CS164
+PyTorch:CS445
+Test Automation:CS415
+Defensive programming:CS356
+Azure technologies:NONE
+Quality focus:CS165
+Debugging:CS214
+Data exploration:CS440
+Lean-Agile environment:CS314
+Code Creation:CS314
+Data Management Platforms (DMPs):NONE
+Site Reliability Engineering (SRE):NONE
+Public clouds:CS455
+Statistical Knowledge:NONE
+Remediation:NONE
+Version control:CS214
+Web Standards:NONE
+Infrastructure Building:CS455
+Controller (mvc):NONE
+Java:CS164
+Pipelines:CS345
+Organization:CS164
+Testing Workflows:CS165
+UIKit:NONE
+Architectural tradeoffs:NONE
+Software Engineering Practices:CS314
+Malware Analysis:NONE
+Quality orientation:NONE
+GPUs:CS250
+Query optimization:CS430
+Data-driven Research:CS430
+Large Scale Databases:CS430
+Verification:NONE
+Unstructured Data:NONE
+Infrastructure:CS455
+Distributed:CS455
+Job scheduling:CS370
+Creating solutions for distributed systems:CS455
+Operational Impact:NONE
+Leadership:CS314
+Software Engineering:CS314
+Unit testing:CS415
+Data preparation:CS445
+Strategic planning:CS164
+Resilient design patterns:CS455
+REST APIs:CS314
+Speed:CS165
+PHP:CS312
+Scripting:NONE
+System Design:CS455
+GitHub Actions:CS314
+Quality Assurance:CS414
+Solidity:NONE
+Performance Monitoring Tools:CS356
+Mobile Software Experience:NONE
+Bug fixing:CS314
+Game engine development:CS462
+Apache Druid:NONE
+Solution Creation:NONE
+Complexity analysis:CS320
+Troubleshooting:CS220
+Quality control:CS214
+Visual QA:NONE
+AI/ML:CS445
+Assembly Language:NONE
+Front-end frameworks:CS414
+Hardware:CS350
+schema design:NONE
+Runtimes:CS250
+Crypto algorithms:CS458
+Yaml:NONE
+Testing:CS415
+Databases:CS430
+Power quality knowledge:NONE
+Angular:NONE
+Experience with Systems:CS455
+Lean Sigma:NONE
+Strong analytical skills:CS165
+Hibernate:NONE
+HDFS:CS455
+Observability:CS250
+Service Level Objectives:NONE
+Data lake architecture:NONE
+LLMs:CS430
+Threat Analysis:CS456
+High performance:CS455
+CI/CD:NONE
+Media distribution workflows:NONE
+APIs:CS314
+SoC:NONE
+Maintaining software applications:NONE
+Agile software development:CS314
+AR/VR:CS462
+Spring Boot:NONE
+Resource management:CS320
+Application Design:CS415
+Golang:NONE
+Data Quality:CS445
+System Optimization:CS320
+CI/CD methodologies:NONE
+Google BigQuery:NONE
+Communication:CS164
+Security reviews:CS456
+Large-scale infrastructure:CS455
+Research:NONE
+User experience (UX):NONE
+Bayesian networks:CS445
+Simulink:NONE
+Cloud infrastructure:CS455
+Design:CS314
+User insights:CS314
+Fraud Prevention:CS356
+Insights Drawing:CS165
+Threat modeling:CS356
+CICD pipelines:NONE
+Optimization:CS320
+Measurement techniques:NONE
+Testing Methodologies:CS415
+Identifying Dependencies:NONE
+Data Integration:NONE
+Service Monitoring:NONE
+Architecture Design:CS455
+Decision making:CS414
+Service Level Indicators:NONE
+High-quality systems:CS455
+Mobile memory management:NONE
+Active learning:CS164
+Email systems:NONE
+Software Design:NONE
+Crypto Techniques:CS458
+Compute technologies:CS320
+robotics:NONE
+Mobile UI/UX Design:NONE
+Technical Validation:NONE
+Software Development Tools:CS214
+Standards Implementation:NONE
+Objective-C:NONE
+AI and ML accelerators:CS430
+system monitoring tools:CS456
+Security Analysis:CS356
+Data storage:CS430
+System Resources:CS250
+Demand-side Platforms (DSPs):NONE
+Logs:CS214
+Spring Webflux:NONE
+Incident response:NONE
+Event driven micro services architecture:NONE
+HBASE:NONE
+Platform expansion:NONE
+Customer needs:CS314
+Hardware design:CS370
+Service level agreement:NONE
+Prioritization:CS314
+Hadoop ecosystems:CS435
+Product reviews:NONE
+Adobe Experience Manager:NONE
+Risk analysis:NONE
+Building new solutions:CS214
+Time management:CS454
+Operational efficiency:CS420
+SaaS Design Principles:NONE
+Exposure to architectural patterns:NONE
+Quantitative analysis:CS345
+Infrastructure Development:NONE
+API Tests:CS415
+Usability Evaluation:CS314
+Data analysis:CS445
+Operational Responsibility:NONE
+Kernel:CS370
+Ruby:NONE
+Security:CS356
+Mobile technologies:NONE
+Designing across multiple platforms:NONE
+Validation:CS356
+Feedback:NONE
+Hadoop:CS435
+Hyperledger:NONE
+Algorithm Research:CS320
+Scalable architectures:CS455
+Time series:CS445
+Accommodations:NONE
+Multithreading programming:CS370
+Automated security scanning:CS356
+Cloud Engineering:CS455
+Model:CS445
+Responsible AI practices:CS345
+Algorithm Development:CS320
+Machine learning:CS445
+NoSQL:NONE
+Code quality:CS314
+Cryptocurrency:CS458
+Orchestration patterns:NONE
+Data-driven inference methods:NONE
+Shell:NONE
+Security solution design:CS356
+Embedded Development:NONE
+Financial literacy:NONE
+Performance at scale:NONE
+Feature engineering:NONE
+Statistical Analysis System (SAS):NONE
+software debugging skills:CS314
+Application Development:CS314
+Large Scale Computing:CS455
+Gatsby:NONE
+Regulatory Scrutiny:NONE
+AI system design:CS455
+Frontend development:CS314
+EKS:NONE
+Protect tools:CS456
+User Interfaces (UI):CS314
+Product validation:NONE
+Front-end Systems:CS415
+Quality Commitment:NONE
+Cloud architectures:CS455
+Linear Programming:CS420
+Distributed computing:CS455
+Probabilistic graphical models:NONE
+Augmented reality:CS462
+A/B testing:CS415
+Prototyping:NONE
+View:NONE
+Data Mining:CS435
+Abstraction:CS165
+Design Reviews:NONE
+Address Security Issues:NONE
+Customer engagement:NONE
+Reporting:NONE
+Penetration testing:CS456
+Refactoring:CS314
+Inter-process Communication:CS370
+Web Services:CS370
+JIRA:NONE
+Testing Strategies:CS415
+Scheduling:CS370
+Rule Management Systems:NONE
+Content Processing:NONE
+Data Retention:NONE
+macOS:NONR
+Ad hoc analyses:NONE
+TypeScript:NONE
+CPUs:CS370
+Matlab:NONE
+Tooling:NONE
+Continual improvement:NONE
+Transactional Systems:CS430
+Asymmetric key:CS356
+Vert.x:NONE
+Innovative ideas:CS314
+Multi-tenant Systems:NONE
+MemSQL:NONE
+Recommendation Systems:NONE
+Critical feedback:NONE
+OKR planning:NONE
+Build infrastructure:NONE
+Kubernetes:NONE
+Experience with data structures:CS165
+Experience with distributed systems:CS455
+SwiftUI:NONE
+Transform:NONE
+Quality Insights:NONE
+Code Review:CS415
+PostgreSQL:NONE
+Sanitizers:CS456
+Code craftsmanship:CS415
+Development:CS464
+Auditing code:NONE
+Software Quality (SQA/SQC):NONE
+Building media apps:NONE
+Disaster Recovery:NONE
+User behavior prediction:NONE
+Java Frameworks:CS314
+Service Impacts:NONE
+Code/API documentation:CS314
+Clusters:NONE
+Data processing:CS345
+Fault Tolerance:CS455
+Reliability:CS455
+Configuration Management:NONE
+Performance:CS320
+Amazon Web Services (AWS):NONE
+Consistent Development Practices:NONE
+Cloud platforms:CS455
+Maintaining Systems:NONE
+Reusable:CS164
+Operating Systems:CS370
+Kotlin:NONE
+Scientific research:NONE
+Clean Code:CS314
+Support Applications:NONE
+Security Policies:CS456
+Statistical Modeling:CS445
+System functionality:CS455
+Full stack development:CS415
+MongoDB:NONE
+Interpersonal Skills:CS220
+Relational databases:CS430
+R:NONE
+Modeling:NONE
+Maven:CS314
+Innovation:CS165
+async/event-based:NONE
+Systemic Security Issues:CS356
+Load (ETL):NONE
+Real-time embedded environment:NONE
+Product Decisions:NONE
+Content Engineering:NONE
+Documentation:CS314
+Statistical methods and models:NONE
+Tableau:NONE
+Firestore:NONE
+Cross-functional collaboration:NONE
+Conversion rate optimization:NONE
+Natural language processing (NLP):CS430
+Platform Governance:NONE
+Real-time Monitoring:NONE
+Actionable Insights:NONE
+Implementation:NONE
+Creating new products:NONE
+Consistency:CS455
+Telemetry:NONE
+Networking:CS457
+System Interaction:CS455
+System debugging:NONE
+Trend Identification:NONE
+Embedded microprocessor:NONE
+Visual Dashboards:NONE
+Algorithm design:CS320
+Software Compilation:CS214
+Mentorship:NONE
+Building large-scale infrastructure applications:NONE
+Statistics Generation:NONE
+Digital Technology Platforms:NONE
+Shift Quality:NONE
+Packaging Software:NONE
+Statistical Analysis:CS345
+Contribution:CS314
+UNIX system administration:NONE
+Secure architecture design:NONE
+Continuous improvement (CI):NONE
+Web Debugging Tools:NONE
+Distributed storage:CS435
+Deployment practices:NONE
+Accountability:CS457
+SVN:NONE
+Design Documentation:CS314
+Autonomy:CS220
+Ambiguity Management:NONE
+Statistics:CS345
+Privacy:NONE
+Performance optimization:CS420
+Strong Quantitative Skills:CS445
+Payment Processing Industry Knowledge:NONE
+CI systems:NONE
+roadmapping:NONE
+Apache Spark:CS435
+Actionable Intelligence:NONE
+Query Analysis:CS430
+Availability:CS455
+AppKit:NONE
+Git:CS214
+Improvement:CS314
+Hardware development:CS370
+Software Development Lifecycle:CS314
+Effective Communication:CS165
+Malicious Activity Detection:NONE
+Ethereum:CS458
+Modeling and simulation:NONE
+Bash:NONE
+Node.js:NONE
+Evaluation:NONE
+Database management:CS430
+Product Advancements:NONE
+Computer Vision:CS410
+Programming:CS250
+Extract:NONE
+Magento:NONE
+Agile environment:CS314
+Electronic Design:NONE
+Adobe Cloud Solutions:NONE
+React.js:CS314
+Continuous development:NONE
+JDBC/ORM:CS314
+Competing priorities:CS415
+Software architecture:CS414
+Modernization:NONE
+Large-scale system design:NONE
+OOP/Func Paradigms:NONE
+Object-oriented design:CS164
+ML rigor:NONE
+Collaboration:CS415
+Presentation skills:CS457
+Cross-channel Communications:NONE
+Threat Reporting:CS356
+Routers:NONE
+Open source tools:NONE
+Software Solutions:NONE
+Business operations:NONE
+Test Planning:CS415
+System behavior insights:NONE
+User acquisition:NONE
+Scalability:CS455
+Design and development methodologies:CS455
+Summarization Skills:NONE
+Nonlinear Optimization:CS420
+Forecasting:NONE
+Large-Scale Product Development:NONE
+Cloud computing:CS455
+Software testing:CS415
+CRM systems:NONE
+Compilers:CS250
+Predictive Analytics:NONE
+Feedback Integration:NONE
+Software engineering quality:NONE
+Data Validation:NONE
+Experience with design tools:NONE
+Information retrieval:NONE
+Parallel Execution Engine:NONE
+Spring:NONE
+Manual Testing:CS415
+C#:CS462
+Software Frameworks:CS164
+Cloud Data Warehouse:NONE
+Compatibility:NONE
+Cross-Device Tracking platforms:NONE
+Source code auditing:NONE
+Continuous Delivery (CD):NONE
+Accessibility:NONE
+User interface development:NONE
+Performance and Scalability:NONE
+Cloud Identity TTPs:NONE
+end-to-end design:NONE
+Signature Detection:CS456
+Problem Solving Skills:CS165
+Financial infrastructure:NONE
+Advanced Troubleshooting Techniques:CS415
+Key Performance Metrics:NONE
+Design Patterns:CS314
+Data structures:CS165
+Terraform:NONE
+ECS:NONE
+Software Systems:CS415
+SIL/HIL/Integration testing:NONE
+Cybersecurity:CS456
+Generative AI:CS430
+Code optimization:CS420
+Containerization:CS370
+Evaluate Experiments:NONE
+Requirements gathering:CS415
+Stakeholder Management:NONE
+User safety:NONE
+RabbitMQ:NONE
+Continuous integration:NONE
+Symmetric key:CS356
+User-centered design:NONE
+Creative Problem Solving:CS165
+Timely resolution:CS314
+Product adoption:NONE
+Monitoring:NONE
+Statistical Techniques:NONE
+Safety:NONE
+Multi-modal models:NONE
+Business Skills:NONE
+Algorithmic Expertise:CS320
+Technical leadership:CS314
+C++:CT301
+GitHub:CS214
+Creative Solutions:CS320
+Experience with algorithms:CS320
+Large-scale systems:CS435
+Multitasking:CS370
+User Interface Components:NONE
+Fuzzing:NONE
+Design Discussions:NONE
+Content Strategy:NONE
+Deep learning:CS430
+Blockchain/Crypto:CS458
+Experience with mobile UI/UX design:NONE
+SPSS:NONE
+ProductioN code:NONE
+Deployment:NONE
+Infrastructure as code (IaC):NONE
+Software Development:CS314
+Jenkins:NONE
+End-to-End Tests:CS415
+Threat Actor TTPs:CS456
+Planning:NONE
+CSS:CS415
+Privacy-Preserving Features:NONE
+Performance engineering:NONE
+Testing/Verification Tools:CS415
+System Development:CS455
+Backend development:CS314
+SecOps:NONE
+Web development:CS312
+Rust:NONE
+Security Domain:NONE
+GraphQL:NONE
+Android native languages:NONE
+Innovative technologies:CS415
+Cloud environments:CS455
+ML models:CS445
+Cryptography:CS458
+Integration Tests:CS415
+Data Science:CS345
+Amazon Redshift:NONE
+Product Management:NONE
+Supply-chain validation:NONE
+mobile app development:NONE
+HTML:CS312
+Analyzing Workflow:NONE
+Building complex applications targeting Android:NONE
+Deployment Pipelines:NONE
+TDD:CS314
+Cutting edge technology:CS455
+SLMs:NONE
+CFNetwork:NONE
+Quality work:NONE
+Power system knowledge:NONE
+Technical articulation:NONE
+Security Protocols:NONE
+Adobe Commerce:NONE
+SQL:CS430
+Performance Debugging:NONE
+File systems:CS370
+Data management:CS345
+Innovative Engineers:CS164
+Develop automated systems:NONE
+Identifying bottlenecks:NONE
+Exploratory Data Analysis (EDA):NONE
+Distributed consensus methodologies:CS455
+Backend services:CS314
+Systems programming:NONE
+Elasticsearch:NONE
+Product development:NONE
+Code Contribution:CS314
