@@ -47,11 +47,13 @@ This directory contains both a `csv` and `xlsx` prepresentation of each course n
 ```
 CS455,Abstraction,Algorithms Underpinning P2P Sys...
 ```
-### DRAWIO-TEXT
-This was the landing space for converting the Atlat TI exported data into readable text files to be sent to DrawIO to create visual graph representation. 
 ### INDUSTRY-CODES
 This is similar to `CSU-CODES` but it is associated with the industry jobs instead of CSU CS corses.
+
+### DRAWIO-TEXT
+This was the landing space for converting the Atlat TI exported data into readable text files to be sent to DrawIO to create visual graph representation. 
+
 ### LIB
-This is the brains of the conversion. `exel_to_csv.go` will convert the xlsx files exported from Atlas TI and will convert them into CSVs (better for applying pandas to them). Also `draw_io_converter.ipynd` will convert each CSV file to a readable text file that drawio's API can convert from a text to a visual graph.
+This is the brains of the conversion. `exel_to_csv.go` will convert the xlsx files in `data` directory, exported from Atlas TI, and will convert them into CSVs (better for applying pandas to them). Also `draw_io_converter.ipynd` will convert each CSV file to a readable text file that drawio's API can convert from a text to a visual graph.
 Secondly, `go.mod` and `go.sum` were used in the go file `exel_to_csv.go`.
 
