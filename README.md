@@ -19,14 +19,12 @@ If you don't have the file `.\bert-model\data\bert_training_data.csv`, uncomment
 
 ### Package Installationspip install pandas
 
-Install necessary packages: 
+Install necessary packages:
 
-`pip`: 
+`pip`:
 
-- `transformers`
 - `wandb`
 - `pandas`
-- `datasets`
 - `sentence-transformers`
 
 `conda`:
@@ -37,8 +35,9 @@ Install necessary packages:
 ### Weights and Biases Set-up
 
 Create or log into an account with [Weights & Biases](wandb.ai), to retrieve an API key.
- - Place API key in a txt file named `WANDB_API_KEY.txt`, located at `./dpr-model/WANDB_API_KEY.txt`.
- - Change the `entity` parameter of wandb.init(), within the training function to match your wandb account entity name.
+
+- Place API key in a txt file named `WANDB_API_KEY.txt`, located at `./dpr-model/WANDB_API_KEY.txt`.
+- Change the `entity` parameter of wandb.init(), within the training function to match your wandb account entity name.
 
 ## Directory Descriptions
 Due to the limitation of Github, we were unable to upload our Atlas TI projects into this repository. Some of the code in this repo are associated with converting text files to CSVs for `DrawIO`.  
@@ -56,4 +55,3 @@ This was the landing space for converting the Atlat TI exported data into readab
 ### LIB
 This is the brains of the conversion. `exel_to_csv.go` will convert the xlsx files in `data` directory, exported from Atlas TI, and will convert them into CSVs (better for applying pandas to them). Also `draw_io_converter.ipynd` will convert each CSV file to a readable text file that drawio's API can convert from a text to a visual graph.
 Secondly, `go.mod` and `go.sum` were used in the go file `exel_to_csv.go`.
-
